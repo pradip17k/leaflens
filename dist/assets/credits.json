@@ -1,0 +1,29 @@
+[
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage — Mohanty, Hughes and Salathé",
+    "key": "healthy",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___healthy/000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL%20Leaf%20259.1.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___healthy/000146ff-92a4-4db6-90ad-8fce2ae4fddd___GH_HL%20Leaf%20259.1.JPG"
+  },
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage — Mohanty, Hughes and Salathé",
+    "key": "early",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___Early_blight/0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B%208389.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___Early_blight/0012b9d2-2130-4a06-a834-b1f3af34f57e___RS_Erly.B%208389.JPG"
+  },
+  {
+    "license": "CC BY-SA 3.0",
+    "credit": "PlantVillage — Mohanty, Hughes and Salathé",
+    "key": "septoria",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "modifications": "None; displayed at different sizes",
+    "download": "https://raw.githubusercontent.com/spMohanty/PlantVillage-Dataset/master/raw/color/Tomato___Septoria_leaf_spot/002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG%201831.JPG",
+    "source": "https://github.com/spMohanty/PlantVillage-Dataset/blob/master/raw/color/Tomato___Septoria_leaf_spot/002533c1-722b-44e5-9d2e-91f7747b2543___Keller.St_CG%201831.JPG"
+  }
+]
