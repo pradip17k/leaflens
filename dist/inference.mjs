@@ -1,4 +1,4 @@
-let pending;
+const pending=new Map();
 // Separable, antialiased bilinear resize using Pillow's 22-bit coefficient rounding.
 // Matching training preprocessing avoids browser-specific canvas downsampling.
 export function resizeRGB(rgba,width,height,size){
@@ -31,32 +31,34 @@ export function interpret(logits,metadata,crop){
   if(logits.length!==metadata.classes.length)throw Error('Model class order does not match its output.');
   const probabilities=calibratedProbabilities(logits,metadata.temperature);
   const index=probabilities.indexOf(Math.max(...probabilities));
-  const label=metadata.classes[index], mismatch=!label.startsWith(crop+'_');
+  const label=metadata.classes[index], mismatch=!label.startsWith(crop+'_'), unsupported=label==='unsupported';
   return {label,confidence:probabilities[index],probabilities,classes:metadata.classes,
     accepted:!mismatch&&probabilities[index]>=metadata.threshold,
-    reason:mismatch?'The predicted crop differs from your selection. Confirm the crop and retake the photo.':probabilities[index]<metadata.threshold?'The model is uncertain. Retake the photo or ask an agricultural specialist.':'This is a model prediction, not a confirmed diagnosis.',
+    reason:unsupported?'This image resembles conditions outside this model’s supported classes. No disease result is accepted.':mismatch?'The predicted crop differs from your selection. Confirm the crop and retake the photo.':probabilities[index]<metadata.threshold?'The model is uncertain. Retake the photo or ask an agricultural specialist.':'This is a model prediction, not a confirmed diagnosis.',
     model:metadata.architecture,version:metadata.version,threshold:metadata.threshold};
 }
-async function load(){
-  if(!pending)pending=(async()=>{
+async function load(version='v1'){
+  if(!['v1','v2'].includes(version))throw Error('Unknown model version.');
+  const directory=version==='v2'?'model-v2':'model';
+  if(!pending.has(version))pending.set(version,(async()=>{
     const ort=await import('./vendor/ort.wasm.min.mjs');
     ort.env.wasm.numThreads=1;
     ort.env.wasm.wasmPaths=new URL('./vendor/',import.meta.url).href;
-    const response=await fetch(new URL('./model/metadata.json',import.meta.url));
+    const response=await fetch(new URL(`./${directory}/metadata.json`,import.meta.url));
     if(!response.ok)throw Error('The model metadata could not be loaded.');
     const metadata=await response.json();
-    const weights=await fetch(new URL('./model/leaflens.onnx',import.meta.url));
+    const weights=await fetch(new URL(`./${directory}/leaflens.onnx`,import.meta.url));
     if(!weights.ok)throw Error('The model file could not be loaded.');
     const bytes=await weights.arrayBuffer();
     const digest=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',bytes)),x=>x.toString(16).padStart(2,'0')).join('');
     if(digest!==metadata.sha256)throw Error('Model integrity check failed. Reload the website.');
     const session=await ort.InferenceSession.create(bytes,{executionProviders:['wasm']});
     return {ort,session,metadata};
-  })().catch(error=>{pending=null;throw error;});
-  return pending;
+  })().catch(error=>{pending.delete(version);throw error;}));
+  return pending.get(version);
 }
-export async function predict(imageURL,crop){
-  const {ort,session,metadata}=await load();
+export async function predict(imageURL,crop,version='v1'){
+  const {ort,session,metadata}=await load(version);
   const image=new Image();image.src=imageURL;await image.decode();
   const n=metadata.image_size,canvas=document.createElement('canvas');canvas.width=image.naturalWidth;canvas.height=image.naturalHeight;
   const context=canvas.getContext('2d',{willReadFrequently:true});

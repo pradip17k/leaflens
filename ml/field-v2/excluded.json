@@ -1,0 +1,145 @@
+[
+  {
+    "source": "PlantDoc",
+    "label": "potato_early",
+    "source_class": "Potato leaf early blight",
+    "git_sha": "4a784daa443150b7ec34ca6ea2d22ed1e82279a7",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20early%20blight/irish-blight-symptoms-on-potato-leaves-atmf8b.jpg",
+    "path": "data/field-v2/4a784daa443150b7ec34ca6ea2d22ed1e82279a7.image",
+    "sha256": "9dd93b4217495fbb725cfdded86d3dc5f98955c9616fff5323be1a00df17be8b",
+    "pixel_sha256": "0395f8206a71a10c3e5bc0161cc94a0bd21aaab0b0adfe340ac08e1ade32e4bb",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "unsupported",
+    "source_class": "Tomato leaf late blight",
+    "git_sha": "5871135872e34bc1224e082137c1de844fcbc819",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf%20late%20blight/20150619d.jpg",
+    "path": "data/field-v2/5871135872e34bc1224e082137c1de844fcbc819.image",
+    "sha256": "04ff0d731573d592c97f73cd2219800dcc9b4e7337c8ed90de2ec2374013a9fa",
+    "pixel_sha256": "98631fa5ac543669c5d37fcd3b4611ef2b6c4190f22ea643a6310feb7443515d",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "tomato_septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "git_sha": "5c33c893f4900ef20ea0cca97c5355f0eb2c997d",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20Septoria%20leaf%20spot/tomato_V8.jpg",
+    "path": "data/field-v2/5c33c893f4900ef20ea0cca97c5355f0eb2c997d.image",
+    "sha256": "e23a29c94b58aac28e92f57f95eb6f53e99c874323cb2b90ebd327085721574e",
+    "pixel_sha256": "42172c0701d01f13607828f9abd860e551d8777966c0523e1655b2037022a306",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "unsupported",
+    "source_class": "Tomato leaf yellow virus",
+    "git_sha": "6366c3065968ad3077f39cac3a3f16a7975ffc22",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20leaf%20yellow%20virus/tylcv-seminar-1-638.jpg",
+    "path": "data/field-v2/6366c3065968ad3077f39cac3a3f16a7975ffc22.image",
+    "sha256": "3c52144e19e95cc3d4170407eaf729d0981b934615eaa183f7f5aa29d8ef265a",
+    "pixel_sha256": "f54dc8a3ee76a65073e9d3f573f229a37591e80aee3a218c71d75ceac2c85112",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "unsupported",
+    "source_class": "Tomato mold leaf",
+    "git_sha": "a0e2b7aac495867b4dc0d515237f1deea23ad6e8",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20mold%20leaf/tylc.jpg",
+    "path": "data/field-v2/a0e2b7aac495867b4dc0d515237f1deea23ad6e8.image",
+    "sha256": "2ddeade403628874b112f319b8f0114863b3e34a89b7582cb648d9b08477fcc8",
+    "pixel_sha256": "fcba0db5f64b5798a55bf451b416dc34ecb5c0d3d732d73af322d6237629e8d3",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "tomato_early",
+    "source_class": "Tomato Early blight leaf",
+    "git_sha": "b078bdcc9b4dce66c1144d641476056a3727702b",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20Early%20blight%20leaf/earlyblightpotato.jpg",
+    "path": "data/field-v2/b078bdcc9b4dce66c1144d641476056a3727702b.image",
+    "sha256": "d0c8a4d48ed9a3f9435d1affb82ac10e9a06adb0f2615ff62e83e21bdfa281fc",
+    "pixel_sha256": "740d24a5cff123b3f928ee4cadc61c9066e32dd0cb1f41db9e17ec3219f33c42",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "potato_early",
+    "source_class": "Potato leaf early blight",
+    "git_sha": "b4b700e15327c1669a7c8f99cce90b0c92db2752",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20early%20blight/1421_0.jpeg%3Fitok%3DFMtmgePj.jpg",
+    "path": "data/field-v2/b4b700e15327c1669a7c8f99cce90b0c92db2752.image",
+    "sha256": "c53ad8d40c38debfbc0b79a87d0f3649c20b933a65f5b78a6931f59d06aad498",
+    "pixel_sha256": "b744f0b2ab6bf51bdd87735e5ccec4adb7e27015cb9c43c261b3a62dee5cfa9a",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "potato_early",
+    "source_class": "Potato leaf early blight",
+    "git_sha": "b8bac1fffec44342e936c2255370e959f0ace5d9",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20early%20blight/5816740026_d42ef24413_Phytophthora-Infestans.jpg",
+    "path": "data/field-v2/b8bac1fffec44342e936c2255370e959f0ace5d9.image",
+    "sha256": "a981ee59e5e1dcafd0d225f74369a05969200352c17743318c31987083ab6f4c",
+    "pixel_sha256": "61489f3bbdca33335941cf18f70ac2449398790ef0bba8b190bdbb282fa716f1",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "potato_early",
+    "source_class": "Potato leaf early blight",
+    "git_sha": "b9752e9d9aeb6442ce07cace33c3437765d0624b",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20early%20blight/early-blight-closeup-NCSU.jpg",
+    "path": "data/field-v2/b9752e9d9aeb6442ce07cace33c3437765d0624b.image",
+    "sha256": "e81e3a070908de5a356b6a7b503744c3f6db9abdb95f32694631ac95ba96f583",
+    "pixel_sha256": "2bee45bf4a0aaeb0628b482f63674c2c3aef8891ab83e9d997ea4536ea5dab33",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "tomato_septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "git_sha": "bd932719bc85d0aa9a8171cb454ee18de6f8b5a6",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20Septoria%20leaf%20spot/gray-leaf-spot.jpg",
+    "path": "data/field-v2/bd932719bc85d0aa9a8171cb454ee18de6f8b5a6.image",
+    "sha256": "30489d7ecc6cea95f58ffc7e286aba175a38b1c11ca4cc521bb17e667f9356b3",
+    "pixel_sha256": "c722344b7d0e6a2f17ba0adfbc4d2b14b4107dac1e1e1abbef9f3939bf7ec273",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "potato_late",
+    "source_class": "Potato leaf late blight",
+    "git_sha": "c2f8226d59d42f4cfa9e550d4b3338121a52c1b6",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20late%20blight/backus-056-potato-blight.jpg",
+    "path": "data/field-v2/c2f8226d59d42f4cfa9e550d4b3338121a52c1b6.image",
+    "sha256": "64c0f7b5701e815769bad881c0834ffb3b58018233fc3af42c3a1b7968f86973",
+    "pixel_sha256": "98e706e4d4ae945947f956ad1b00c3072aaa7607129db23f996e37318f1d01c4",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "tomato_septoria",
+    "source_class": "Tomato Septoria leaf spot",
+    "git_sha": "c7a35ed2180c3caa49af1bc00f9a3a773bc82201",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Tomato%20Septoria%20leaf%20spot/early-blight-septoria-ls-fig-3.jpg",
+    "path": "data/field-v2/c7a35ed2180c3caa49af1bc00f9a3a773bc82201.image",
+    "sha256": "93c989d8551209bf34d4002ee9fae48ddbf6ab66fc3c27466c0473bcc7c0a2b7",
+    "pixel_sha256": "ea49e8e36188874da9036fc8760e3d96ebbdd62a981192df89ac8ac5e1989b44",
+    "reason": "exact_pixel_duplicate"
+  },
+  {
+    "source": "PlantDoc",
+    "label": "potato_late",
+    "source_class": "Potato leaf late blight",
+    "git_sha": "e71577ae4af35f6f649763b86b4a980159aaa83f",
+    "url": "https://raw.githubusercontent.com/pratikkayal/PlantDoc-Dataset/5467f6012d78d1c446145d5f582da6096f852ae8/train/Potato%20leaf%20late%20blight/24064_1.jpg",
+    "path": "data/field-v2/e71577ae4af35f6f649763b86b4a980159aaa83f.image",
+    "sha256": "e5f14a70fc7a687a5846749d5499872c7c3320e81aea1358e481f7100b7ba242",
+    "pixel_sha256": "80bd69415e42263deec61649238925c7056500e6000a4116e33b6085befe1d09",
+    "reason": "exact_pixel_duplicate"
+  }
+]

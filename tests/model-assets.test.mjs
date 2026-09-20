@@ -19,3 +19,16 @@ test('published metrics agree with independently recalculated prediction pairs',
   assert.equal(actual.count,metrics.count);assert.deepEqual(actual.matrix,metrics.confusion_matrix);
   for(const [a,b] of [['accuracy','accuracy'],['precision','macro_precision'],['recall','macro_recall'],['f1','macro_f1']])assert.ok(Math.abs(actual[a]-metrics[b])<1e-10);
 });
+
+test('experimental model has separate integrity, class order and development-only metrics',()=>{
+  const metadata=JSON.parse(readFileSync(new URL('../dist/model-v2/metadata.json',import.meta.url)));
+  const bytes=readFileSync(new URL('../dist/model-v2/leaflens.onnx',import.meta.url));
+  const metrics=JSON.parse(readFileSync(new URL('../dist/model-v2/validation_metrics.json',import.meta.url)));
+  assert.deepEqual(metadata.classes,[...MODEL_LABELS,'tomato_mite_damage','unsupported']);
+  assert.equal(createHash('sha256').update(bytes).digest('hex'),metadata.sha256);
+  assert.equal(bytes.length,metadata.model_bytes);
+  assert.equal(metadata.field_validated,false);
+  assert.equal(metrics.test_evaluated,false);
+  assert.equal(metrics.split,'development_validation');
+  assert.equal(metrics.confusion_matrix.flat().reduce((a,b)=>a+b,0),metrics.count);
+});

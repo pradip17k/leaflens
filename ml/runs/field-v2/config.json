@@ -1,0 +1,33 @@
+{
+  "classes": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight",
+    "tomato_mite_damage",
+    "unsupported"
+  ],
+  "seed": 26132,
+  "image_size": 128,
+  "source_counts": {
+    "PlantVillage": 5465,
+    "PlantDoc": 2094,
+    "CIFAR10": 0
+  },
+  "nonleaf_training_included": false,
+  "selection": "Maximum macro F1 on combined development validation; no test evaluation",
+  "augmentation": "Original plus horizontal flip with deterministic brightness/contrast variation",
+  "architecture": "ImageNet MobileNetV2 frozen features; trained linear 11-class head",
+  "field_manifest_sha256": "326632904ea3eb9085014c6733f194a25e52a4aa4fc66b672ba7e2bfee2dba72",
+  "limitations": [
+    "Image-level development split; near-duplicate/source overlap not ruled out.",
+    "Unsupported means other PlantDoc classes, not a validated non-leaf detector.",
+    "Spider-mite class means leaf damage appearance, not insect identification.",
+    "No new untouched field test set or expert-confirmed labels."
+  ]
+}

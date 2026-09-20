@@ -2,6 +2,7 @@ export const LABELS = ['healthy', 'early', 'septoria'];
 export const CLASS_NAMES = {healthy:'Healthy leaf',early:'Early blight',septoria:'Septoria leaf spot'};
 export const MODEL_LABELS=['tomato_healthy','tomato_early','tomato_septoria','potato_healthy','potato_early','potato_late','maize_healthy','maize_rust','maize_northern_blight'];
 Object.assign(CLASS_NAMES,{tomato_healthy:'Tomato · Healthy',tomato_early:'Tomato · Early blight',tomato_septoria:'Tomato · Septoria',potato_healthy:'Potato · Healthy',potato_early:'Potato · Early blight',potato_late:'Potato · Late blight',maize_healthy:'Maize · Healthy',maize_rust:'Maize · Common rust',maize_northern_blight:'Maize · Northern blight'});
+Object.assign(CLASS_NAMES,{tomato_mite_damage:'Tomato · Spider-mite damage (experimental)',unsupported:'Unsupported condition'});
 export function validateImageFile(file) {
   if (!['image/jpeg','image/png','image/webp'].includes(file.type)) throw Error('Choose a JPG, PNG or WebP image.');
   if (!file.size) throw Error('This file is empty. Choose another image.');

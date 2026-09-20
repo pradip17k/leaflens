@@ -1,0 +1,38 @@
+{
+  "counts": {
+    "PlantDoc/potato_early/train": 94,
+    "PlantVillage/tomato_mite_damage/train": 1357,
+    "PlantVillage/tomato_mite_damage/validation": 319,
+    "PlantDoc/tomato_early/train": 68,
+    "PlantDoc/unsupported/train": 1247,
+    "PlantDoc/maize_rust/train": 85,
+    "PlantDoc/unsupported/validation": 324,
+    "PlantDoc/tomato_early/validation": 10,
+    "PlantDoc/potato_late/train": 73,
+    "PlantDoc/potato_early/validation": 11,
+    "PlantDoc/tomato_septoria/train": 112,
+    "PlantDoc/tomato_septoria/validation": 25,
+    "PlantDoc/maize_rust/validation": 21,
+    "PlantDoc/potato_late/validation": 22,
+    "PlantDoc/tomato_mite_damage/train": 2
+  },
+  "excluded": 13,
+  "limitations": [
+    "Image-level development split; near-duplicate/source overlap not ruled out.",
+    "Unsupported means other PlantDoc classes, not a validated non-leaf detector.",
+    "Spider-mite class means leaf damage appearance, not insect identification.",
+    "No new untouched field test set or expert-confirmed labels."
+  ],
+  "sources": [
+    {
+      "repository": "pratikkayal/PlantDoc-Dataset",
+      "revision": "5467f6012d78d1c446145d5f582da6096f852ae8",
+      "license": "CC BY 4.0"
+    },
+    {
+      "repository": "spMohanty/PlantVillage-Dataset",
+      "revision": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+      "license": "CC BY-SA 3.0"
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "count": 2017,
+  "accuracy": 0.9236489836390679,
+  "macro_precision": 0.9242776163592699,
+  "macro_recall": 0.9224141367602902,
+  "macro_f1": 0.9225073094157895,
+  "per_class": [
+    {
+      "label": "tomato_healthy",
+      "support": 152,
+      "precision": 0.9586206896551724,
+      "recall": 0.9144736842105263,
+      "f1": 0.936026936026936
+    },
+    {
+      "label": "tomato_early",
+      "support": 161,
+      "precision": 0.9295774647887324,
+      "recall": 0.8198757763975155,
+      "f1": 0.8712871287128713
+    },
+    {
+      "label": "tomato_septoria",
+      "support": 177,
+      "precision": 0.8620689655172413,
+      "recall": 0.847457627118644,
+      "f1": 0.8547008547008546
+    },
+    {
+      "label": "potato_healthy",
+      "support": 24,
+      "precision": 0.8518518518518519,
+      "recall": 0.9583333333333334,
+      "f1": 0.9019607843137256
+    },
+    {
+      "label": "potato_early",
+      "support": 163,
+      "precision": 0.9423076923076923,
+      "recall": 0.901840490797546,
+      "f1": 0.9216300940438872
+    },
+    {
+      "label": "potato_late",
+      "support": 174,
+      "precision": 0.8771929824561403,
+      "recall": 0.8620689655172413,
+      "f1": 0.8695652173913043
+    },
+    {
+      "label": "maize_healthy",
+      "support": 175,
+      "precision": 0.9942857142857143,
+      "recall": 0.9942857142857143,
+      "f1": 0.9942857142857143
+    },
+    {
+      "label": "maize_rust",
+      "support": 200,
+      "precision": 0.97,
+      "recall": 0.97,
+      "f1": 0.97
+    },
+    {
+      "label": "maize_northern_blight",
+      "support": 148,
+      "precision": 0.9931972789115646,
+      "recall": 0.9864864864864865,
+      "f1": 0.9898305084745763
+    },
+    {
+      "label": "tomato_mite_damage",
+      "support": 319,
+      "precision": 0.9181286549707602,
+      "recall": 0.9843260188087775,
+      "f1": 0.9500756429652043
+    },
+    {
+      "label": "unsupported",
+      "support": 324,
+      "precision": 0.8698224852071006,
+      "recall": 0.9074074074074074,
+      "f1": 0.8882175226586102
+    }
+  ],
+  "confusion_matrix": [
+    [
+      139,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      13,
+      0
+    ],
+    [
+      2,
+      132,
+      12,
+      0,
+      2,
+      5,
+      0,
+      0,
+      0,
+      4,
+      4
+    ],
+    [
+      0,
+      5,
+      150,
+      0,
+      2,
+      1,
+      0,
+      0,
+      0,
+      5,
+      14
+    ],
+    [
+      0,
+      0,
+      0,
+      23,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0
+    ],
+    [
+      3,
+      0,
+      1,
+      0,
+      147,
+      4,
+      0,
+      1,
+      0,
+      1,
+      6
+    ],
+    [
+      0,
+      1,
+      0,
+      4,
+      2,
+      150,
+      0,
+      0,
+      0,
+      2,
+      15
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      174,
+      1,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      194,
+      1,
+      0,
+      4
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      146,
+      0,
+      1
+    ],
+    [
+      1,
+      1,
+      3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      314,
+      0
+    ],
+    [
+      0,
+      3,
+      8,
+      0,
+      3,
+      11,
+      0,
+      3,
+      0,
+      2,
+      294
+    ]
+  ],
+  "class_order": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight",
+    "tomato_mite_damage",
+    "unsupported"
+  ],
+  "by_source": {
+    "PlantDoc": {
+      "count": 413,
+      "accuracy": 0.7941888619854721,
+      "macro_precision": 0.270477329687856,
+      "macro_recall": 0.24018540382176745,
+      "macro_f1": 0.2531696307641777,
+      "per_class": [
+        {
+          "label": "tomato_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "tomato_early",
+          "support": 10,
+          "precision": 0.42857142857142855,
+          "recall": 0.3,
+          "f1": 0.3529411764705882
+        },
+        {
+          "label": "tomato_septoria",
+          "support": 25,
+          "precision": 0.47619047619047616,
+          "recall": 0.4,
+          "f1": 0.43478260869565216
+        },
+        {
+          "label": "potato_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "potato_early",
+          "support": 11,
+          "precision": 0.14285714285714285,
+          "recall": 0.09090909090909091,
+          "f1": 0.1111111111111111
+        },
+        {
+          "label": "potato_late",
+          "support": 22,
+          "precision": 0.21052631578947367,
+          "recall": 0.18181818181818182,
+          "f1": 0.1951219512195122
+        },
+        {
+          "label": "maize_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "maize_rust",
+          "support": 21,
+          "precision": 0.8421052631578947,
+          "recall": 0.7619047619047619,
+          "f1": 0.8
+        },
+        {
+          "label": "maize_northern_blight",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "tomato_mite_damage",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "unsupported",
+          "support": 324,
+          "precision": 0.875,
+          "recall": 0.9074074074074074,
+          "f1": 0.8909090909090909
+        }
+      ],
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          2,
+          0,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          4
+        ],
+        [
+          0,
+          0,
+          10,
+          0,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          14
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          1,
+          0,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0,
+          6
+        ],
+        [
+          0,
+          1,
+          0,
+          0,
+          2,
+          4,
+          0,
+          0,
+          0,
+          0,
+          15
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          16,
+          1,
+          0,
+          3
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          3,
+          8,
+          0,
+          3,
+          11,
+          0,
+          3,
+          0,
+          2,
+          294
+        ]
+      ],
+      "class_order": [
+        "tomato_healthy",
+        "tomato_early",
+        "tomato_septoria",
+        "potato_healthy",
+        "potato_early",
+        "potato_late",
+        "maize_healthy",
+        "maize_rust",
+        "maize_northern_blight",
+        "tomato_mite_damage",
+        "unsupported"
+      ],
+      "represented_macro_f1": 0.4641443230676591
+    },
+    "PlantVillage": {
+      "count": 1604,
+      "accuracy": 0.9569825436408977,
+      "macro_precision": 0.8662188809574585,
+      "macro_recall": 0.8662480494423228,
+      "macro_f1": 0.8655385690914993,
+      "per_class": [
+        {
+          "label": "tomato_healthy",
+          "support": 152,
+          "precision": 0.9586206896551724,
+          "recall": 0.9144736842105263,
+          "f1": 0.936026936026936
+        },
+        {
+          "label": "tomato_early",
+          "support": 151,
+          "precision": 0.9555555555555556,
+          "recall": 0.8543046357615894,
+          "f1": 0.9020979020979022
+        },
+        {
+          "label": "tomato_septoria",
+          "support": 152,
+          "precision": 0.9150326797385621,
+          "recall": 0.9210526315789473,
+          "f1": 0.9180327868852459
+        },
+        {
+          "label": "potato_healthy",
+          "support": 24,
+          "precision": 0.8518518518518519,
+          "recall": 0.9583333333333334,
+          "f1": 0.9019607843137256
+        },
+        {
+          "label": "potato_early",
+          "support": 152,
+          "precision": 0.9798657718120806,
+          "recall": 0.9605263157894737,
+          "f1": 0.9700996677740865
+        },
+        {
+          "label": "potato_late",
+          "support": 152,
+          "precision": 0.9605263157894737,
+          "recall": 0.9605263157894737,
+          "f1": 0.9605263157894737
+        },
+        {
+          "label": "maize_healthy",
+          "support": 175,
+          "precision": 1.0,
+          "recall": 0.9942857142857143,
+          "f1": 0.9971346704871061
+        },
+        {
+          "label": "maize_rust",
+          "support": 179,
+          "precision": 0.9834254143646409,
+          "recall": 0.994413407821229,
+          "f1": 0.9888888888888889
+        },
+        {
+          "label": "maize_northern_blight",
+          "support": 148,
+          "precision": 1.0,
+          "recall": 0.9864864864864865,
+          "f1": 0.9931972789115647
+        },
+        {
+          "label": "tomato_mite_damage",
+          "support": 319,
+          "precision": 0.9235294117647059,
+          "recall": 0.9843260188087775,
+          "f1": 0.952959028831563
+        },
+        {
+          "label": "unsupported",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          139,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          13,
+          0
+        ],
+        [
+          2,
+          129,
+          10,
+          0,
+          2,
+          4,
+          0,
+          0,
+          0,
+          4,
+          0
+        ],
+        [
+          0,
+          5,
+          140,
+          0,
+          1,
+          1,
+          0,
+          0,
+          0,
+          5,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          23,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          0
+        ],
+        [
+          3,
+          0,
+          0,
+          0,
+          146,
+          1,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          4,
+          0,
+          146,
+          0,
+          0,
+          0,
+          2,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          174,
+          1,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          178,
+          0,
+          0,
+          1
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          146,
+          0,
+          1
+        ],
+        [
+          1,
+          1,
+          3,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          314,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "class_order": [
+        "tomato_healthy",
+        "tomato_early",
+        "tomato_septoria",
+        "potato_healthy",
+        "potato_early",
+        "potato_late",
+        "maize_healthy",
+        "maize_rust",
+        "maize_northern_blight",
+        "tomato_mite_damage",
+        "unsupported"
+      ],
+      "represented_macro_f1": 0.9520924260006491
+    },
+    "CIFAR10": {
+      "count": 0,
+      "accuracy": 0,
+      "macro_precision": 0.0,
+      "macro_recall": 0.0,
+      "macro_f1": 0.0,
+      "per_class": [
+        {
+          "label": "tomato_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "tomato_early",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "tomato_septoria",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "potato_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "potato_early",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "potato_late",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "maize_healthy",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "maize_rust",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "maize_northern_blight",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "tomato_mite_damage",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        },
+        {
+          "label": "unsupported",
+          "support": 0,
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      ],
+      "confusion_matrix": [
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "class_order": [
+        "tomato_healthy",
+        "tomato_early",
+        "tomato_septoria",
+        "potato_healthy",
+        "potato_early",
+        "potato_late",
+        "maize_healthy",
+        "maize_rust",
+        "maize_northern_blight",
+        "tomato_mite_damage",
+        "unsupported"
+      ],
+      "represented_macro_f1": null
+    }
+  },
+  "rejection": {
+    "PlantDoc": {
+      "count": 324,
+      "incorrectly_accepted": 6
+    },
+    "CIFAR10": {
+      "count": 0,
+      "incorrectly_accepted": 0
+    }
+  },
+  "split": "development_validation",
+  "test_evaluated": false,
+  "selected_epoch": 8,
+  "threshold": 0.8,
+  "accepted_count": 1381,
+  "accepted_accuracy": 0.9847936034202576
+}

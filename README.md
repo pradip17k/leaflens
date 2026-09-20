@@ -4,6 +4,14 @@ A static website with real browser-local inference for tomato, potato and maize 
 
 See [measured results and architecture](PROJECT_REPORT.md), [presentation outline](PRESENTATION.md), and [dataset verification](ml/multicrop-v1/VERIFICATION.md). Dataset performance is not a claim of general farm-photo accuracy.
 
+## V2 experimental option
+
+The scanner also offers an explicitly experimental model trained with PlantDoc training photographs, tomato spider-mite damage, and an unsupported-condition class. V1 remains the default and its historical test scores remain unchanged. V2 development scores were used for model selection and are **not independent field-test results**. See [V2 experiment](V2_EXPERIMENT.md) for measured comparisons, data scope and limitations.
+
+Spider-mite damage classification does not identify insects or cover other pests. Reliable non-leaf rejection and expert-confirmed farm trials remain incomplete. The optional CIFAR object-data download stalled during this experiment and was not included in training.
+
+A [field-validation protocol](dist/field-validation.md) and `ml/audit_field_photos.py` are included to check future local, expert-labeled photo collections for duplicate images and leaf/site overlap. No expert-confirmed farm photographs have been supplied.
+
 ## Run
 
 Requires Node.js 18+. No npm installation is needed; the pinned runtime is vendored.

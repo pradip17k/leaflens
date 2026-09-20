@@ -1,0 +1,40 @@
+{
+  "version": "leaflens-v2-experimental",
+  "architecture": "MobileNetV2",
+  "image_size": 128,
+  "classes": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight",
+    "tomato_mite_damage",
+    "unsupported"
+  ],
+  "temperature": 1,
+  "threshold": 0.8,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "sha256": "098808412965a1d4f6afdf43bd2dbb9a6fe4b26f3c69e941687899547db1a073",
+  "model_bytes": 8924622,
+  "field_validated": false,
+  "unknown_image_detector": false,
+  "limitations": [
+    "Image-level development split; near-duplicate/source overlap not ruled out.",
+    "Unsupported means other PlantDoc classes, not a validated non-leaf detector.",
+    "Spider-mite class means leaf damage appearance, not insect identification.",
+    "No new untouched field test set or expert-confirmed labels."
+  ]
+}

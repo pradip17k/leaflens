@@ -3,6 +3,16 @@ import assert from 'node:assert/strict';
 import {interpret,calibratedProbabilities,resizeRGB} from '../dist/inference.mjs';
 import {MODEL_LABELS,parsePredictions,evaluatePredictions} from '../dist/core.mjs';
 
+test('experimental unsupported output is rejected and mite damage respects crop selection',()=>{
+  const classes=[...MODEL_LABELS,'tomato_mite_damage','unsupported'];
+  const metadata={classes,temperature:1,threshold:.8,architecture:'test',version:'v2'};
+  const unknown=interpret(classes.map(x=>x==='unsupported'?20:0),metadata,'tomato');
+  assert.equal(unknown.accepted,false);assert.match(unknown.reason,/outside this model/);
+  const mite=classes.map(x=>x==='tomato_mite_damage'?20:0);
+  assert.equal(interpret(mite,metadata,'tomato').accepted,true);
+  assert.equal(interpret(mite,metadata,'potato').accepted,false);
+});
+
 test('nine-class metrics include minority classes and cross-crop errors',()=>{
   const rows=parsePredictions('true_label,predicted_label\npotato_healthy,potato_healthy\nmaize_rust,tomato_early',MODEL_LABELS);
   const m=evaluatePredictions(rows,MODEL_LABELS);

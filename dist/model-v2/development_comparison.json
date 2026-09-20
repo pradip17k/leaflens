@@ -1,0 +1,22 @@
+{
+  "cohort": "PlantDoc train partition, local development-validation subset; not the historical external test set.",
+  "interpretation": "V2 was selected using this development validation, so this comparison is optimistic and not independent proof of improvement.",
+  "versions": {
+    "v1": {
+      "supported_count": 89,
+      "supported_accuracy": 0.20224719101123595,
+      "supported_accepted": 52,
+      "unsupported_count": 324,
+      "unsupported_incorrectly_accepted": 232,
+      "threshold": 0.5
+    },
+    "v2": {
+      "supported_count": 89,
+      "supported_accuracy": 0.38202247191011235,
+      "supported_accepted": 17,
+      "unsupported_count": 324,
+      "unsupported_incorrectly_accepted": 6,
+      "threshold": 0.8
+    }
+  }
+}

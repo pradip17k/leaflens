@@ -26,6 +26,13 @@ jobs:
           node --check dist/crops.mjs
       - name: Verify metrics and validation
         run: node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Verify field-photo audit
+        run: |
+          python -m pip install Pillow==12.3.0
+          python tests/test_field_audit.py
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website
