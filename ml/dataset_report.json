@@ -1,0 +1,28 @@
+{
+  "source_commit": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+  "seed": 26131,
+  "downloaded": 4362,
+  "included": 2998,
+  "excluded": 1364,
+  "counts": {
+    "healthy": {
+      "train": 695,
+      "validation": 152,
+      "test": 152
+    },
+    "early": {
+      "train": 696,
+      "validation": 151,
+      "test": 152
+    },
+    "septoria": {
+      "train": 696,
+      "validation": 152,
+      "test": 152
+    }
+  },
+  "checks": "No group, byte-hash, or pixel-hash overlap",
+  "exclusion_reasons": {
+    "missing_or_ambiguous_leaf_group": 1364
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "onnx_valid": true,
+  "validation_samples": 9,
+  "maximum_logit_error": 6.67572021484375e-06,
+  "sha256": "762a4ed282e773874ee7909345260c315d00f7552f08b12ee795cc33c9e8d541"
+}

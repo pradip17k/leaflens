@@ -22,8 +22,10 @@ jobs:
           node --check dist/app.mjs
           node --check dist/core.mjs
           node --check dist/data.mjs
+          node --check dist/inference.mjs
+          node --check dist/crops.mjs
       - name: Verify metrics and validation
-        run: node --test tests/core.test.mjs
+        run: node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload website

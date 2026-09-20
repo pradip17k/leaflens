@@ -1,0 +1,17 @@
+{
+  "black": {
+    "prediction": "maize_rust",
+    "confidence": 0.9997484087944031,
+    "accepted_by_confidence_only": true
+  },
+  "white": {
+    "prediction": "tomato_septoria",
+    "confidence": 0.2998002767562866,
+    "accepted_by_confidence_only": false
+  },
+  "noise": {
+    "prediction": "tomato_septoria",
+    "confidence": 0.7340502142906189,
+    "accepted_by_confidence_only": true
+  }
+}

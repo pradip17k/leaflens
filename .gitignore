@@ -5,3 +5,9 @@ node_modules/
 *.log
 .DS_Store
 .sites-runtime/
+ml/data/
+ml/__pycache__/
+ml/.venv/
+ml/runs/**/best.pt
+ml/runs/**/last.pt
+ml/runs/**/cache/

@@ -1,95 +1,79 @@
-# LeafLens — Crop Health Lab (v2)
+# LeafLens — three-crop research classifier
 
-A responsive, browser-local mini-project prototype for tomato leaf disease screening and model evaluation. No dependencies or API keys are required.
+A static website with real browser-local inference for tomato, potato and maize across nine crop-specific classes. A compact CNN and pretrained MobileNetV2 are compared using the same validation split; the selected model is exported to ONNX.
+
+See [measured results and architecture](PROJECT_REPORT.md), [presentation outline](PRESENTATION.md), and [dataset verification](ml/multicrop-v1/VERIFICATION.md). Dataset performance is not a claim of general farm-photo accuracy.
 
 ## Run
 
-Requires Node.js 18+.
+Requires Node.js 18+. No npm installation is needed; the pinned runtime is vendored.
 
-```sh
+```powershell
 node server.cjs
 ```
 
-Open http://127.0.0.1:4173. The development server listens only on this computer. To stop it, use Ctrl+C.
+Open http://127.0.0.1:4173. Select a crop, upload a photo and choose **Analyze leaf**. Images stay on your device. Runtime/model files download from this website; Google Fonts may make a separate font request.
 
-## Features
+The three tomato reference demos retain explicitly simulated values. Choose **Run the real model on this photo** for actual inference. Session reports, text downloads, printing, nine-class CSV evaluation and a **Measured results** button are included.
 
-- Scanner: drag/drop or browse a JPG, PNG or WebP, preview and enlarge the image.
-- Input safeguards: nonempty file, 10 MB limit, decoding, minimum 128 × 128 dimensions and maximum 40 megapixels.
-- Quality checks: resolution, average exposure, neighboring-pixel contrast and transparency. Pixel processing uses an aspect-preserving preview up to 256 pixels on the longest side.
-- Reference gallery: healthy, early blight and Septoria leaf spot photographs, with explicitly simulated class probabilities.
-- Library: symptom search and healthy/disease filters.
-- Reports: readable text downloads and print/Save PDF from a report dialog.
-- Session history: latest 20 report records, kept only in tab memory, without images.
-- Evaluation: CSV import, accuracy, macro precision/recall/F1, confusion matrix, per-class metrics and JSON export.
-- Responsive layout, keyboard controls, skip link, native dialogs and reduced-motion support.
+## Classes and input limits
 
-## Scope and limitations
+| Crop | Model labels |
+| --- | --- |
+| Tomato | tomato_healthy, tomato_early, tomato_septoria |
+| Potato | potato_healthy, potato_early, potato_late |
+| Maize | maize_healthy, maize_rust, maize_northern_blight |
 
-**No trained model is connected.** There is no real disease classifier or pest detector. Reference labels come from PlantVillage; displayed probabilities are invented demonstration values and cannot be cited as model results. Uploaded images receive only heuristic quality checks. Those checks do not recognize leaves, diagnose disease, or guarantee suitable images. Quality thresholds have not been validated against a quality dataset.
+The website accepts JPG/PNG/WebP, up to 10 MB, at least 128 pixels per side and at most 40 megapixels. Capture heuristics can withhold predictions, but cannot establish that an image is a supported leaf. Unsupported diseases and non-leaf images may receive confident incorrect predictions.
 
-The evaluation calculator performs real arithmetic on supplied predictions. It cannot verify the model, the dataset, labels or whether a test set was held out. The built-in nine-row example is deliberately labeled as illustrative. A 90% accuracy figure in the methodology is only an initial project target.
+CSV columns must be exactly `true_label,predicted_label`, with the labels above; maximum 1 MB and 10,000 rows. Confusion-matrix rows are true labels. Macro metrics include all nine classes, with undefined divisions set to zero. Legacy three-label pure functions remain for compatibility; the website uses nine labels.
 
-## Evaluation CSV
+## Reproduce
 
-Use exactly two columns and these case-sensitive labels: `healthy`, `early`, `septoria`.
+Python 3.12 was used. Create an isolated environment:
 
-```csv
-true_label,predicted_label
-healthy,healthy
-early,septoria
-septoria,septoria
+```powershell
+python -m venv ml/.venv
+ml/.venv/Scripts/python.exe -m pip install -r ml/training-requirements.txt
+ml/.venv/Scripts/python.exe ml/prepare_dataset.py --multicrop
+ml/.venv/Scripts/python.exe ml/verify_dataset.py --multicrop
+ml/.venv/Scripts/python.exe ml/train_baseline.py
+ml/.venv/Scripts/python.exe ml/train_transfer.py
+ml/.venv/Scripts/python.exe ml/finalize_model.py
+ml/.venv/Scripts/python.exe ml/evaluate_external.py
+ml/.venv/Scripts/python.exe ml/vendor_runtime.py
+ml/.venv/Scripts/python.exe ml/write_report.py
 ```
 
-Maximum: 1 MB and 10,000 data rows. Optional simple quotes, BOM and CRLF are supported. Extra columns, embedded commas and unknown labels are rejected. A failed import leaves the previous evaluation intact. The downloadable template has headers only to prevent accidentally presenting example rows as measured results.
+Run directories are protected against overwrites. In a checkout containing saved reports, use a separate experiment workspace and new run names, updating the fixed comparison names for a new experiment. Do not retune against the reserved test or external benchmark.
 
-Confusion matrix rows represent true labels; columns represent predictions. Macro metrics average all three supported classes equally, including missing classes. Undefined precision/recall/F1 values become zero. The dashboard flags absent true-label classes.
+Training images, Python environment and PyTorch checkpoints are excluded from Git. ONNX weights, measured reports, manifests and code are included. Training runs on CPU with four threads. MobileNet's preceding blocks are frozen; its final convolution block and classifier are fine-tuned on cached features. Only training data is augmented or weighted. Hardware and library changes can affect reproducibility.
 
-## Privacy
+Local CLI prediction (without the website capture-quality gate):
 
-Images and CSV files are read in the browser. No application data is sent to an inference service or stored in localStorage. Reloading clears session metadata, image selection and evaluation data. Image object URLs are released on replacement/removal. Only downloaded reports persist when the user saves them.
-
-The stylesheet requests Google Fonts; system fonts are used if unavailable. Reference photos are served from local files.
-
-## Source structure
-
-- `dist/index.html`: semantic app shell
-- `dist/styles.css`: responsive theme and print styling
-- `dist/app.mjs`: scanner, navigation, dialogs, reports, history and evaluation UI
-- `dist/core.mjs`: pure CSV parsing, metric calculations and quality checks
-- `dist/data.mjs`: reference descriptions and SVG interface icons
-- `dist/assets/`: original reference photographs and exact attribution
-- `server.cjs`: dependency-free local server
-- `tests/core.test.mjs`: calculation and validation tests
-
-```sh
-node --test tests/core.test.mjs
+```powershell
+ml/.venv/Scripts/python.exe ml/predict.py path/to/leaf.jpg --crop tomato
 ```
 
-## Next phase: train and connect a classifier
+## Verification
 
-1. Choose and license the dataset; deduplicate and group photos by original leaf/source before splitting.
-2. Train a baseline CNN and fine-tune MobileNetV2 using identical splits. Apply augmentation only to training images.
-3. Save preprocessing, class order and model version with the model.
-4. Evaluate an untouched test set plus independent field photos and out-of-scope inputs. Export prediction pairs for this dashboard.
-5. Calibrate confidence and select a rejection threshold using validation data, not the test set.
-6. Add a model adapter to `analyze()` in `dist/app.mjs`. Map only validated outputs into a new inference report type; keep demo and image-quality reports distinct.
-7. Obtain agricultural specialist review before providing actionable treatment recommendations. Pest detection requires its own labeled data and validation.
+```powershell
+node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs
+```
 
-## Sources
+If Windows sandboxing blocks test subprocesses, run each file directly with Node. Dataset checks cover hashes, labels, folder contents and recorded-group overlap. ONNX export is compared against PyTorch on nine validation tensors. Browser downsampling matches a Pillow reference using the same bilinear coefficient rounding. Decoder/color-management differences may still cause small variation.
 
-Reference photographs: PlantVillage, Mohanty, Hughes and Salathé, under CC BY-SA 3.0 as declared by the publisher's dataset card. Files are unchanged; presentation dimensions vary.
+## Evidence limits
 
-- Dataset: https://github.com/spMohanty/PlantVillage-Dataset
-- Publisher card and license: https://huggingface.co/datasets/mohanty/PlantVillage
-- License: https://creativecommons.org/licenses/by-sa/3.0/
-- Exact file attribution: `dist/assets/credits.json`
-- Symptom reference: https://extension.umn.edu/garden-and-home/yard-and-garden/gardening-in-minnesota/yard-and-garden-problems/tomato-leaf-spot-diseases
+- Maize has no publisher leaf IDs. Its provisional image-level split may share unrecorded leaves, and backgrounds differ by class.
+- Healthy potato has only 104 training and 24 test images.
+- A small external PlantDoc cohort covers four supported diseases and five unsupported tomato conditions. It is internet-sourced, not a prospective farm trial.
+- Exact duplicates are checked; near-duplicates, source overlap and label noise cannot be ruled out.
+- Independent farm/phone-photo trials, expert review and a trained unknown-input detector remain future research work.
+- Pest identification and pesticide prescriptions are outside scope. SIH26131 is user-supplied; official affiliation is unverified.
 
-SIH26131 is supplied by the project brief; affiliation and official status have not been verified.
+## Deployment and attribution
 
-## GitHub Pages deployment
+GitHub Actions tests the assets and publishes only `dist/` to GitHub Pages. Training data and Python are not deployed. Relative paths support repository subpaths.
 
-The included `.github/workflows/pages.yml` tests the project and publishes only `dist/` using GitHub Pages. In the destination repository, select **Settings → Pages → Source → GitHub Actions** before the first deployment. Push to `main` or run **Test and publish LeafLens** manually from Actions. The deployment environment reports the actual website URL after a successful run.
-
-The site uses relative asset URLs and hash navigation, so it supports repository subpaths on GitHub Pages. The Node preview server is not deployed. Do not present the site as a trained diagnostic system; the prototype labels remain visible after deployment.
+PlantVillage: Mohanty, Hughes and Salathe, publisher-declared CC BY-SA 3.0. PlantDoc: Singh et al., publisher-declared CC BY 4.0. Revisions and source URLs are recorded in manifests and the report. ONNX Runtime Web 1.23.2 is vendored with its MIT license and registry integrity record. MobileNetV2 uses Torchvision IMAGENET1K_V2 weights. Existing photo credits are in `dist/assets/credits.json`.

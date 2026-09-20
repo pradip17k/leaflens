@@ -1,0 +1,7 @@
+{
+  "status": "complete",
+  "epochs_run": 20,
+  "best_epoch": 19,
+  "seconds": 487.0,
+  "test_evaluated": false
+}

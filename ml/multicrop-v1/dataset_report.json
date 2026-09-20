@@ -1,0 +1,59 @@
+{
+  "source_commit": "7f7ecc7e1eaca78107e3affe7cb5abd9427e139a",
+  "seed": 26131,
+  "downloaded": 9853,
+  "included": 8489,
+  "excluded": 1364,
+  "counts": {
+    "tomato_healthy": {
+      "train": 695,
+      "validation": 152,
+      "test": 152
+    },
+    "tomato_early": {
+      "train": 696,
+      "validation": 151,
+      "test": 152
+    },
+    "tomato_septoria": {
+      "train": 696,
+      "validation": 152,
+      "test": 152
+    },
+    "potato_healthy": {
+      "train": 104,
+      "validation": 24,
+      "test": 24
+    },
+    "potato_early": {
+      "train": 696,
+      "validation": 152,
+      "test": 152
+    },
+    "potato_late": {
+      "train": 696,
+      "validation": 152,
+      "test": 152
+    },
+    "maize_healthy": {
+      "train": 813,
+      "validation": 175,
+      "test": 174
+    },
+    "maize_rust": {
+      "train": 834,
+      "validation": 179,
+      "test": 179
+    },
+    "maize_northern_blight": {
+      "train": 689,
+      "validation": 148,
+      "test": 148
+    }
+  },
+  "checks": "No recorded group, byte-hash, or pixel-hash overlap",
+  "grouping_caveat": "Maize has no publisher leaf IDs; image-level splits are provisional and may share unrecorded leaves.",
+  "exclusion_reasons": {
+    "missing_or_ambiguous_leaf_group": 1364
+  }
+}

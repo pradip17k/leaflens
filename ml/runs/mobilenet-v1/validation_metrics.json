@@ -1,0 +1,194 @@
+{
+  "count": 1285,
+  "accuracy": 0.9852140077821012,
+  "macro_precision": 0.976083412523479,
+  "macro_recall": 0.9861632805483561,
+  "macro_f1": 0.9805716303807519,
+  "per_class": [
+    {
+      "label": "tomato_healthy",
+      "support": 152,
+      "precision": 1.0,
+      "recall": 0.993421052631579,
+      "f1": 0.9966996699669968
+    },
+    {
+      "label": "tomato_early",
+      "support": 151,
+      "precision": 0.9928571428571429,
+      "recall": 0.9205298013245033,
+      "f1": 0.9553264604810997
+    },
+    {
+      "label": "tomato_septoria",
+      "support": 152,
+      "precision": 0.9615384615384616,
+      "recall": 0.9868421052631579,
+      "f1": 0.974025974025974
+    },
+    {
+      "label": "potato_healthy",
+      "support": 24,
+      "precision": 0.8888888888888888,
+      "recall": 1.0,
+      "f1": 0.9411764705882353
+    },
+    {
+      "label": "potato_early",
+      "support": 152,
+      "precision": 0.9806451612903225,
+      "recall": 1.0,
+      "f1": 0.990228013029316
+    },
+    {
+      "label": "potato_late",
+      "support": 152,
+      "precision": 0.9675324675324676,
+      "recall": 0.9802631578947368,
+      "f1": 0.9738562091503268
+    },
+    {
+      "label": "maize_healthy",
+      "support": 175,
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0
+    },
+    {
+      "label": "maize_rust",
+      "support": 179,
+      "precision": 1.0,
+      "recall": 0.994413407821229,
+      "f1": 0.9971988795518207
+    },
+    {
+      "label": "maize_northern_blight",
+      "support": 148,
+      "precision": 0.9932885906040269,
+      "recall": 1.0,
+      "f1": 0.9966329966329966
+    }
+  ],
+  "confusion_matrix": [
+    [
+      151,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      139,
+      6,
+      0,
+      1,
+      5,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      150,
+      0,
+      2,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      24,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      152,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      0,
+      149,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      175,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      178,
+      1
+    ],
+    [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      148
+    ]
+  ],
+  "class_order": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight"
+  ],
+  "loss": 0.043428864282943624,
+  "split": "validation",
+  "selected_epoch": 8,
+  "test_evaluated": false,
+  "interpretation": "Used for model selection; not an untouched test score.",
+  "limitations": [
+    "Maize split is image-level; unrecorded same-leaf leakage remains possible.",
+    "Backgrounds differ across maize classes; field generalization is untested.",
+    "Only 104 healthy potato training images; class-weighted training is used."
+  ]
+}

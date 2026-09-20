@@ -1,0 +1,204 @@
+{
+  "source": "https://github.com/pratikkayal/PlantDoc-Dataset",
+  "source_commit": "5467f6012d78d1c446145d5f582da6096f852ae8",
+  "license": "CC BY 4.0 as declared by publisher",
+  "cohort": "All publisher test images for four unambiguous overlapping disease classes and five unsupported tomato conditions",
+  "supported_metrics": {
+    "count": 36,
+    "accuracy": 0.25,
+    "macro_precision": 0.11249999999999999,
+    "macro_recall": 0.10592031425364759,
+    "macro_f1": 0.10075414781297135,
+    "per_class": [
+      {
+        "label": "tomato_healthy",
+        "support": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      {
+        "label": "tomato_early",
+        "support": 9,
+        "precision": 0.3125,
+        "recall": 0.5555555555555556,
+        "f1": 0.39999999999999997
+      },
+      {
+        "label": "tomato_septoria",
+        "support": 11,
+        "precision": 0.5,
+        "recall": 0.2727272727272727,
+        "f1": 0.3529411764705882
+      },
+      {
+        "label": "potato_healthy",
+        "support": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      {
+        "label": "potato_early",
+        "support": 8,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      {
+        "label": "potato_late",
+        "support": 8,
+        "precision": 0.2,
+        "recall": 0.125,
+        "f1": 0.15384615384615385
+      },
+      {
+        "label": "maize_healthy",
+        "support": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      {
+        "label": "maize_rust",
+        "support": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      {
+        "label": "maize_northern_blight",
+        "support": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    ],
+    "confusion_matrix": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        5,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0,
+        2
+      ],
+      [
+        0,
+        6,
+        3,
+        0,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        2,
+        1,
+        0,
+        0,
+        3,
+        0,
+        1,
+        1
+      ],
+      [
+        0,
+        3,
+        2,
+        0,
+        1,
+        1,
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "class_order": [
+      "tomato_healthy",
+      "tomato_early",
+      "tomato_septoria",
+      "potato_healthy",
+      "potato_early",
+      "potato_late",
+      "maize_healthy",
+      "maize_rust",
+      "maize_northern_blight"
+    ],
+    "represented_classes_macro_f1": 0.22669683257918552
+  },
+  "supported_accepted_count": 17,
+  "supported_accepted_accuracy": 0.47058823529411764,
+  "unsupported_count": 41,
+  "unsupported_accepted_count": 22,
+  "exact_duplicates_excluded": 0,
+  "used_for_training": false,
+  "used_for_tuning": false,
+  "limitations": [
+    "Small internet-sourced cropped-image benchmark, not a prospective farm or phone-photo trial.",
+    "Only four supported disease classes covered; no healthy class or maize coverage.",
+    "Exact duplicates excluded; near-duplicates and original-source overlap cannot be ruled out.",
+    "Publisher labels used without independent agricultural review."
+  ]
+}

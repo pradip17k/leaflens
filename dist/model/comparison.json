@@ -1,0 +1,24 @@
+{
+  "selected": "mobilenet-v1",
+  "comparisons": [
+    {
+      "run": "baseline-v1",
+      "validation_accuracy": 0.9743190661478599,
+      "validation_macro_f1": 0.9595418244057468
+    },
+    {
+      "run": "mobilenet-v1",
+      "validation_accuracy": 0.9852140077821012,
+      "validation_macro_f1": 0.9805716303807519
+    }
+  ],
+  "temperature": 1,
+  "threshold": 0.5,
+  "validation_acceptance": {
+    "threshold": 0.5,
+    "count": 1280,
+    "accuracy": 0.987500011920929
+  },
+  "threshold_rule": "Maximum validation coverage with >=95% observed accuracy and >=100 samples, grid 0.50..0.99; fallback 0.99",
+  "caveat": "In-distribution validation calibration only; not reliable unknown-image detection."
+}

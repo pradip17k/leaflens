@@ -1,0 +1,38 @@
+{
+  "version": "leaflens-v1",
+  "architecture": "MobileNetV2",
+  "image_size": 128,
+  "classes": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight"
+  ],
+  "temperature": 1,
+  "threshold": 0.5,
+  "normalization": "ImageNet mean [0.485,0.456,0.406], std [0.229,0.224,0.225]",
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "sha256": "762a4ed282e773874ee7909345260c315d00f7552f08b12ee795cc33c9e8d541",
+  "model_bytes": 8914374,
+  "field_validated": false,
+  "unknown_image_detector": false,
+  "limitations": [
+    "Maize split is image-level; unrecorded same-leaf leakage remains possible.",
+    "Backgrounds differ across maize classes; field generalization is untested.",
+    "Only 104 healthy potato training images; class-weighted training is used."
+  ]
+}

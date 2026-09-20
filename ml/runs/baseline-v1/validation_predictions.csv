@@ -1,0 +1,1286 @@
+path,true_label,predicted_label,max_softmax_uncalibrated
+data/multicrop-v1/splits/validation/maize_healthy/0487da8b-736c-4310-82d2-fa8acf4aed07___R.S_HL 0646 copy 3.jpg,maize_healthy,maize_healthy,0.9946593642234802
+data/multicrop-v1/splits/validation/maize_healthy/062b0c0f-94fa-4c58-b735-2ba65e4dc9b9___R.S_HL 7947 copy.jpg,maize_healthy,maize_healthy,0.9998799562454224
+data/multicrop-v1/splits/validation/maize_healthy/0673a42c-74f8-4fe8-b07b-401592875c57___R.S_HL 5536 copy.jpg,maize_healthy,maize_healthy,0.9945774078369141
+data/multicrop-v1/splits/validation/maize_healthy/0761360f-9118-4019-a513-e0b80d871a3d___R.S_HL 8175 copy.jpg,maize_healthy,maize_healthy,0.9997337460517883
+data/multicrop-v1/splits/validation/maize_healthy/0a2dec45-729b-4825-b814-a73d14e8c7fe___R.S_HL 8211 copy.jpg,maize_healthy,maize_healthy,0.998505711555481
+data/multicrop-v1/splits/validation/maize_healthy/0b2282ef-75e9-47e8-878f-6e1557dc1f00___R.S_HL 8312 copy.jpg,maize_healthy,maize_healthy,0.9983752965927124
+data/multicrop-v1/splits/validation/maize_healthy/0d0d4a6f-784f-464b-89e8-f962d375e4be___R.S_HL 8253 copy.jpg,maize_healthy,maize_healthy,0.9997004270553589
+data/multicrop-v1/splits/validation/maize_healthy/0ee6c8d6-534f-4fc5-92bb-fac9d226c70b___R.S_HL 8011 copy.jpg,maize_healthy,maize_healthy,0.9995632767677307
+data/multicrop-v1/splits/validation/maize_healthy/0f3ce24e-fcf4-4738-94db-dc39881c0c73___R.S_HL 8038 copy.jpg,maize_healthy,maize_healthy,0.9962751865386963
+data/multicrop-v1/splits/validation/maize_healthy/1009c64f-a31c-49fb-9eb4-b6373a588dd0___R.S_HL 5490 copy 3.jpg,maize_healthy,maize_healthy,0.9991455078125
+data/multicrop-v1/splits/validation/maize_healthy/1035c09e-6caa-4bab-8faa-d64d539fa9a1___R.S_HL 0626copy.jpg,maize_healthy,maize_healthy,0.999546229839325
+data/multicrop-v1/splits/validation/maize_healthy/106155b4-c159-401a-9ca2-ef3e2f4c2baf___R.S_HL 7983 copy.jpg,maize_healthy,maize_healthy,0.9993367791175842
+data/multicrop-v1/splits/validation/maize_healthy/10d94b50-caeb-48d2-8a4d-79a9ccbae1ea___R.S_HL 8104 copy.jpg,maize_healthy,maize_healthy,0.9950628876686096
+data/multicrop-v1/splits/validation/maize_healthy/116ba4e1-7cd5-4d4e-b876-5212a41a0ab3___R.S_HL 8201 copy .jpg,maize_healthy,maize_healthy,0.9947676658630371
+data/multicrop-v1/splits/validation/maize_healthy/1221a054-5c7a-4e8f-b2d3-4396eca5fa5c___R.S_HL 5565 copy.jpg,maize_healthy,maize_healthy,0.9916833639144897
+data/multicrop-v1/splits/validation/maize_healthy/140c237b-266b-4ea2-a13e-bbc8915dc53a___R.S_HL 5495 copy 2.jpg,maize_healthy,maize_healthy,0.9908698201179504
+data/multicrop-v1/splits/validation/maize_healthy/15bd6d09-98af-40f4-b098-77ec403911d4___R.S_HL 7926 copy.jpg,maize_healthy,maize_healthy,0.9992836117744446
+data/multicrop-v1/splits/validation/maize_healthy/18bb5247-d11a-40dd-894a-adbb27a73ed4___R.S_HL 8183 copy.jpg,maize_healthy,maize_healthy,0.9997047781944275
+data/multicrop-v1/splits/validation/maize_healthy/18fb5907-fb42-407e-8ad7-baee0d01f60b___R.S_HL 8168 copy 2.jpg,maize_healthy,maize_healthy,0.9997925162315369
+data/multicrop-v1/splits/validation/maize_healthy/193e6262-e589-4f7d-93b8-c707368ee3b0___R.S_HL 8262 copy.jpg,maize_healthy,maize_healthy,0.99922776222229
+data/multicrop-v1/splits/validation/maize_healthy/1ac52fdf-f093-4495-a668-ff2745f56fbe___R.S_HL 8195 copy.jpg,maize_healthy,maize_healthy,0.999731719493866
+data/multicrop-v1/splits/validation/maize_healthy/1b875461-1cca-41b8-bc3b-34b5940f33a8___R.S_HL 8036 copy 2.jpg,maize_healthy,maize_healthy,0.9746642708778381
+data/multicrop-v1/splits/validation/maize_healthy/1c94fdf8-0f7e-4e39-bdae-c542a6c3c755___R.S_HL 8280 copy.jpg,maize_healthy,maize_healthy,0.9986470341682434
+data/multicrop-v1/splits/validation/maize_healthy/1dc85ac0-f1fb-4acc-b50b-5625d4a53f87___R.S_HL 7900 copy 2.jpg,maize_healthy,maize_healthy,0.9667860269546509
+data/multicrop-v1/splits/validation/maize_healthy/205f8753-7598-4469-86c2-59307f90e85c___R.S_HL 8228 copy.jpg,maize_healthy,maize_healthy,0.9998263716697693
+data/multicrop-v1/splits/validation/maize_healthy/2500d247-7e34-424d-b7ec-6eb9c6686ed9___R.S_HL 8112 copy.jpg,maize_healthy,maize_healthy,0.9955636262893677
+data/multicrop-v1/splits/validation/maize_healthy/25c29dbe-f9fd-4e65-a47f-501fd5d7ba86___R.S_HL 8116 copy 3.jpg,maize_healthy,maize_healthy,0.9959378242492676
+data/multicrop-v1/splits/validation/maize_healthy/270ba8ed-21f5-43cc-b401-7b643ce5f65d___R.S_HL 8090 copy 2.jpg,maize_healthy,maize_healthy,0.991635799407959
+data/multicrop-v1/splits/validation/maize_healthy/2769e7a4-1f58-4534-b0e3-39f5646133e4___R.S_HL 5547 copy.jpg,maize_healthy,maize_healthy,0.9995094537734985
+data/multicrop-v1/splits/validation/maize_healthy/27cf1dd3-bee1-451d-b100-5a35369192d0___R.S_HL 8298 copy 2.jpg,maize_healthy,maize_healthy,0.9995986819267273
+data/multicrop-v1/splits/validation/maize_healthy/28e63fb7-865f-48d1-9324-e1c214e73f5b___R.S_HL 7979 copy.jpg,maize_healthy,maize_healthy,0.9996399879455566
+data/multicrop-v1/splits/validation/maize_healthy/290bb59a-1405-44b8-af6e-8b1384b76e00___R.S_HL 0614.JPG,maize_healthy,maize_healthy,0.998967170715332
+data/multicrop-v1/splits/validation/maize_healthy/2930a76c-f0f6-4880-8ec7-f06aaaf257d1___R.S_HL 8155 copy.jpg,maize_healthy,maize_healthy,0.9998973608016968
+data/multicrop-v1/splits/validation/maize_healthy/2950037b-0650-4dfa-8102-26c3f1ff8068___R.S_HL 8314 copy 2.jpg,maize_healthy,maize_healthy,0.9984405636787415
+data/multicrop-v1/splits/validation/maize_healthy/2af59ffa-49d7-4c0f-963c-d7b8a0dbd852___R.S_HL 8122 copy.jpg,maize_healthy,maize_healthy,0.9986284971237183
+data/multicrop-v1/splits/validation/maize_healthy/2b3274d3-f41c-4dc7-abbd-13a70e922787___R.S_HL 5509 copy 3.jpg,maize_healthy,maize_healthy,0.9934532642364502
+data/multicrop-v1/splits/validation/maize_healthy/2be26495-e939-40f5-9ef8-e378543bf2c5___R.S_HL 7962 copy 2.jpg,maize_healthy,maize_healthy,0.9982529282569885
+data/multicrop-v1/splits/validation/maize_healthy/30213a02-eea7-46a3-af9c-0078b93bb2b9___R.S_HL 8308 copy.jpg,maize_healthy,maize_healthy,0.999797523021698
+data/multicrop-v1/splits/validation/maize_healthy/31ed2f01-16d4-4b0f-8e51-d2b3bf960921___R.S_HL 7987 copy.jpg,maize_healthy,maize_healthy,0.9991569519042969
+data/multicrop-v1/splits/validation/maize_healthy/34074440-8163-4cbb-9c8b-0bb6408670f7___R.S_HL 8069 copy.jpg,maize_healthy,maize_healthy,0.9984697699546814
+data/multicrop-v1/splits/validation/maize_healthy/354890d4-ba2a-43b3-a97c-f9108c480ccd___R.S_HL 8174 copy 2.jpg,maize_healthy,maize_healthy,0.9998867511749268
+data/multicrop-v1/splits/validation/maize_healthy/365694a5-6ad3-46c2-a929-5de7b0dce2e2___R.S_HL 8066 copy.jpg,maize_healthy,maize_healthy,0.999643087387085
+data/multicrop-v1/splits/validation/maize_healthy/38618a59-09e8-48d9-93a8-3911040d224f___R.S_HL 8195 copy 3.jpg,maize_healthy,maize_healthy,0.9995591044425964
+data/multicrop-v1/splits/validation/maize_healthy/388becdf-55dd-4fcb-a32a-b8b5e01de2f3___R.S_HL 8054 copy 2.jpg,maize_healthy,maize_healthy,0.9990108013153076
+data/multicrop-v1/splits/validation/maize_healthy/3a188d29-5d0c-4707-bd8d-cfa29fe88eae___R.S_HL 8283 copy 2.jpg,maize_healthy,maize_healthy,0.9998363256454468
+data/multicrop-v1/splits/validation/maize_healthy/3a50230b-09b4-4d82-9df7-1ae4b2945464___R.S_HL 8317 copy 2.jpg,maize_healthy,maize_healthy,0.9960888624191284
+data/multicrop-v1/splits/validation/maize_healthy/3ed3e07e-1932-4c33-9613-d31af970986c___R.S_HL 7973 copy.jpg,maize_healthy,maize_healthy,0.9995042085647583
+data/multicrop-v1/splits/validation/maize_healthy/3fdabf59-5491-411c-b61e-c3fc0bbb3831___R.S_HL 8097 copy.jpg,maize_healthy,maize_healthy,0.999737560749054
+data/multicrop-v1/splits/validation/maize_healthy/40016f08-81b6-462f-b6f5-f1c8cf9cc519___R.S_HL 8084 copy.jpg,maize_healthy,maize_healthy,0.9823700189590454
+data/multicrop-v1/splits/validation/maize_healthy/442c3578-cee3-43bf-b636-b447a508a3f8___R.S_HL 8250 copy.jpg,maize_healthy,maize_healthy,0.9996123909950256
+data/multicrop-v1/splits/validation/maize_healthy/44f2a3c4-6e69-40d8-9aec-ba79a37a767d___R.S_HL 5529 copy.jpg,maize_healthy,maize_healthy,0.9988489151000977
+data/multicrop-v1/splits/validation/maize_healthy/4511c343-1fb9-450f-9991-7fc433034f7a___R.S_HL 7996 copy.jpg,maize_healthy,maize_healthy,0.9998562335968018
+data/multicrop-v1/splits/validation/maize_healthy/4634067c-4205-49d6-adc6-94e34e71374b___R.S_HL 8341 copy 2.jpg,maize_healthy,maize_healthy,0.9995415210723877
+data/multicrop-v1/splits/validation/maize_healthy/466155e6-ef86-4024-9c0a-de7ca09a1d07___R.S_HL 7986 copy.jpg,maize_healthy,maize_healthy,0.9991503953933716
+data/multicrop-v1/splits/validation/maize_healthy/49231c3a-0132-451e-820d-d3357618a3eb___R.S_HL 8019 copy.jpg,maize_healthy,maize_healthy,0.9990573525428772
+data/multicrop-v1/splits/validation/maize_healthy/4bf9482d-8953-49ca-bc10-ed2742d40e9c___R.S_HL 5522 copy 2.jpg,maize_healthy,maize_healthy,0.9992050528526306
+data/multicrop-v1/splits/validation/maize_healthy/4bffb932-0f73-4ea5-b1b3-ffbef8c5f07d___R.S_HL 7895 copy.jpg,maize_healthy,maize_healthy,0.9934636354446411
+data/multicrop-v1/splits/validation/maize_healthy/4c7c0c9d-eade-4f48-9c77-da0e1b5f587e___R.S_HL 8104 copy 2.jpg,maize_healthy,maize_healthy,0.9999092817306519
+data/multicrop-v1/splits/validation/maize_healthy/4ddd376b-7972-4a58-88cc-63aac4b33a1a___R.S_HL 7894 copy.jpg,maize_healthy,maize_healthy,0.9997226595878601
+data/multicrop-v1/splits/validation/maize_healthy/4e65846a-3154-486c-b58c-cbaf698e0f97___R.S_HL 8151 copy 2.jpg,maize_healthy,maize_healthy,0.9992437362670898
+data/multicrop-v1/splits/validation/maize_healthy/5048e022-c5a7-4215-a55c-c9576e45f4e2___R.S_HL 0602 copy.jpg,maize_healthy,maize_healthy,0.9970058798789978
+data/multicrop-v1/splits/validation/maize_healthy/5243e506-339c-4c97-8e1a-86f146aa5684___R.S_HL 8057 copy 2.jpg,maize_healthy,maize_healthy,0.9996893405914307
+data/multicrop-v1/splits/validation/maize_healthy/57414792-9bc5-40c2-b7cb-b764a2531225___R.S_HL 8152 copy.jpg,maize_healthy,maize_healthy,0.9997523427009583
+data/multicrop-v1/splits/validation/maize_healthy/57f92b15-58ae-4e5f-a979-1c83f9c0be94___R.S_HL 8008 copy.jpg,maize_healthy,maize_healthy,0.9973353743553162
+data/multicrop-v1/splits/validation/maize_healthy/596f6046-a290-45e2-8c1b-7a60e191f640___R.S_HL 7966 copy 2.jpg,maize_healthy,maize_healthy,0.9987350106239319
+data/multicrop-v1/splits/validation/maize_healthy/59bc56e1-31cb-410e-a8bb-4afafb0fac7d___R.S_HL 0599 copy 2.jpg,maize_healthy,maize_healthy,0.9967488050460815
+data/multicrop-v1/splits/validation/maize_healthy/5c007cea-468b-4e33-aa6c-803932baf906___R.S_HL 8145 copy 2.jpg,maize_healthy,maize_healthy,0.9994875192642212
+data/multicrop-v1/splits/validation/maize_healthy/5c4c7615-f758-4dfd-a277-1dc94aa94a95___R.S_HL 8343 copy.jpg,maize_healthy,maize_healthy,0.9994713664054871
+data/multicrop-v1/splits/validation/maize_healthy/5dd5c601-a601-45bf-90e9-1335869056cc___R.S_HL 0621 copy.jpg,maize_healthy,maize_healthy,0.9968611001968384
+data/multicrop-v1/splits/validation/maize_healthy/5ee644af-b8a1-43b3-8a61-6446260556b2___R.S_HL 7906 copy 2.jpg,maize_healthy,maize_healthy,0.9979660511016846
+data/multicrop-v1/splits/validation/maize_healthy/5face5cd-e150-42f5-8ae6-eef79c43b05b___R.S_HL 8010 copy 2.jpg,maize_healthy,maize_healthy,0.9997760653495789
+data/multicrop-v1/splits/validation/maize_healthy/600f5c3a-2156-4485-b74a-c14a16534706___R.S_HL 7958 copy.jpg,maize_healthy,maize_healthy,0.9905059933662415
+data/multicrop-v1/splits/validation/maize_healthy/607524f1-b59a-4a36-b842-e1d7225758da___R.S_HL 7920 copy 2.jpg,maize_healthy,maize_healthy,0.9998131394386292
+data/multicrop-v1/splits/validation/maize_healthy/60d41965-10bc-4799-815e-5b1f099fae4b___R.S_HL 8003 copy.jpg,maize_healthy,maize_healthy,0.99934321641922
+data/multicrop-v1/splits/validation/maize_healthy/624c0cfa-3729-4f6c-9236-1c3a4ee66431___R.S_HL 8214 copy.jpg,maize_healthy,maize_healthy,0.9994584918022156
+data/multicrop-v1/splits/validation/maize_healthy/642cc7a8-2e3f-465f-9bb2-ca5a31cd6475___R.S_HL 8001 copy 2.jpg,maize_healthy,maize_healthy,0.9649387001991272
+data/multicrop-v1/splits/validation/maize_healthy/660085ff-5593-4fdf-9830-ebc93bf21a27___R.S_HL 8203 copy 2.jpg,maize_healthy,maize_healthy,0.9996929168701172
+data/multicrop-v1/splits/validation/maize_healthy/67f39579-aba1-4989-a9b8-6e85544cf210___R.S_HL 7991 copy.jpg,maize_healthy,maize_healthy,0.9941891431808472
+data/multicrop-v1/splits/validation/maize_healthy/6aaf943e-fb16-4f8f-86c5-dc36724e25e5___R.S_HL 0607.JPG,maize_healthy,maize_healthy,0.9921835064888
+data/multicrop-v1/splits/validation/maize_healthy/6ae624a6-83c8-4437-ba23-2a7b0460c7a4___R.S_HL 8332 copy.jpg,maize_healthy,maize_healthy,0.9950059056282043
+data/multicrop-v1/splits/validation/maize_healthy/6af462af-d8d2-4ecb-9ff3-a512c64dfde6___R.S_HL 7888 copy 2.jpg,maize_healthy,maize_healthy,0.9993482232093811
+data/multicrop-v1/splits/validation/maize_healthy/6b1b41a1-16f3-4d6f-ae52-de5d93b6c368___R.S_HL 7959 copy 2.jpg,maize_healthy,maize_healthy,0.9996090531349182
+data/multicrop-v1/splits/validation/maize_healthy/6be24373-115c-42d4-9e57-35a7b208a021___R.S_HL 0614 copy.jpg,maize_healthy,maize_healthy,0.9966527819633484
+data/multicrop-v1/splits/validation/maize_healthy/6fa2365c-475e-4fae-aab3-f2b49aaf1a09___R.S_HL 8144 copy 2.jpg,maize_healthy,maize_healthy,0.9891046285629272
+data/multicrop-v1/splits/validation/maize_healthy/702dd799-fed6-46a4-a6c9-6f0e42186823___R.S_HL 8091 copy.jpg,maize_healthy,maize_healthy,0.999716579914093
+data/multicrop-v1/splits/validation/maize_healthy/705e4964-204c-4a80-bc0c-fd7ce6d96ba7___R.S_HL 0649 copy 2.jpg,maize_healthy,maize_healthy,0.9985209107398987
+data/multicrop-v1/splits/validation/maize_healthy/7104ad51-e018-4c0d-b767-33014cefe392___R.S_HL 8232 copy.jpg,maize_healthy,maize_healthy,0.9995959401130676
+data/multicrop-v1/splits/validation/maize_healthy/735da592-2081-42bd-9652-3d12e19210cc___R.S_HL 7918 copy 2.jpg,maize_healthy,maize_healthy,0.9987309575080872
+data/multicrop-v1/splits/validation/maize_healthy/74a4c1f4-26e2-4861-bcc8-16d26f215387___R.S_HL 8300 copy 2.jpg,maize_healthy,maize_healthy,0.9996181726455688
+data/multicrop-v1/splits/validation/maize_healthy/74fd304e-662f-4b5c-a6d5-22b293c99a4d___R.S_HL 5492 copy 2.jpg,maize_healthy,maize_healthy,0.990152895450592
+data/multicrop-v1/splits/validation/maize_healthy/75fad611-5be6-49bc-a0b1-fb7e99e862f0___R.S_HL 8161 copy.jpg,maize_healthy,maize_healthy,0.999112069606781
+data/multicrop-v1/splits/validation/maize_healthy/764ab13c-df6b-44f5-993c-180aa14ed89f___R.S_HL 7911 copy 2.jpg,maize_healthy,maize_healthy,0.999924898147583
+data/multicrop-v1/splits/validation/maize_healthy/76bada1b-94ff-4c8c-a9b9-2f4b894faebf___R.S_HL 8133 copy.jpg,maize_healthy,maize_healthy,0.9991662502288818
+data/multicrop-v1/splits/validation/maize_healthy/77b65e0c-f32f-4c5d-9753-0dff4d9e64c2___R.S_HL 0632 copy.jpg,maize_healthy,maize_healthy,0.9982351064682007
+data/multicrop-v1/splits/validation/maize_healthy/79a3c505-b637-4ebb-b7e9-61f46bc0eb0b___R.S_HL 7922 copy.jpg,maize_healthy,maize_healthy,0.9994971752166748
+data/multicrop-v1/splits/validation/maize_healthy/7c1d9131-4e97-4e81-97e6-496bab9d9134___R.S_HL 8093 copy.jpg,maize_healthy,maize_healthy,0.9990276098251343
+data/multicrop-v1/splits/validation/maize_healthy/7d6650bc-9627-4e3b-bc7e-d247808e6f08___R.S_HL 7913 copy 2.jpg,maize_healthy,maize_healthy,0.9997668862342834
+data/multicrop-v1/splits/validation/maize_healthy/7d8c90b7-a84f-4c35-a43f-7d199bbfb493___R.S_HL 0608 copy.jpg,maize_healthy,maize_healthy,0.9928701519966125
+data/multicrop-v1/splits/validation/maize_healthy/7f467853-2961-4e1f-ae5a-e4819e418c77___R.S_HL 7899 copy.jpg,maize_healthy,maize_healthy,0.9984391331672668
+data/multicrop-v1/splits/validation/maize_healthy/7fc25a23-0432-469b-88a8-a5747f216b14___R.S_HL 8203 copy.jpg,maize_healthy,maize_healthy,0.9997885823249817
+data/multicrop-v1/splits/validation/maize_healthy/801ec1d8-e4e4-4682-85ff-fddfeaeae8c6___R.S_HL 0603 copy.jpg,maize_healthy,maize_healthy,0.9994575381278992
+data/multicrop-v1/splits/validation/maize_healthy/81b0d8bd-b21a-448a-8aca-a1bf971bf014___R.S_HL 8029 copy 2.jpg,maize_healthy,maize_healthy,0.9989504814147949
+data/multicrop-v1/splits/validation/maize_healthy/847fd306-e1a9-4e3f-a8b5-3e8eca322535___R.S_HL 8226 copy.jpg,maize_healthy,maize_healthy,0.999691367149353
+data/multicrop-v1/splits/validation/maize_healthy/85f2fc5b-e087-4614-9e22-1c264bcc6584___R.S_HL 7981 copy 2.jpg,maize_healthy,maize_healthy,0.9997618794441223
+data/multicrop-v1/splits/validation/maize_healthy/88966c55-4abc-4e8b-9b21-353186513806___R.S_HL 7953 copy 2.jpg,maize_healthy,maize_healthy,0.9996227025985718
+data/multicrop-v1/splits/validation/maize_healthy/88d705bb-1928-4323-9258-77ac3c2183ea___R.S_HL 8045 copy.jpg,maize_healthy,maize_healthy,0.9998002648353577
+data/multicrop-v1/splits/validation/maize_healthy/8d6e7517-6adb-4301-88ea-ded52dae7da8___R.S_HL 8172 copy 2.jpg,maize_healthy,maize_healthy,0.9994021654129028
+data/multicrop-v1/splits/validation/maize_healthy/8e1480d8-2b13-4b0e-83a0-6f8d8e37d888___R.S_HL 7911 copy 3.jpg,maize_healthy,maize_healthy,0.9997308850288391
+data/multicrop-v1/splits/validation/maize_healthy/90548ed6-1573-4a72-9f60-6188a1fbd2ff___R.S_HL 8150 copy.jpg,maize_healthy,maize_healthy,0.9996896982192993
+data/multicrop-v1/splits/validation/maize_healthy/915745f2-1da9-4e98-aba1-8a892cb1a863___R.S_HL 0597 copy.jpg,maize_healthy,maize_healthy,0.982448399066925
+data/multicrop-v1/splits/validation/maize_healthy/97433b9f-77bb-4279-b9d2-7b7bd6e12f5d___R.S_HL 7941 copy 2.jpg,maize_healthy,maize_healthy,0.999891996383667
+data/multicrop-v1/splits/validation/maize_healthy/975bf2e2-458b-48e0-a941-7afccabd69cf___R.S_HL 0634 copy 4.jpg,maize_healthy,maize_healthy,0.9607210755348206
+data/multicrop-v1/splits/validation/maize_healthy/992ddc51-df49-400f-afd5-cf311bc1d558___R.S_HL 8007 copy.jpg,maize_healthy,maize_healthy,0.9978880286216736
+data/multicrop-v1/splits/validation/maize_healthy/993fce59-927c-405d-9761-784d15d8c799___R.S_HL 8064 copy 2.jpg,maize_healthy,maize_healthy,0.9998922348022461
+data/multicrop-v1/splits/validation/maize_healthy/99f5a97f-3c9a-4adf-a246-134a8150c8c7___R.S_HL 8199 copy 2.jpg,maize_healthy,maize_healthy,0.9998615980148315
+data/multicrop-v1/splits/validation/maize_healthy/9aa6a76b-0385-4574-88a0-50f22b46fa3e___R.S_HL 8296 copy.jpg,maize_healthy,maize_healthy,0.9976156949996948
+data/multicrop-v1/splits/validation/maize_healthy/9dfbeea0-0afb-4f03-ae40-5c4508141a6a___R.S_HL 7913 copy.jpg,maize_healthy,maize_healthy,0.9996263980865479
+data/multicrop-v1/splits/validation/maize_healthy/9e5babf1-042a-4272-aa78-c29f30041a47___R.S_HL 7910 copy 2.jpg,maize_healthy,maize_healthy,0.9998438358306885
+data/multicrop-v1/splits/validation/maize_healthy/9fd2b7a7-1ac4-4e6e-9c6a-34bacd208df2___R.S_HL 8341 copy.jpg,maize_healthy,maize_healthy,0.9973418116569519
+data/multicrop-v1/splits/validation/maize_healthy/a0737ce0-3cdb-4773-95eb-377efa68bc06___R.S_HL 8174 copy.jpg,maize_healthy,maize_healthy,0.9998606443405151
+data/multicrop-v1/splits/validation/maize_healthy/a20456bd-0ca9-4999-9a10-cda7915d280c___R.S_HL 5527 copy 2.jpg,maize_healthy,maize_healthy,0.9952038526535034
+data/multicrop-v1/splits/validation/maize_healthy/a2686a31-5b86-43b3-843b-2061d4e975a7___R.S_HL 8103 copy.jpg,maize_healthy,maize_healthy,0.9997130036354065
+data/multicrop-v1/splits/validation/maize_healthy/a5e0272b-cf5e-4860-9b12-93f00f85164f___R.S_HL 8072 copy.jpg,maize_healthy,maize_healthy,0.9889147877693176
+data/multicrop-v1/splits/validation/maize_healthy/a9fb7f08-cb01-431e-ae32-cbeb1279e866___R.S_HL 8313 copy 2.jpg,maize_healthy,maize_healthy,0.999893307685852
+data/multicrop-v1/splits/validation/maize_healthy/a9fcf4e5-73f1-4c51-a3ef-a5800cc6df62___R.S_HL 8025 copy.jpg,maize_healthy,maize_healthy,0.9983788728713989
+data/multicrop-v1/splits/validation/maize_healthy/ae06c7e3-e283-4359-9d98-2c97a1dd3e83___R.S_HL 8062 copy.jpg,maize_healthy,maize_healthy,0.998325765132904
+data/multicrop-v1/splits/validation/maize_healthy/ae2d73a4-c6e2-4b85-aaa7-3027e2a2c6a9___R.S_HL 5564 copy.jpg,maize_healthy,maize_healthy,0.9976745247840881
+data/multicrop-v1/splits/validation/maize_healthy/ae81a3e8-f4c3-4929-a915-6f09b6961b11___R.S_HL 8107 copy.jpg,maize_healthy,maize_healthy,0.9998857975006104
+data/multicrop-v1/splits/validation/maize_healthy/af25549e-f09a-4fa5-958b-aa9c49ac6119___R.S_HL 8122 copy 2.jpg,maize_healthy,maize_healthy,0.9960002303123474
+data/multicrop-v1/splits/validation/maize_healthy/af57ac04-46ad-4655-81f3-4fc4a01d1c1a___R.S_HL 8238 copy 2.jpg,maize_healthy,maize_healthy,0.9999065399169922
+data/multicrop-v1/splits/validation/maize_healthy/b1565e81-b8c3-4ba3-8b57-94395f82a3f2___R.S_HL 0595 copy 2.jpg,maize_healthy,maize_healthy,0.9985654950141907
+data/multicrop-v1/splits/validation/maize_healthy/b2495f66-78f3-40d5-b3e0-1a02545825cc___R.S_HL 5510 copy 2.jpg,maize_healthy,maize_healthy,0.9992142915725708
+data/multicrop-v1/splits/validation/maize_healthy/b27ca23d-e90c-4087-8421-dec6e1876c89___R.S_HL 8075 copy.jpg,maize_healthy,maize_healthy,0.9994864463806152
+data/multicrop-v1/splits/validation/maize_healthy/b3ff7fcd-955e-4a4d-9278-9642ac737f73___R.S_HL 0638 copy 2.jpg,maize_healthy,maize_healthy,0.9969565868377686
+data/multicrop-v1/splits/validation/maize_healthy/b665c826-905b-46de-903e-3946b3e65365___R.S_HL 0633 copy.jpg,maize_healthy,maize_healthy,0.9885298609733582
+data/multicrop-v1/splits/validation/maize_healthy/b7214149-73ad-481e-9227-c9fe77f10477___R.S_HL 7896 copy 2.jpg,maize_healthy,maize_healthy,0.9997366070747375
+data/multicrop-v1/splits/validation/maize_healthy/b7d46732-7d3c-4802-8312-1cc4bea8758d___R.S_HL 7880 copy.jpg,maize_healthy,maize_healthy,0.9830858707427979
+data/multicrop-v1/splits/validation/maize_healthy/b914d1d7-db9b-4db3-9360-1ba44beef18b___R.S_HL 8176 copy 2.jpg,maize_healthy,maize_healthy,0.9995656609535217
+data/multicrop-v1/splits/validation/maize_healthy/ba5545b4-4812-42ed-94ee-73fa785156ad___R.S_HL 8227 copy 2.jpg,maize_healthy,maize_healthy,0.9996583461761475
+data/multicrop-v1/splits/validation/maize_healthy/bc45e1c9-7937-4fe6-9601-371df46a60da___R.S_HL 8025 copy 2.jpg,maize_healthy,maize_healthy,0.9957412481307983
+data/multicrop-v1/splits/validation/maize_healthy/bc95ac1d-48c4-4a4b-a303-7441a09751d9___R.S_HL 7887 copy 2.jpg,maize_healthy,maize_healthy,0.9777712821960449
+data/multicrop-v1/splits/validation/maize_healthy/bd16cdda-2c8d-4577-a597-a46c0222d841___R.S_HL 8281 copy.jpg,maize_healthy,maize_healthy,0.9986264705657959
+data/multicrop-v1/splits/validation/maize_healthy/bda90983-a55a-40d2-bcbc-f2279e82d937___R.S_HL 8320 copy.jpg,maize_healthy,maize_healthy,0.9994439482688904
+data/multicrop-v1/splits/validation/maize_healthy/bebf32c0-2daa-484c-804b-a6552f30d58d___R.S_HL 5532 copy 2.jpg,maize_healthy,maize_healthy,0.9928135275840759
+data/multicrop-v1/splits/validation/maize_healthy/bf3bdd27-ed83-4347-8ca0-4e7cf8530f80___R.S_HL 8333 copy.jpg,maize_healthy,maize_healthy,0.9972109198570251
+data/multicrop-v1/splits/validation/maize_healthy/c12df11f-fd72-43ea-98b6-b42bd71b9ed9___R.S_HL 8048 copy 2.jpg,maize_healthy,maize_healthy,0.9998438358306885
+data/multicrop-v1/splits/validation/maize_healthy/c9223f42-46af-4fa7-bf4e-40a771dafd9f___R.S_HL 0621 copy 3.jpg,maize_healthy,maize_healthy,0.9958998560905457
+data/multicrop-v1/splits/validation/maize_healthy/ca270450-47d5-49a6-8fc5-881bef1b36af___R.S_HL 8059 copy 2.jpg,maize_healthy,maize_healthy,0.9994645714759827
+data/multicrop-v1/splits/validation/maize_healthy/caf84ecd-be68-434b-8a0c-86cdccd4eb94___R.S_HL 8036 copy.jpg,maize_healthy,maize_healthy,0.9991242289543152
+data/multicrop-v1/splits/validation/maize_healthy/cb08f6cf-4701-475a-b589-d3f486a672a5___R.S_HL 7898 copy.jpg,maize_healthy,maize_healthy,0.996019184589386
+data/multicrop-v1/splits/validation/maize_healthy/ce35ae6e-3f27-4105-adc8-a661a1157170___R.S_HL 5556 copy 2.jpg,maize_healthy,maize_healthy,0.9991950392723083
+data/multicrop-v1/splits/validation/maize_healthy/cf700a80-b413-4b95-ad88-d916bc9ffc93___R.S_HL 7946 copy.jpg,maize_healthy,maize_healthy,0.9995573163032532
+data/multicrop-v1/splits/validation/maize_healthy/d0378d5a-47f6-4340-950b-18b4c2a8a598___R.S_HL 0600.JPG,maize_healthy,maize_healthy,0.9979249238967896
+data/multicrop-v1/splits/validation/maize_healthy/d0ed7e16-a6f5-403e-9b26-d0d9d74e1a32___R.S_HL 8004 copy.jpg,maize_healthy,maize_healthy,0.9995347261428833
+data/multicrop-v1/splits/validation/maize_healthy/d497c6d2-6bfd-4de6-be98-5d3d4ab525fd___R.S_HL 8338 copy.jpg,maize_healthy,maize_healthy,0.9983808994293213
+data/multicrop-v1/splits/validation/maize_healthy/d792cd67-6f5b-45aa-9e77-b6286057eac0___R.S_HL 8123 copy.jpg,maize_healthy,maize_healthy,0.9996168613433838
+data/multicrop-v1/splits/validation/maize_healthy/d81b52fe-50d6-460b-88c0-64392ffdc901___R.S_HL 8054 copy.jpg,maize_healthy,maize_healthy,0.9994592070579529
+data/multicrop-v1/splits/validation/maize_healthy/d83ea494-b075-49d2-9c86-07e988bd6033___R.S_HL 8095 copy 2.jpg,maize_healthy,maize_healthy,0.9989932179450989
+data/multicrop-v1/splits/validation/maize_healthy/d96a3d7e-3c5d-4b22-9506-6451660bb8bf___R.S_HL 8182 copy 2.jpg,maize_healthy,maize_healthy,0.9998949766159058
+data/multicrop-v1/splits/validation/maize_healthy/de4648fd-1910-4929-a644-af090a8031ab___R.S_HL 8242 copy 2.jpg,maize_healthy,maize_healthy,0.9993933439254761
+data/multicrop-v1/splits/validation/maize_healthy/e1059625-eff1-402f-87e0-01ed187dc8b6___R.S_HL 8185 copy 3.jpg,maize_healthy,maize_healthy,0.9988210797309875
+data/multicrop-v1/splits/validation/maize_healthy/e55e0dbd-5b63-463f-8556-ae18f1e50f7e___R.S_HL 8222 copy 2.jpg,maize_healthy,maize_healthy,0.9999402761459351
+data/multicrop-v1/splits/validation/maize_healthy/e5a2b441-8173-4c41-a56f-d359b1196719___R.S_HL 8119 copy 2.jpg,maize_healthy,maize_healthy,0.9991839528083801
+data/multicrop-v1/splits/validation/maize_healthy/e753f9e0-cfa5-482f-a361-ab3ad2ab151e___R.S_HL 7921 copy 2.jpg,maize_healthy,maize_healthy,0.9806211590766907
+data/multicrop-v1/splits/validation/maize_healthy/ea72ea68-be45-4961-ae56-32fc6b63d0e6___R.S_HL 7889 copy 2.jpg,maize_healthy,maize_healthy,0.9965803027153015
+data/multicrop-v1/splits/validation/maize_healthy/eb4095e8-2f8e-40a8-bf8f-b49d3dd66c27___R.S_HL 8237 copy 2.jpg,maize_healthy,maize_healthy,0.9983202815055847
+data/multicrop-v1/splits/validation/maize_healthy/ee069f8c-3110-446b-827b-f7a229833db6___R.S_HL 8154 copy.jpg,maize_healthy,maize_healthy,0.9994930028915405
+data/multicrop-v1/splits/validation/maize_healthy/f04a787c-6669-4a8e-8b8c-5d01d46ca724___R.S_HL 8105 copy.jpg,maize_healthy,maize_healthy,0.9995115995407104
+data/multicrop-v1/splits/validation/maize_healthy/f07047fa-af9d-4f33-afcc-bda603f4c568___R.S_HL 5523 copy 2.jpg,maize_healthy,maize_healthy,0.9986327290534973
+data/multicrop-v1/splits/validation/maize_healthy/f21eae95-ba11-4eeb-bd33-e003535bbaea___R.S_HL 8164 copy.jpg,maize_healthy,maize_healthy,0.9998249411582947
+data/multicrop-v1/splits/validation/maize_healthy/f8a466eb-a6f3-448b-9d05-a859d87d3f27___R.S_HL 5558 copy 2.jpg,maize_healthy,maize_healthy,0.9836750626564026
+data/multicrop-v1/splits/validation/maize_healthy/f924ef4a-eb10-4bc8-9a3d-24a2a3090798___R.S_HL 8336 copy 3.jpg,maize_healthy,maize_healthy,0.9961861968040466
+data/multicrop-v1/splits/validation/maize_healthy/fcfa5fad-9788-4104-8a33-bd981661ae3d___R.S_HL 8320 copy 2.jpg,maize_healthy,maize_healthy,0.9997507929801941
+data/multicrop-v1/splits/validation/maize_healthy/ff339e47-52bb-4e16-8338-d056f7dcf525___R.S_HL 8108 copy.jpg,maize_healthy,maize_healthy,0.9996733665466309
+data/multicrop-v1/splits/validation/maize_healthy/ff3d5051-494b-414e-adac-dd9c0e313dda___R.S_HL 8055 copy 2.jpg,maize_healthy,maize_healthy,0.9444433450698853
+data/multicrop-v1/splits/validation/maize_northern_blight/011b766d-7744-420d-a1a1-57bdff9b4ddd___RS_NLB 4128.JPG,maize_northern_blight,maize_northern_blight,0.9999672174453735
+data/multicrop-v1/splits/validation/maize_northern_blight/024fb674-fdcb-4777-a8d6-8a13abb58d8f___RS_NLB 3992.JPG,maize_northern_blight,maize_northern_blight,0.9933382272720337
+data/multicrop-v1/splits/validation/maize_northern_blight/033219ed-54a8-4f95-ab72-c87b90189006___RS_NLB 3818 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9997135996818542
+data/multicrop-v1/splits/validation/maize_northern_blight/050342b4-44fa-4fba-8c56-88e3b575a78e___RS_NLB 3887.JPG,maize_northern_blight,maize_northern_blight,0.9999233484268188
+data/multicrop-v1/splits/validation/maize_northern_blight/057c3f91-c15e-464b-b4ba-66b16dbe5149___RS_NLB 3565 copy.jpg,maize_northern_blight,maize_northern_blight,0.9981421232223511
+data/multicrop-v1/splits/validation/maize_northern_blight/0b002029-36c3-4ef4-b46c-29e45bf486d4___RS_NLB 0819.JPG,maize_northern_blight,maize_northern_blight,0.9998337030410767
+data/multicrop-v1/splits/validation/maize_northern_blight/0b3a35d8-25af-44ae-beed-398f591d5c1b___RS_NLB 0833.JPG,maize_northern_blight,maize_northern_blight,0.9987896084785461
+data/multicrop-v1/splits/validation/maize_northern_blight/0e9f32b5-3423-4412-a9b6-69ba653db207___RS_NLB 3565 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9997485280036926
+data/multicrop-v1/splits/validation/maize_northern_blight/0ea6082b-93ed-4823-a7c5-acd907695d6f___RS_NLB 4080.JPG,maize_northern_blight,maize_northern_blight,0.9989975094795227
+data/multicrop-v1/splits/validation/maize_northern_blight/1048748e-af83-48d0-ac54-2956ba4dc2e0___RS_NLB 4024.JPG,maize_northern_blight,maize_northern_blight,0.9930747747421265
+data/multicrop-v1/splits/validation/maize_northern_blight/1268904c-797f-4e33-bb41-afb58f369c6b___RS_NLB 3755.JPG,maize_northern_blight,maize_northern_blight,0.9999821186065674
+data/multicrop-v1/splits/validation/maize_northern_blight/14c0cb10-f1bc-49d5-b03e-65a81805140c___RS_NLB 3826.JPG,maize_northern_blight,maize_northern_blight,0.9979027509689331
+data/multicrop-v1/splits/validation/maize_northern_blight/1517209e-897b-4ad5-b43a-8c9a8573c862___RS_NLB 4156.JPG,maize_northern_blight,maize_northern_blight,0.9987937211990356
+data/multicrop-v1/splits/validation/maize_northern_blight/1a367958-51c4-4ebf-86ae-d6a5dc7e1114___RS_NLB 0770.JPG,maize_northern_blight,maize_northern_blight,0.9996335506439209
+data/multicrop-v1/splits/validation/maize_northern_blight/1b48b86b-f9ed-4df8-9a3d-213e188d3ff9___RS_NLB 3806 copy.jpg,maize_northern_blight,maize_northern_blight,0.9999548196792603
+data/multicrop-v1/splits/validation/maize_northern_blight/1d5e0e56-5aa0-4c7b-9edf-e7a51110e6c4___RS_NLB 4113.JPG,maize_northern_blight,maize_northern_blight,0.9989553689956665
+data/multicrop-v1/splits/validation/maize_northern_blight/2206258a-43f1-481e-ace3-f55851e4c9a9___RS_NLB 4114.JPG,maize_northern_blight,maize_northern_blight,0.999767005443573
+data/multicrop-v1/splits/validation/maize_northern_blight/22d215df-2361-481f-b3a7-27e3e2d5cebb___RS_NLB 3587.JPG,maize_northern_blight,maize_northern_blight,0.9999462366104126
+data/multicrop-v1/splits/validation/maize_northern_blight/2405c6b8-97e3-4223-bd26-b43f7db3e167___RS_NLB 3933.JPG,maize_northern_blight,maize_northern_blight,0.9902006983757019
+data/multicrop-v1/splits/validation/maize_northern_blight/246652d1-e8a5-4dc9-a252-6199fcc5fb34___RS_NLB 4221.JPG,maize_northern_blight,maize_northern_blight,0.9996122717857361
+data/multicrop-v1/splits/validation/maize_northern_blight/253f721d-33bf-4c54-a267-277965e95257___RS_NLB 3633.JPG,maize_northern_blight,maize_northern_blight,0.9982019662857056
+data/multicrop-v1/splits/validation/maize_northern_blight/27904b34-8f94-4646-8bb8-f2734c53cb1e___RS_NLB 3789.JPG,maize_northern_blight,maize_northern_blight,0.9994603991508484
+data/multicrop-v1/splits/validation/maize_northern_blight/297448cd-10e7-4f57-bb1c-ae02d6134565___RS_NLB 3849.JPG,maize_northern_blight,maize_northern_blight,0.9999299049377441
+data/multicrop-v1/splits/validation/maize_northern_blight/2b13f4ca-099f-46c1-8c5f-381d025127cb___RS_NLB 4240.JPG,maize_northern_blight,maize_northern_blight,0.9942743182182312
+data/multicrop-v1/splits/validation/maize_northern_blight/2b7de414-15f7-44ef-aef3-12e75819ac31___RS_NLB 4188.JPG,maize_northern_blight,maize_northern_blight,0.9994403719902039
+data/multicrop-v1/splits/validation/maize_northern_blight/2bad1ec2-1bd5-431c-919d-31247d9f32e2___RS_NLB 4180.JPG,maize_northern_blight,maize_northern_blight,0.9496816396713257
+data/multicrop-v1/splits/validation/maize_northern_blight/2e72b3e0-8e8e-471e-9ece-5157e2ef2f22___RS_NLB 3654.JPG,maize_northern_blight,maize_northern_blight,0.9982724189758301
+data/multicrop-v1/splits/validation/maize_northern_blight/2f91a397-315c-45bb-9d88-3d1389c82d98___RS_NLB 3508.JPG,maize_northern_blight,maize_northern_blight,0.9988464117050171
+data/multicrop-v1/splits/validation/maize_northern_blight/2fbb25c1-446d-4d0e-9a01-646bbcecd416___RS_NLB 3856.JPG,maize_northern_blight,maize_northern_blight,0.999988317489624
+data/multicrop-v1/splits/validation/maize_northern_blight/2fd737f7-bba3-4df7-8bd9-8c1d78b96bf3___RS_NLB 4127.JPG,maize_northern_blight,maize_northern_blight,0.9999877214431763
+data/multicrop-v1/splits/validation/maize_northern_blight/3103f262-0222-41f6-9ce3-8f18e8aa855c___RS_NLB 4243.JPG,maize_northern_blight,maize_northern_blight,0.9994956254959106
+data/multicrop-v1/splits/validation/maize_northern_blight/311621c2-ce96-4e4d-ae49-b303619e1f9f___RS_NLB 3632.JPG,maize_northern_blight,maize_northern_blight,0.806617259979248
+data/multicrop-v1/splits/validation/maize_northern_blight/315d38b6-f633-4d3f-b85f-69fc6999daa8___RS_NLB 4212.JPG,maize_northern_blight,maize_northern_blight,0.9999237060546875
+data/multicrop-v1/splits/validation/maize_northern_blight/31a49b40-0f0a-496d-a3bc-cf566bbbe845___RS_NLB 3568.JPG,maize_northern_blight,maize_northern_blight,0.9997484087944031
+data/multicrop-v1/splits/validation/maize_northern_blight/31a6d935-89b5-4feb-8fc6-44300ab3639e___RS_NLB 3640.JPG,maize_northern_blight,maize_northern_blight,0.9999489784240723
+data/multicrop-v1/splits/validation/maize_northern_blight/369b969a-f820-40ec-a43c-7500df90e6d1___RS_NLB 3615.JPG,maize_northern_blight,maize_northern_blight,0.9989151954650879
+data/multicrop-v1/splits/validation/maize_northern_blight/38b794a9-d3c7-4861-9cff-4465ed936f48___RS_NLB 3948.JPG,maize_northern_blight,maize_northern_blight,0.9999744892120361
+data/multicrop-v1/splits/validation/maize_northern_blight/3966eebb-e814-4cc8-90c8-2f91fa5d5ba9___RS_NLB 3897.JPG,maize_northern_blight,maize_northern_blight,0.999176561832428
+data/multicrop-v1/splits/validation/maize_northern_blight/398fe3cf-ca89-421f-ad3e-b16c720835c3___RS_NLB 3723.JPG,maize_northern_blight,maize_northern_blight,0.9569911956787109
+data/multicrop-v1/splits/validation/maize_northern_blight/3a0c570b-dfd1-4681-97be-658151e7279f___RS_NLB 4099.JPG,maize_northern_blight,maize_northern_blight,0.9955379962921143
+data/multicrop-v1/splits/validation/maize_northern_blight/426fad97-a40f-4629-bac8-01488bca3507___RS_NLB 3821.JPG,maize_northern_blight,maize_northern_blight,0.9978883862495422
+data/multicrop-v1/splits/validation/maize_northern_blight/4284aa42-8c36-4674-8ecd-70a7eb6ddd80___RS_NLB 3730.JPG,maize_northern_blight,maize_northern_blight,0.9999533891677856
+data/multicrop-v1/splits/validation/maize_northern_blight/429213c9-31f8-49e0-bf27-5ffe7c43100d___RS_NLB 0802.JPG,maize_northern_blight,maize_northern_blight,0.9990984201431274
+data/multicrop-v1/splits/validation/maize_northern_blight/42e5960b-f56e-430d-b729-e48a543a136f___RS_NLB 4072.JPG,maize_northern_blight,maize_northern_blight,0.9997921586036682
+data/multicrop-v1/splits/validation/maize_northern_blight/4454fe11-5b0f-48b2-9c16-090100c6332e___RS_NLB 4037.JPG,maize_northern_blight,maize_northern_blight,0.9999352693557739
+data/multicrop-v1/splits/validation/maize_northern_blight/474797d0-3298-4480-ba05-7c49026ffbbf___RS_NLB 3529.JPG,maize_northern_blight,maize_northern_blight,0.9994982481002808
+data/multicrop-v1/splits/validation/maize_northern_blight/4750f625-023b-46c8-8236-9a3c6bb93c73___RS_NLB 3471.JPG,maize_northern_blight,maize_northern_blight,0.9856858849525452
+data/multicrop-v1/splits/validation/maize_northern_blight/496510d6-dd7c-4dda-8379-d66a89b1b42f___RS_NLB 3793.JPG,maize_northern_blight,maize_northern_blight,0.9986372590065002
+data/multicrop-v1/splits/validation/maize_northern_blight/54f0ca3b-248f-4faf-91b0-8e29e800231e___RS_NLB 4031.JPG,maize_northern_blight,maize_northern_blight,0.999848484992981
+data/multicrop-v1/splits/validation/maize_northern_blight/571927a9-3b0a-4c5e-be0b-a3c9859d66fa___RS_NLB  4443 copy 3.jpg,maize_northern_blight,maize_northern_blight,0.9999628067016602
+data/multicrop-v1/splits/validation/maize_northern_blight/5736fa21-65b4-4068-88a4-7913a4d75769___RS_NLB 3888.JPG,maize_northern_blight,maize_northern_blight,0.9997640252113342
+data/multicrop-v1/splits/validation/maize_northern_blight/592130da-ac4b-4026-b774-f9ff76a0379f___RS_NLB 4067.JPG,maize_northern_blight,maize_northern_blight,0.9998156428337097
+data/multicrop-v1/splits/validation/maize_northern_blight/5a2e998f-6157-42a7-a2b3-bfb972a8c94e___RS_NLB 4111.JPG,maize_northern_blight,maize_northern_blight,0.9998438358306885
+data/multicrop-v1/splits/validation/maize_northern_blight/5a341520-f90d-40eb-89a7-e557aa572200___RS_NLB 0764.JPG,maize_northern_blight,maize_northern_blight,0.9995280504226685
+data/multicrop-v1/splits/validation/maize_northern_blight/5c867753-033e-4b36-b7dc-bc6470842130___RS_NLB 4233.JPG,maize_northern_blight,maize_northern_blight,0.9999490976333618
+data/multicrop-v1/splits/validation/maize_northern_blight/5c9325f7-10c4-4628-a6e5-f5932f1d4122___RS_NLB 4261.JPG,maize_northern_blight,maize_northern_blight,0.9998170733451843
+data/multicrop-v1/splits/validation/maize_northern_blight/5cfb5a57-6c25-41a8-b953-a8f8c11b5665___RS_NLB 4134.JPG,maize_northern_blight,maize_northern_blight,0.9995365142822266
+data/multicrop-v1/splits/validation/maize_northern_blight/5d8533b8-c57e-49af-aa9e-e4ab9f28f92b___RS_NLB 3691.JPG,maize_northern_blight,maize_northern_blight,0.9999455213546753
+data/multicrop-v1/splits/validation/maize_northern_blight/5ea1de01-683f-4080-a341-6eafb3d41bc4___RS_NLB 4154.JPG,maize_northern_blight,maize_northern_blight,0.9988683462142944
+data/multicrop-v1/splits/validation/maize_northern_blight/5ea8975f-1cb5-4452-b04b-1f63453d1e2f___RS_NLB 3803.JPG,maize_northern_blight,maize_northern_blight,0.999244213104248
+data/multicrop-v1/splits/validation/maize_northern_blight/5f1fc34e-15d7-4529-b136-3c35c12bf645___RS_NLB 3648.JPG,maize_northern_blight,maize_northern_blight,0.9934563040733337
+data/multicrop-v1/splits/validation/maize_northern_blight/5f2a5580-11f2-41c1-841c-a2f912fb7a05___RS_NLB 3817.JPG,maize_northern_blight,maize_northern_blight,0.9999426603317261
+data/multicrop-v1/splits/validation/maize_northern_blight/6522ad4a-5629-4510-ac5e-bf854c42d3fb___RS_NLB 4034.JPG,maize_northern_blight,maize_northern_blight,0.9971256852149963
+data/multicrop-v1/splits/validation/maize_northern_blight/653472ab-cec4-4253-a85e-6d1318f1c15f___RS_NLB 4054.JPG,maize_northern_blight,maize_northern_blight,0.9987013339996338
+data/multicrop-v1/splits/validation/maize_northern_blight/6779fd7c-58f3-4f20-bf7e-3f80596f61c3___RS_NLB 3622.JPG,maize_northern_blight,maize_northern_blight,0.9983038902282715
+data/multicrop-v1/splits/validation/maize_northern_blight/6880b763-1f12-4d80-9aa8-a2b8eecaed1a___RS_NLB 3543.JPG,maize_northern_blight,maize_northern_blight,0.9997212290763855
+data/multicrop-v1/splits/validation/maize_northern_blight/699c9da1-1968-469b-aab5-35b9856c04b4___RS_NLB 3776.JPG,maize_northern_blight,maize_northern_blight,0.9991424083709717
+data/multicrop-v1/splits/validation/maize_northern_blight/69ba838d-6ea2-4845-8d69-53d9a437d56e___RS_NLB 4171.JPG,maize_northern_blight,maize_northern_blight,0.9990983009338379
+data/multicrop-v1/splits/validation/maize_northern_blight/6a43e0eb-5366-4170-9782-12c16a853d04___RS_NLB 3519.JPG,maize_northern_blight,maize_northern_blight,0.9998897314071655
+data/multicrop-v1/splits/validation/maize_northern_blight/6b885bcd-1cf3-410a-81e7-49b2d63201e2___RS_NLB 4044 copy.jpg,maize_northern_blight,maize_northern_blight,0.9998964071273804
+data/multicrop-v1/splits/validation/maize_northern_blight/72588a71-5b19-4867-a1d4-1a3addca8ab4___RS_NLB 3553 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9991681575775146
+data/multicrop-v1/splits/validation/maize_northern_blight/72b09e95-0595-408e-8167-d765d21c6766___RS_NLB 3585.JPG,maize_northern_blight,maize_northern_blight,0.9996523857116699
+data/multicrop-v1/splits/validation/maize_northern_blight/739f7cf2-2f79-473b-864f-1a35916dc5a7___RS_NLB 4094.JPG,maize_northern_blight,maize_northern_blight,0.9996659755706787
+data/multicrop-v1/splits/validation/maize_northern_blight/740b35ad-1f29-4a5d-b0db-f521992ce04c___RS_NLB 3917.JPG,maize_northern_blight,maize_northern_blight,0.9996867179870605
+data/multicrop-v1/splits/validation/maize_northern_blight/747fb09f-a7c2-4465-833f-537b32edd8ea___RS_NLB 4123.JPG,maize_northern_blight,maize_northern_blight,0.9983186721801758
+data/multicrop-v1/splits/validation/maize_northern_blight/76071bfd-f326-4e3d-b3b9-c2d364ec2d49___RS_NLB 3623.JPG,maize_northern_blight,maize_northern_blight,0.9812037348747253
+data/multicrop-v1/splits/validation/maize_northern_blight/77179782-2d6e-4056-ad95-f8263be229ab___RS_NLB 3674.JPG,maize_northern_blight,maize_northern_blight,0.9998430013656616
+data/multicrop-v1/splits/validation/maize_northern_blight/794d90ef-521a-4231-894c-4a37fc66503d___RS_NLB 4017.JPG,maize_northern_blight,maize_northern_blight,0.9985583424568176
+data/multicrop-v1/splits/validation/maize_northern_blight/7e4e9a08-b9c5-46ec-b92b-ebd0cade32e3___RS_NLB 3942.JPG,maize_northern_blight,maize_northern_blight,0.9999854564666748
+data/multicrop-v1/splits/validation/maize_northern_blight/813ee203-b638-4b3e-af2f-237218a58b8d___RS_NLB 4157.JPG,maize_northern_blight,maize_northern_blight,0.9999626874923706
+data/multicrop-v1/splits/validation/maize_northern_blight/8164afe9-7944-4e39-a7e8-f84904c09715___RS_NLB 0780.JPG,maize_northern_blight,maize_northern_blight,0.9990383386611938
+data/multicrop-v1/splits/validation/maize_northern_blight/8187d1cd-0de8-48d9-bd90-48c718ce090d___RS_NLB 3702.JPG,maize_northern_blight,maize_northern_blight,0.9992842078208923
+data/multicrop-v1/splits/validation/maize_northern_blight/8442e3a8-1010-4dbb-8293-3f427e1ddeb3___RS_NLB 4001.JPG,maize_northern_blight,maize_northern_blight,0.9890702962875366
+data/multicrop-v1/splits/validation/maize_northern_blight/89926d8f-aad1-4918-9d37-e1f3e0a4c6b6___RS_NLB 3861.JPG,maize_northern_blight,maize_northern_blight,0.9993988275527954
+data/multicrop-v1/splits/validation/maize_northern_blight/8bd5dce4-b65c-456f-95b1-a86ff17f4f94___RS_NLB 3894.JPG,maize_northern_blight,maize_northern_blight,0.9994956254959106
+data/multicrop-v1/splits/validation/maize_northern_blight/8e4fd84d-73d6-4dbd-b049-d0e01b8cd8bd___RS_NLB 3913.JPG,maize_northern_blight,maize_northern_blight,0.9998488426208496
+data/multicrop-v1/splits/validation/maize_northern_blight/8f9ac1a8-f91f-4895-ba02-a2ff696fa43e___RS_NLB 3486.JPG,maize_northern_blight,maize_northern_blight,0.6985480189323425
+data/multicrop-v1/splits/validation/maize_northern_blight/96ad24f7-d865-433f-b3ef-798ed8cc78f1___RS_NLB 3819 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9841650724411011
+data/multicrop-v1/splits/validation/maize_northern_blight/96e81d2a-1f67-423a-905e-6b0b3543f120___RS_NLB 3576 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9998051524162292
+data/multicrop-v1/splits/validation/maize_northern_blight/9d2d967e-cd83-4407-96ee-4620a979b00b___RS_NLB 4283.JPG,maize_northern_blight,maize_northern_blight,0.9998944997787476
+data/multicrop-v1/splits/validation/maize_northern_blight/9f9bba25-9ffb-472d-8fb7-b887ba59de51___RS_NLB 3980.JPG,maize_northern_blight,maize_northern_blight,0.9997581839561462
+data/multicrop-v1/splits/validation/maize_northern_blight/9f9d4aba-57b8-4c76-9d3f-f029e1728461___RS_NLB 4135.JPG,maize_northern_blight,maize_northern_blight,0.9991224408149719
+data/multicrop-v1/splits/validation/maize_northern_blight/a3155868-d50e-45d7-a0bf-870d3f5d16eb___RS_NLB 4263.JPG,maize_northern_blight,maize_northern_blight,0.9996944665908813
+data/multicrop-v1/splits/validation/maize_northern_blight/a3359351-66b0-4774-8165-6e002c8fb96f___RS_NLB 3634.JPG,maize_northern_blight,maize_northern_blight,0.9992528557777405
+data/multicrop-v1/splits/validation/maize_northern_blight/a3a57aa7-6785-48a8-9bb6-f2726d365f9f___RS_NLB 3686.JPG,maize_northern_blight,maize_northern_blight,0.9955483675003052
+data/multicrop-v1/splits/validation/maize_northern_blight/a3b588f0-1c34-4a1e-ad47-c2202a896173___RS_NLB 3834.JPG,maize_northern_blight,maize_northern_blight,0.9518337845802307
+data/multicrop-v1/splits/validation/maize_northern_blight/a3bffb58-3110-4063-b2dd-738d38597858___RS_NLB 3961.JPG,maize_northern_blight,maize_northern_blight,0.9988574981689453
+data/multicrop-v1/splits/validation/maize_northern_blight/a68b5b3a-40a9-4600-99d3-7ff995ae5742___RS_NLB 3638.JPG,maize_northern_blight,maize_northern_blight,0.9988881945610046
+data/multicrop-v1/splits/validation/maize_northern_blight/a7a2af2d-ec31-4567-ac30-e6cc593e1cb9___RS_NLB 3995.JPG,maize_northern_blight,maize_northern_blight,0.9997332692146301
+data/multicrop-v1/splits/validation/maize_northern_blight/a7a738f0-39e4-4541-828d-92c5dd42ee86___RS_NLB 3544.JPG,maize_northern_blight,maize_northern_blight,0.9990430474281311
+data/multicrop-v1/splits/validation/maize_northern_blight/a87efc8b-924b-4b99-820a-c4738bbdc446___RS_NLB 4259.JPG,maize_northern_blight,maize_northern_blight,0.9997779726982117
+data/multicrop-v1/splits/validation/maize_northern_blight/ab2c2346-36e9-46ee-8762-2444560774eb___RS_NLB 3532.JPG,maize_northern_blight,maize_northern_blight,0.9999102354049683
+data/multicrop-v1/splits/validation/maize_northern_blight/abb52b8e-2034-4060-8f45-9d5220cd0906___RS_NLB 3931.JPG,maize_northern_blight,maize_northern_blight,0.9999915361404419
+data/multicrop-v1/splits/validation/maize_northern_blight/abd4ee1e-822b-4ff5-a8f8-2a7a27aa6584___RS_NLB 3517.JPG,maize_northern_blight,maize_northern_blight,0.9982944130897522
+data/multicrop-v1/splits/validation/maize_northern_blight/ac38d408-9cc0-4979-966e-b4bf6413e84c___RS_NLB 3732.JPG,maize_northern_blight,maize_northern_blight,0.9997689127922058
+data/multicrop-v1/splits/validation/maize_northern_blight/ac9b63b9-d14c-4d9d-bf6f-6888b6092d3c___RS_NLB 3921.JPG,maize_northern_blight,maize_northern_blight,0.9852195978164673
+data/multicrop-v1/splits/validation/maize_northern_blight/ad75b9e5-d8c8-4719-8bfa-61bad83ff706___RS_NLB 3565.JPG,maize_northern_blight,maize_northern_blight,0.9997336268424988
+data/multicrop-v1/splits/validation/maize_northern_blight/add115ab-8070-4694-9aa7-6113253da96e___RS_NLB 3706.JPG,maize_northern_blight,maize_northern_blight,0.999840259552002
+data/multicrop-v1/splits/validation/maize_northern_blight/b05a1bee-0b31-4c32-8091-8257ce42abd0___RS_NLB 4207.JPG,maize_northern_blight,maize_northern_blight,0.9966437816619873
+data/multicrop-v1/splits/validation/maize_northern_blight/b5836ce1-7bc3-425b-b311-ed8e5ea47ab9___RS_NLB 3515.JPG,maize_northern_blight,maize_northern_blight,0.9867044687271118
+data/multicrop-v1/splits/validation/maize_northern_blight/b7cc5fb5-a617-4137-bd5f-2236413ec4bc___RS_NLB 3794.JPG,maize_northern_blight,maize_northern_blight,0.9948408007621765
+data/multicrop-v1/splits/validation/maize_northern_blight/b927fa6f-d9c6-4fa0-b93f-ca77f7cec655___RS_NLB 3827.JPG,maize_northern_blight,maize_northern_blight,0.9981531500816345
+data/multicrop-v1/splits/validation/maize_northern_blight/bf03fb8c-faeb-46e5-afe9-227289738dc4___RS_NLB 3749.JPG,maize_northern_blight,maize_northern_blight,0.9980069994926453
+data/multicrop-v1/splits/validation/maize_northern_blight/c0d0dfd0-2167-4cde-b90e-170703d962f0___RS_NLB 4255.JPG,maize_northern_blight,maize_northern_blight,0.9999892711639404
+data/multicrop-v1/splits/validation/maize_northern_blight/c5e23efb-7f78-47c4-8de8-a00d5a925af1___RS_NLB 3626.JPG,maize_northern_blight,maize_northern_blight,0.9860988855361938
+data/multicrop-v1/splits/validation/maize_northern_blight/c72b436a-2b40-4e4c-8a87-275ec5c90bea___RS_NLB 0827.JPG,maize_northern_blight,maize_northern_blight,0.9992584586143494
+data/multicrop-v1/splits/validation/maize_northern_blight/c9155ccc-9e80-4d80-9926-baa5a9a8f614___RS_NLB 3635.JPG,maize_northern_blight,maize_northern_blight,0.9999878406524658
+data/multicrop-v1/splits/validation/maize_northern_blight/ca3919bb-4e04-4fb2-a2d9-22e798d6ca60___RS_NLB 3970 copy.jpg,maize_northern_blight,maize_northern_blight,0.9994897842407227
+data/multicrop-v1/splits/validation/maize_northern_blight/cc76de91-e4bf-4d71-a74f-0f2a28ce7f9b___RS_NLB 4013.JPG,maize_northern_blight,maize_northern_blight,0.9980535507202148
+data/multicrop-v1/splits/validation/maize_northern_blight/cd2c4993-7fe9-42dc-a96e-7a8892f4b2d8___RS_NLB 3834 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.857519805431366
+data/multicrop-v1/splits/validation/maize_northern_blight/cd8e6562-3a13-4c9c-9fdb-55df3e8f578a___RS_NLB 3854.JPG,maize_northern_blight,maize_northern_blight,0.9981204867362976
+data/multicrop-v1/splits/validation/maize_northern_blight/cfec0626-7a50-4411-a6b9-f63a49e4d2eb___RS_NLB 3746.JPG,maize_northern_blight,maize_northern_blight,0.9979058504104614
+data/multicrop-v1/splits/validation/maize_northern_blight/d0ec3b78-8ea4-4938-bf6d-1baf5f0d640f___RS_NLB 4250.JPG,maize_northern_blight,maize_northern_blight,0.9999480247497559
+data/multicrop-v1/splits/validation/maize_northern_blight/d1c32303-12e4-4de5-b04a-811bcacfae3b___RS_NLB 3831.JPG,maize_northern_blight,maize_northern_blight,0.9199962615966797
+data/multicrop-v1/splits/validation/maize_northern_blight/d281dba8-6b57-4bec-9e86-4b5638f4d4dc___RS_NLB 3860.JPG,maize_northern_blight,maize_northern_blight,0.9999679327011108
+data/multicrop-v1/splits/validation/maize_northern_blight/d2dc8342-2ba5-4bad-b579-0360316fabe0___RS_NLB 3805 copy.jpg,maize_northern_blight,maize_northern_blight,0.9996657371520996
+data/multicrop-v1/splits/validation/maize_northern_blight/d317e749-6b6b-44b2-9db8-6ad489cf8d2e___RS_NLB 3750.JPG,maize_northern_blight,maize_northern_blight,0.9888381958007812
+data/multicrop-v1/splits/validation/maize_northern_blight/d334d37f-a75c-47d9-ad48-3d37c32ea3c9___RS_NLB 3582.JPG,maize_northern_blight,maize_northern_blight,0.9998218417167664
+data/multicrop-v1/splits/validation/maize_northern_blight/d44bc80c-3578-49e8-8f66-418d7b30132f___RS_NLB 4004.JPG,maize_northern_blight,maize_northern_blight,0.9998425245285034
+data/multicrop-v1/splits/validation/maize_northern_blight/d46fe184-72f6-4b05-8376-b6e17edc5458___RS_NLB  4671.JPG,maize_northern_blight,maize_northern_blight,0.999118983745575
+data/multicrop-v1/splits/validation/maize_northern_blight/d6fa356e-05e8-45fb-9084-54f7cc7db81e___RS_NLB 0822 copy 2.jpg,maize_northern_blight,maize_northern_blight,0.9972483515739441
+data/multicrop-v1/splits/validation/maize_northern_blight/d7b57a7e-957c-4225-acdd-c923e38056f4___RS_NLB 4059.JPG,maize_northern_blight,maize_northern_blight,0.9999538660049438
+data/multicrop-v1/splits/validation/maize_northern_blight/da24c7cf-a119-46e9-b34a-049d21fe610c___RS_NLB 0831.JPG,maize_northern_blight,maize_northern_blight,0.9992294311523438
+data/multicrop-v1/splits/validation/maize_northern_blight/dbc0dc71-c477-4d79-9c13-479bbbe783c8___RS_NLB 3931 copy.jpg,maize_northern_blight,maize_northern_blight,0.9999796152114868
+data/multicrop-v1/splits/validation/maize_northern_blight/e4113b41-f147-44d9-a531-2824bf5cad3c___RS_NLB 4048.JPG,maize_northern_blight,maize_northern_blight,0.999643087387085
+data/multicrop-v1/splits/validation/maize_northern_blight/e5e4cd23-60b4-4b94-bd47-31495d8e7263___RS_NLB 3514 copy.jpg,maize_northern_blight,maize_northern_blight,0.9997571110725403
+data/multicrop-v1/splits/validation/maize_northern_blight/e949a093-bf0c-4456-a15b-5c67a02480b1___RS_NLB 4096.JPG,maize_northern_blight,maize_northern_blight,0.9996210336685181
+data/multicrop-v1/splits/validation/maize_northern_blight/e9b6bee3-c097-4823-b057-c7ed167f072c___RS_NLB 4151.JPG,maize_northern_blight,maize_northern_blight,0.999953031539917
+data/multicrop-v1/splits/validation/maize_northern_blight/e9c3b693-1824-41bb-803c-2730cd06f9e5___RS_NLB 4152.JPG,maize_northern_blight,maize_northern_blight,0.998694121837616
+data/multicrop-v1/splits/validation/maize_northern_blight/eaf93f13-37be-489a-9405-b7602bf59f8a___RS_NLB 3963 copy.jpg,maize_northern_blight,maize_northern_blight,0.9999501705169678
+data/multicrop-v1/splits/validation/maize_northern_blight/ec769dd1-532c-4f81-b677-6b7b4d0d7606___RS_NLB 4140.JPG,maize_northern_blight,maize_northern_blight,0.999955415725708
+data/multicrop-v1/splits/validation/maize_northern_blight/f07ee21f-940b-453a-953d-00f53482b7f0___RS_NLB 4095.JPG,maize_northern_blight,maize_northern_blight,0.9992032647132874
+data/multicrop-v1/splits/validation/maize_northern_blight/f291f62a-d6f6-4f1e-92af-d6177b154263___RS_NLB 3662.JPG,maize_northern_blight,maize_northern_blight,0.99992835521698
+data/multicrop-v1/splits/validation/maize_northern_blight/f301b26e-ec9c-4d03-94fa-28a2a8fe617a___RS_NLB 4254.JPG,maize_northern_blight,maize_northern_blight,0.9999594688415527
+data/multicrop-v1/splits/validation/maize_northern_blight/f5773153-728e-4631-8cc8-1bc06412df89___RS_NLB 4056.JPG,maize_northern_blight,maize_northern_blight,0.9992941617965698
+data/multicrop-v1/splits/validation/maize_northern_blight/f586f423-9d98-4050-8c90-0b6a3a5e89f8___RS_NLB 3862.JPG,maize_northern_blight,maize_northern_blight,0.9983696341514587
+data/multicrop-v1/splits/validation/maize_northern_blight/fc1c72a4-1aff-4ebf-83ed-909a7b9dc382___RS_NLB  4670.JPG,maize_northern_blight,maize_northern_blight,0.9994106292724609
+data/multicrop-v1/splits/validation/maize_northern_blight/fdca88b7-bd2e-472a-b48f-7a5347d72f04___RS_NLB 3511.JPG,maize_northern_blight,maize_northern_blight,0.9722693562507629
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1576.JPG,maize_rust,maize_rust,0.9934654831886292
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1580.JPG,maize_rust,maize_rust,0.9992024302482605
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1589.JPG,maize_rust,maize_rust,0.9973475933074951
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1593.JPG,maize_rust,maize_rust,0.9781033992767334
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1597.JPG,maize_rust,maize_rust,0.9351535439491272
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1599.JPG,maize_rust,maize_rust,0.9999123811721802
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1600.JPG,maize_rust,maize_rust,0.9992486834526062
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1607.JPG,maize_rust,maize_rust,0.9952656030654907
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1616.JPG,maize_rust,maize_rust,0.9733520746231079
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1621.JPG,maize_rust,maize_rust,0.9994074106216431
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1627.JPG,maize_rust,maize_rust,0.9960416555404663
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1630.JPG,maize_rust,maize_rust,0.9992170333862305
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1635.JPG,maize_rust,maize_rust,0.9996911287307739
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1644.JPG,maize_rust,maize_rust,0.9994937181472778
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1647.JPG,maize_rust,maize_rust,0.997595489025116
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1651.JPG,maize_rust,maize_rust,0.9977783560752869
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1662.JPG,maize_rust,maize_rust,0.9995542168617249
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1676.JPG,maize_rust,maize_rust,0.9990173578262329
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1677.JPG,maize_rust,maize_rust,0.843934178352356
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1683.JPG,maize_rust,maize_rust,0.9815368056297302
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1691.JPG,maize_rust,maize_rust,0.9935877323150635
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1693.JPG,maize_rust,maize_rust,0.9995648264884949
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1700.JPG,maize_rust,maize_rust,0.9993065595626831
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1703.JPG,maize_rust,maize_rust,0.9963456988334656
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1707.JPG,maize_rust,maize_rust,0.9968114495277405
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1710.JPG,maize_rust,maize_rust,0.9921642541885376
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1712.JPG,maize_rust,maize_rust,0.9918017983436584
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1719.JPG,maize_rust,maize_rust,0.9995236396789551
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1720.JPG,maize_rust,maize_rust,0.9999775886535645
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1725.JPG,maize_rust,maize_rust,0.9981420040130615
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1727.JPG,maize_rust,maize_rust,0.8589134812355042
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1738.JPG,maize_rust,maize_rust,0.9913056492805481
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1739.JPG,maize_rust,maize_rust,0.9899869561195374
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1749.JPG,maize_rust,maize_rust,0.985009491443634
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1750.JPG,maize_rust,maize_rust,0.9931569695472717
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1758.JPG,maize_rust,maize_rust,0.9998020529747009
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1763.JPG,maize_rust,maize_rust,0.9997492432594299
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1764.JPG,maize_rust,maize_rust,0.9996669292449951
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1766.JPG,maize_rust,maize_rust,0.99818354845047
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1767.JPG,maize_rust,maize_rust,0.9997853636741638
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1771.JPG,maize_rust,maize_rust,0.9999129772186279
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1777.JPG,maize_rust,maize_rust,0.9817671179771423
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1785.JPG,maize_rust,maize_rust,0.9852597713470459
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1786.JPG,maize_rust,maize_rust,0.9979482293128967
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1801.JPG,maize_rust,maize_rust,0.9987567663192749
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1805.JPG,maize_rust,maize_rust,0.9561541676521301
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1808.JPG,maize_rust,maize_rust,0.9952836632728577
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1814.JPG,maize_rust,maize_rust,0.9991752505302429
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1825.JPG,maize_rust,maize_rust,0.9998838901519775
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1839.JPG,maize_rust,maize_rust,0.9985783100128174
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1850.JPG,maize_rust,maize_rust,0.9955376386642456
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1860.JPG,maize_rust,maize_rust,0.9993027448654175
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1872.JPG,maize_rust,maize_rust,0.9954894185066223
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1873.JPG,maize_rust,maize_rust,0.9996497631072998
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1874.JPG,maize_rust,maize_rust,0.9995167255401611
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1888.JPG,maize_rust,maize_rust,0.9912201762199402
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1893.JPG,maize_rust,maize_rust,0.9998389482498169
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1902.JPG,maize_rust,maize_rust,0.9967730641365051
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1904.JPG,maize_rust,maize_rust,0.9998937845230103
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1912.JPG,maize_rust,maize_rust,0.9853575825691223
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1917.JPG,maize_rust,maize_rust,0.9993383288383484
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1927.JPG,maize_rust,maize_rust,0.9732988476753235
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1941.JPG,maize_rust,maize_rust,0.9998595714569092
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1942.JPG,maize_rust,maize_rust,0.9943804144859314
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1943.JPG,maize_rust,maize_rust,0.997877836227417
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1949.JPG,maize_rust,maize_rust,0.946060299873352
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1950.JPG,maize_rust,maize_rust,0.9948697090148926
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1959.JPG,maize_rust,maize_rust,0.993285596370697
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1969.JPG,maize_rust,maize_rust,0.9944410920143127
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1972.JPG,maize_rust,maize_rust,0.9937158226966858
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1981.JPG,maize_rust,maize_rust,0.9999570846557617
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1991.JPG,maize_rust,maize_rust,0.9918934106826782
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1995.JPG,maize_rust,maize_rust,0.994248628616333
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 1996.JPG,maize_rust,maize_rust,0.9998189806938171
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2003.JPG,maize_rust,maize_rust,0.999921441078186
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2006.JPG,maize_rust,maize_rust,0.9816915392875671
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2015.JPG,maize_rust,maize_rust,0.9994496703147888
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2028.JPG,maize_rust,maize_rust,0.9999654293060303
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2030.JPG,maize_rust,maize_rust,0.9996230602264404
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2033.JPG,maize_rust,maize_rust,0.9997575879096985
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2036.JPG,maize_rust,maize_rust,0.9991724491119385
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2043.JPG,maize_rust,maize_rust,0.993791401386261
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2046.JPG,maize_rust,maize_rust,0.9838716983795166
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2056.JPG,maize_rust,maize_rust,0.9992765784263611
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2065.JPG,maize_rust,maize_rust,0.9994340538978577
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2068.JPG,maize_rust,maize_rust,0.9983682036399841
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2082.JPG,maize_rust,maize_rust,0.9996792078018188
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2087.JPG,maize_rust,maize_rust,0.9997461438179016
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2093.JPG,maize_rust,maize_rust,0.9988548755645752
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2130.JPG,maize_rust,maize_rust,0.9994761347770691
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2132.JPG,maize_rust,maize_rust,0.9915524125099182
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2133.JPG,maize_rust,maize_rust,0.9927131533622742
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2134.JPG,maize_rust,maize_rust,0.999630331993103
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2135.JPG,maize_rust,maize_rust,0.9991657733917236
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2142.JPG,maize_rust,maize_rust,0.9990204572677612
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2146.JPG,maize_rust,maize_rust,0.8870865702629089
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2147.JPG,maize_rust,maize_rust,0.9998923540115356
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2158.JPG,maize_rust,maize_rust,0.9920622110366821
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2160.JPG,maize_rust,maize_rust,0.9420381784439087
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2183.JPG,maize_rust,maize_rust,0.9990530610084534
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2195.JPG,maize_rust,maize_rust,0.9865828156471252
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2196.JPG,maize_rust,maize_rust,0.9952422380447388
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2201.JPG,maize_rust,maize_rust,0.9972345232963562
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2202.JPG,maize_rust,maize_rust,0.9937031865119934
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2214.JPG,maize_rust,maize_rust,0.999795138835907
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2219.JPG,maize_rust,maize_rust,0.9975011944770813
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2229.JPG,maize_rust,maize_rust,0.9999487400054932
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2248.JPG,maize_rust,maize_rust,0.9959558248519897
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2249.JPG,maize_rust,maize_rust,0.9971280694007874
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2251.JPG,maize_rust,maize_rust,0.9998944997787476
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2257.JPG,maize_rust,maize_rust,0.9574882388114929
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2262.JPG,maize_rust,maize_rust,0.9999510049819946
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2267.JPG,maize_rust,maize_rust,0.9991717338562012
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2270.JPG,maize_rust,maize_rust,0.9998769760131836
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2273.JPG,maize_rust,maize_rust,0.9928182363510132
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2291.JPG,maize_rust,maize_rust,0.9987439513206482
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2293.JPG,maize_rust,maize_rust,0.9998489618301392
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2301.JPG,maize_rust,maize_rust,0.9996525049209595
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2321.JPG,maize_rust,maize_rust,0.9996898174285889
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2324.JPG,maize_rust,maize_rust,0.9958694577217102
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2329.JPG,maize_rust,maize_rust,0.9993246793746948
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2342.JPG,maize_rust,maize_rust,0.9989405274391174
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2344.JPG,maize_rust,maize_rust,0.9979033470153809
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2345.JPG,maize_rust,maize_rust,0.9973489046096802
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2349.JPG,maize_rust,maize_rust,0.9879326224327087
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2356.JPG,maize_rust,maize_rust,0.9996438026428223
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2361.JPG,maize_rust,maize_rust,0.9998364448547363
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2363.JPG,maize_rust,maize_rust,0.9999014139175415
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2384.JPG,maize_rust,maize_northern_blight,0.5609715580940247
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2410.JPG,maize_rust,maize_rust,0.9972079396247864
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2411.JPG,maize_rust,maize_rust,0.9999722242355347
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2415.JPG,maize_rust,maize_rust,0.9996278285980225
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2416.JPG,maize_rust,maize_rust,0.9956238865852356
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2419.JPG,maize_rust,maize_rust,0.9987207055091858
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2441.JPG,maize_rust,maize_rust,0.9997990727424622
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2463.JPG,maize_rust,maize_rust,0.9989994168281555
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2466.JPG,maize_rust,maize_rust,0.9993929862976074
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2472.JPG,maize_rust,maize_rust,0.9941657781600952
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2474.JPG,maize_rust,maize_rust,0.9999185800552368
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2475.JPG,maize_rust,maize_rust,0.9946901798248291
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2507.JPG,maize_rust,maize_rust,0.9999048709869385
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2510.JPG,maize_rust,maize_rust,0.996905505657196
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2525.JPG,maize_rust,maize_rust,0.9997001886367798
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2527.JPG,maize_rust,maize_rust,0.9999533891677856
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2530.JPG,maize_rust,maize_rust,0.9996138215065002
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2545.JPG,maize_rust,maize_rust,0.9946857690811157
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2550.JPG,maize_rust,maize_rust,0.9998778104782104
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2556.JPG,maize_rust,maize_rust,0.9926654696464539
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2565.JPG,maize_rust,maize_rust,0.9675292372703552
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2566.JPG,maize_rust,maize_rust,0.9985095858573914
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2571.JPG,maize_rust,maize_rust,0.999901533126831
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2574.JPG,maize_rust,maize_rust,0.997675359249115
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2581.JPG,maize_rust,maize_rust,0.9992280006408691
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2582.JPG,maize_rust,maize_rust,0.9963617920875549
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2593.JPG,maize_rust,maize_rust,0.999774158000946
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2594.JPG,maize_rust,maize_rust,0.9998766183853149
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2596.JPG,maize_rust,maize_rust,0.9984740614891052
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2598.JPG,maize_rust,maize_rust,0.9975683093070984
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2600.JPG,maize_rust,maize_rust,0.9967729449272156
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2604.JPG,maize_rust,maize_rust,0.9996529817581177
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2612.JPG,maize_rust,maize_rust,0.9994521737098694
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2616.JPG,maize_rust,maize_rust,0.9991108775138855
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2618.JPG,maize_rust,maize_rust,0.9985809326171875
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2621.JPG,maize_rust,maize_rust,0.9997712969779968
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2626.JPG,maize_rust,maize_northern_blight,0.9966525435447693
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2631.JPG,maize_rust,maize_rust,0.9911323189735413
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2650.JPG,maize_rust,maize_rust,0.9999182224273682
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2654.JPG,maize_rust,maize_rust,0.9259458184242249
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2668.JPG,maize_rust,maize_rust,0.9989221096038818
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2691.JPG,maize_rust,maize_rust,0.9980289340019226
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2701.JPG,maize_rust,maize_rust,0.9998769760131836
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2707.JPG,maize_rust,maize_rust,0.9946792125701904
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2718.JPG,maize_rust,maize_rust,0.9991660118103027
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2722.JPG,maize_rust,maize_rust,0.9996926784515381
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2737.JPG,maize_rust,maize_rust,0.9954180717468262
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2738.JPG,maize_rust,maize_rust,0.9989696741104126
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2755.JPG,maize_rust,maize_rust,0.9927167296409607
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2761.JPG,maize_rust,maize_rust,0.99969482421875
+data/multicrop-v1/splits/validation/maize_rust/RS_Rust 2769.JPG,maize_rust,maize_rust,0.9961345195770264
+data/multicrop-v1/splits/validation/potato_early/002a55fb-7a3d-4a3a-aca8-ce2d5ebc6925___RS_Early.B 8170.JPG,potato_early,potato_early,0.9975395202636719
+data/multicrop-v1/splits/validation/potato_early/02578b86-b234-4ac0-9bc3-691b5610e2bf___RS_Early.B 7562.JPG,potato_early,potato_early,0.9619483351707458
+data/multicrop-v1/splits/validation/potato_early/044c3abc-0bc9-45fb-8fd5-094aeb605f90___RS_Early.B 8044.JPG,potato_early,potato_early,0.9993934631347656
+data/multicrop-v1/splits/validation/potato_early/048d18ae-98b1-484d-97da-5a0e69b9ebc1___RS_Early.B 6845.JPG,potato_early,potato_early,0.9345695972442627
+data/multicrop-v1/splits/validation/potato_early/07953ca1-8935-449f-b338-4357ed683b2d___RS_Early.B 6815.JPG,potato_early,potato_early,0.9771733283996582
+data/multicrop-v1/splits/validation/potato_early/07d777f8-2c5a-48da-935e-f17c572b1e6e___RS_Early.B 7880.JPG,potato_early,potato_early,0.9994431138038635
+data/multicrop-v1/splits/validation/potato_early/08a892eb-19cc-45ea-babc-181b98f89238___RS_Early.B 7367.JPG,potato_early,potato_early,0.9955518841743469
+data/multicrop-v1/splits/validation/potato_early/0a47f32c-1724-4c8d-bfe4-986cedd3587b___RS_Early.B 8001.JPG,potato_early,potato_early,0.8186004161834717
+data/multicrop-v1/splits/validation/potato_early/0ddd62cd-a999-4d58-a8f1-506e1004a595___RS_Early.B 8041.JPG,potato_early,potato_early,0.9999024868011475
+data/multicrop-v1/splits/validation/potato_early/0f9c098f-a6df-4a73-8c14-8e7d4dbb1b0b___RS_Early.B 7991.JPG,potato_early,potato_early,0.998744010925293
+data/multicrop-v1/splits/validation/potato_early/0fd22207-cb37-42a1-965f-7dfe43f9d579___RS_Early.B 6876.JPG,potato_early,potato_early,0.9448920488357544
+data/multicrop-v1/splits/validation/potato_early/11e974fa-928f-45f6-b983-e74c74c7d163___RS_Early.B 7992.JPG,potato_early,potato_early,0.9992272853851318
+data/multicrop-v1/splits/validation/potato_early/12ebe6fe-c8ce-4a00-866f-8776aca75159___RS_Early.B 6873.JPG,potato_early,potato_early,0.978725790977478
+data/multicrop-v1/splits/validation/potato_early/12f7b8bd-7aab-48de-ba2e-d2562408542f___RS_Early.B 7386.JPG,potato_early,potato_early,0.993148148059845
+data/multicrop-v1/splits/validation/potato_early/1767fee7-18fd-4597-8c77-d41ec2d62f4e___RS_Early.B 6932.JPG,potato_early,potato_early,0.8205317854881287
+data/multicrop-v1/splits/validation/potato_early/1769d41b-fd4c-49b1-adce-e89fee6a352e___RS_Early.B 6741.JPG,potato_early,potato_early,0.9991275668144226
+data/multicrop-v1/splits/validation/potato_early/1a2970b6-bafd-4812-93bc-57ff969e1045___RS_Early.B 7330.JPG,potato_early,potato_early,0.9993460774421692
+data/multicrop-v1/splits/validation/potato_early/1af20ff8-980d-4912-b337-804b09667de3___RS_Early.B 7392.JPG,potato_early,potato_early,0.9855115413665771
+data/multicrop-v1/splits/validation/potato_early/1ca9e3ba-e029-48bf-b207-e8cb3546f953___RS_Early.B 7978.JPG,potato_early,potato_early,0.9993748068809509
+data/multicrop-v1/splits/validation/potato_early/1d038d64-7f3c-4b4d-9b3d-7736f97b59a0___RS_Early.B 7994.JPG,potato_early,potato_early,0.980430006980896
+data/multicrop-v1/splits/validation/potato_early/1d4fc5d0-fee6-40bf-8e7b-e1598ea64161___RS_Early.B 8912.JPG,potato_early,potato_early,0.9998169541358948
+data/multicrop-v1/splits/validation/potato_early/1e671694-5713-4568-b8ad-06f15688d25e___RS_Early.B 7659.JPG,potato_early,potato_early,0.9990805387496948
+data/multicrop-v1/splits/validation/potato_early/29508e75-1a9d-4838-b929-cf42f8638e83___RS_Early.B 6782.JPG,potato_early,potato_early,0.9862871766090393
+data/multicrop-v1/splits/validation/potato_early/2cf993b6-98e7-4678-aea5-9177ea3b63bd___RS_Early.B 7692.JPG,potato_early,potato_early,0.9973703622817993
+data/multicrop-v1/splits/validation/potato_early/2d149f7a-4b0a-40a6-8d0b-1d1f14e5e696___RS_Early.B 9143.JPG,potato_early,potato_early,0.950846791267395
+data/multicrop-v1/splits/validation/potato_early/2d344be7-2d5f-4d27-aeb2-b92c8191b877___RS_Early.B 7173.JPG,potato_early,potato_early,0.9997777342796326
+data/multicrop-v1/splits/validation/potato_early/2ebb14eb-0e87-468c-a1cb-80579a77a37a___RS_Early.B 7044.JPG,potato_early,potato_early,0.9979913234710693
+data/multicrop-v1/splits/validation/potato_early/2fe81ef1-d7ec-4395-b071-c74d5beb4037___RS_Early.B 7242.JPG,potato_early,potato_early,0.9998996257781982
+data/multicrop-v1/splits/validation/potato_early/349730da-a627-4da6-90d5-707c4a3dba88___RS_Early.B 7553.JPG,potato_early,potato_early,0.7231090664863586
+data/multicrop-v1/splits/validation/potato_early/34f44be4-9dc5-460b-896d-cd6593166fe7___RS_Early.B 8175.JPG,potato_early,potato_early,0.9862661957740784
+data/multicrop-v1/splits/validation/potato_early/3613b972-6af8-4a9a-be7f-bf68e4eb4cd0___RS_Early.B 6813.JPG,potato_early,potato_early,0.9978513717651367
+data/multicrop-v1/splits/validation/potato_early/37d5791e-19e8-4095-a1cd-36aede6d0802___RS_Early.B 7172.JPG,potato_early,potato_early,0.9999202489852905
+data/multicrop-v1/splits/validation/potato_early/392c5f68-3ee5-4b61-90e9-afa16375beb8___RS_Early.B 8047.JPG,potato_early,potato_early,0.99853515625
+data/multicrop-v1/splits/validation/potato_early/3a314933-9e92-4c90-acc2-656a04c591e7___RS_Early.B 8906.JPG,potato_early,potato_early,0.9998819828033447
+data/multicrop-v1/splits/validation/potato_early/3ab92984-3126-4154-9bfd-f2c8c9fd670e___RS_Early.B 7440.JPG,potato_early,potato_early,0.9995614886283875
+data/multicrop-v1/splits/validation/potato_early/3d3c01e1-8cde-4c0f-9468-67dd287a2dc0___RS_Early.B 7761.JPG,potato_early,potato_early,0.9615691304206848
+data/multicrop-v1/splits/validation/potato_early/3fb9fd25-3f61-4983-8342-2abb34d1b010___RS_Early.B 7920.JPG,potato_early,potato_early,0.9991980195045471
+data/multicrop-v1/splits/validation/potato_early/4217355a-471b-4045-9199-55003f2c9b99___RS_Early.B 7469.JPG,potato_early,potato_early,0.9960487484931946
+data/multicrop-v1/splits/validation/potato_early/425e5f26-56b0-404d-b537-dc3353ecee09___RS_Early.B 7058.JPG,potato_early,potato_early,0.9960941672325134
+data/multicrop-v1/splits/validation/potato_early/426aeefb-981d-4436-9f92-0fe230bb65fe___RS_Early.B 6977.JPG,potato_early,potato_early,0.9836351871490479
+data/multicrop-v1/splits/validation/potato_early/467991cb-4b55-4b00-9b18-7ff5efdd7adf___RS_Early.B 7290.JPG,potato_early,potato_early,0.9993107318878174
+data/multicrop-v1/splits/validation/potato_early/4722a31c-987f-4fac-afa1-37479556a056___RS_Early.B 6810.JPG,potato_early,potato_early,0.9985535740852356
+data/multicrop-v1/splits/validation/potato_early/4857420e-b28e-4bb5-aa03-5e333cf27af0___RS_Early.B 6847.JPG,potato_early,potato_early,0.9547544121742249
+data/multicrop-v1/splits/validation/potato_early/48ed1384-b3c5-464d-bdc8-97b347d89a58___RS_Early.B 6744.JPG,potato_early,potato_early,0.9695093631744385
+data/multicrop-v1/splits/validation/potato_early/4a35b485-4f57-471a-a2cc-d5d7ebd41c40___RS_Early.B 7651.JPG,potato_early,potato_early,0.9916537404060364
+data/multicrop-v1/splits/validation/potato_early/4a4847c4-c393-4772-8035-e39b472e179b___RS_Early.B 7167.JPG,potato_early,potato_early,0.9995101690292358
+data/multicrop-v1/splits/validation/potato_early/4d5d6c62-61d8-45a3-aada-3ee8bc44e1d5___RS_Early.B 6685.JPG,potato_early,potato_early,0.9265856742858887
+data/multicrop-v1/splits/validation/potato_early/4e40c113-4ab2-4a71-9ecc-5ceb67905190___RS_Early.B 7446.JPG,potato_early,potato_early,0.9999817609786987
+data/multicrop-v1/splits/validation/potato_early/4eacc117-bab5-40ff-bde0-dbc6b2a35822___RS_Early.B 7999.JPG,potato_early,potato_early,0.9943726062774658
+data/multicrop-v1/splits/validation/potato_early/4eb1fee6-e288-4c32-841d-9fc1d1824508___RS_Early.B 8446.JPG,potato_early,potato_early,0.9743486642837524
+data/multicrop-v1/splits/validation/potato_early/51f13c93-c8b6-4542-a81b-cb1a2e83f179___RS_Early.B 7684.JPG,potato_early,potato_early,0.9846867918968201
+data/multicrop-v1/splits/validation/potato_early/544b5324-f697-4af8-90d4-47b7b86691c6___RS_Early.B 7028.JPG,potato_early,potato_early,0.9950528740882874
+data/multicrop-v1/splits/validation/potato_early/54a0c5b4-7df1-46c8-95f7-85ffb6a47939___RS_Early.B 8174.JPG,potato_early,potato_early,0.9993391633033752
+data/multicrop-v1/splits/validation/potato_early/55daa016-a408-4de3-a79e-53d0ec53ea16___RS_Early.B 7686.JPG,potato_early,potato_early,0.9937878251075745
+data/multicrop-v1/splits/validation/potato_early/569206bf-423e-4508-b1b4-2ca6821aceac___RS_Early.B 7554.JPG,potato_early,potato_early,0.9520597457885742
+data/multicrop-v1/splits/validation/potato_early/57c5fe0f-ce93-412a-a29e-a70a4aa23649___RS_Early.B 6818.JPG,potato_early,potato_early,0.9934978485107422
+data/multicrop-v1/splits/validation/potato_early/58cb5c58-3161-4476-9361-3ee2673cc82b___RS_Early.B 7368.JPG,potato_early,potato_early,0.9983112812042236
+data/multicrop-v1/splits/validation/potato_early/5a6f3209-223e-43e5-8680-41dd3d5091ce___RS_Early.B 7288.JPG,potato_early,potato_early,0.9983032941818237
+data/multicrop-v1/splits/validation/potato_early/5a7ca2a3-5bfc-47b7-9657-85a6c95a0956___RS_Early.B 7061.JPG,potato_early,potato_early,0.9953246116638184
+data/multicrop-v1/splits/validation/potato_early/5cf3cf9d-0f81-4c75-b1d4-2defb49033c4___RS_Early.B 6806.JPG,potato_early,potato_early,0.9543577432632446
+data/multicrop-v1/splits/validation/potato_early/5fbff81d-eeaf-430f-ba94-df6a92c7b8e2___RS_Early.B 6816.JPG,potato_early,potato_early,0.9771304130554199
+data/multicrop-v1/splits/validation/potato_early/60096f66-1bf2-4d8d-8137-ac2358ab71d0___RS_Early.B 6978.JPG,potato_early,potato_early,0.9641647934913635
+data/multicrop-v1/splits/validation/potato_early/61a602c4-02e3-49e5-9858-5b1d4d4795f7___RS_Early.B 7875.JPG,potato_early,potato_early,0.9979482293128967
+data/multicrop-v1/splits/validation/potato_early/62e81304-8d1b-46ed-a79a-52cf53a63919___RS_Early.B 7363.JPG,potato_early,potato_early,0.9993508458137512
+data/multicrop-v1/splits/validation/potato_early/654aaf22-e23a-441d-ad57-914843a36c64___RS_Early.B 7924.JPG,potato_early,potato_early,0.9994596838951111
+data/multicrop-v1/splits/validation/potato_early/66a98640-59d3-4c9b-9853-773c78ac6375___RS_Early.B 6784.JPG,potato_early,potato_early,0.9979785084724426
+data/multicrop-v1/splits/validation/potato_early/67f2bf79-1d71-4748-bcd6-a65006f12981___RS_Early.B 7289.JPG,potato_early,potato_early,0.9965768456459045
+data/multicrop-v1/splits/validation/potato_early/68a9df4a-f803-4cf1-bfce-1a637a2befcc___RS_Early.B 7654.JPG,potato_early,potato_early,0.9996920824050903
+data/multicrop-v1/splits/validation/potato_early/691161ad-7897-4654-a7bc-14d8b5839621___RS_Early.B 6976.JPG,potato_early,potato_early,0.9875748753547668
+data/multicrop-v1/splits/validation/potato_early/69ee53e1-a9b6-4e97-bc5f-f91617bc87ab___RS_Early.B 7987.JPG,potato_early,potato_early,0.9972901344299316
+data/multicrop-v1/splits/validation/potato_early/73273541-2855-4516-92c3-658703bd2d18___RS_Early.B 6814.JPG,potato_early,potato_early,0.999408483505249
+data/multicrop-v1/splits/validation/potato_early/73cf20a6-b2c4-4302-a664-c43dccb78cfb___RS_Early.B 6930.JPG,potato_early,potato_early,0.9008226990699768
+data/multicrop-v1/splits/validation/potato_early/7486e823-64f7-4e43-ab51-26261b077fc2___RS_Early.B 6785.JPG,potato_early,potato_early,0.9993352293968201
+data/multicrop-v1/splits/validation/potato_early/757b3cbf-a694-4e76-939c-5a93d3c932ab___RS_Early.B 8169.JPG,potato_early,potato_early,0.9992982149124146
+data/multicrop-v1/splits/validation/potato_early/769b00f1-f5cf-4dee-a2c6-6e97414450f6___RS_Early.B 9149.JPG,potato_early,potato_early,0.9871802926063538
+data/multicrop-v1/splits/validation/potato_early/77b04047-8450-47d1-82f1-48f09f83387c___RS_Early.B 7042.JPG,potato_early,potato_early,0.9991443157196045
+data/multicrop-v1/splits/validation/potato_early/77c86eac-945e-4942-8eab-1269373d645a___RS_Early.B 7755.JPG,potato_early,potato_early,0.9756712913513184
+data/multicrop-v1/splits/validation/potato_early/7c0e4eed-d8e2-410f-a7bf-9f5a1c4a566d___RS_Early.B 8042.JPG,potato_early,potato_early,0.9996142387390137
+data/multicrop-v1/splits/validation/potato_early/811eba3a-112e-43dd-8b22-57f3cde4c504___RS_Early.B 7983.JPG,potato_early,potato_early,0.9976546764373779
+data/multicrop-v1/splits/validation/potato_early/82654962-5b0d-44ed-9ca4-84be55ba23a6___RS_Early.B 6877.JPG,potato_early,potato_early,0.9575027823448181
+data/multicrop-v1/splits/validation/potato_early/83e334ee-bd8c-4aa5-bb8e-bc64d99bd5e2___RS_Early.B 7329.JPG,potato_early,potato_early,0.9971199035644531
+data/multicrop-v1/splits/validation/potato_early/8636092c-9357-4b4c-9d2d-c45c3dcf9253___RS_Early.B 7981.JPG,potato_early,potato_early,0.9937022924423218
+data/multicrop-v1/splits/validation/potato_early/86e98583-f506-4cb7-ba11-eea466662ec7___RS_Early.B 7335.JPG,potato_early,potato_early,0.9897902607917786
+data/multicrop-v1/splits/validation/potato_early/87c0254c-c987-4c54-adda-45c5e7346170___RS_Early.B 8848.JPG,potato_early,potato_early,0.9988470077514648
+data/multicrop-v1/splits/validation/potato_early/88e29276-8c4f-4d15-b3d4-d1db0a05cac1___RS_Early.B 6973.JPG,potato_early,potato_early,0.9979630708694458
+data/multicrop-v1/splits/validation/potato_early/8994b76b-6e1e-42d3-b07c-99abca3fa35b___RS_Early.B 7762.JPG,potato_early,potato_early,0.9870617985725403
+data/multicrop-v1/splits/validation/potato_early/8a9f0340-d5d1-479b-9dc5-d8df11685951___RS_Early.B 7024.JPG,potato_early,potato_early,0.9940587282180786
+data/multicrop-v1/splits/validation/potato_early/8b5e48c6-7fac-4c87-bae4-6dd4ca5d110d___RS_Early.B 8905.JPG,potato_early,potato_early,0.9999428987503052
+data/multicrop-v1/splits/validation/potato_early/8c01f338-2648-4bcf-99cb-853978b39014___RS_Early.B 6742.JPG,potato_early,potato_early,0.9626724123954773
+data/multicrop-v1/splits/validation/potato_early/8d8382dc-c4aa-4118-8aae-d0c372dce562___RS_Early.B 7336.JPG,potato_early,potato_early,0.9909015893936157
+data/multicrop-v1/splits/validation/potato_early/8f6d9148-ae73-42cc-be78-baca869d1543___RS_Early.B 6805.JPG,potato_early,potato_early,0.9978200197219849
+data/multicrop-v1/splits/validation/potato_early/907f26c5-5996-41b3-877b-7de6122699a9___RS_Early.B 7758.JPG,potato_early,potato_early,0.9839439392089844
+data/multicrop-v1/splits/validation/potato_early/93992994-fcb0-4d3e-b528-e6fd9fd1b317___RS_Early.B 6686.JPG,potato_early,potato_early,0.9510508179664612
+data/multicrop-v1/splits/validation/potato_early/93c3dfcc-de7c-4ae9-9d18-4042f53e3d1f___RS_Early.B 7872.JPG,potato_early,potato_early,0.9988862872123718
+data/multicrop-v1/splits/validation/potato_early/993bc916-4517-45cf-a5bd-90ee95dd35fd___RS_Early.B 8452.JPG,potato_early,potato_early,0.9559746980667114
+data/multicrop-v1/splits/validation/potato_early/9b5f25b9-9f30-478a-9710-fc79dafaf62e___RS_Early.B 6739.JPG,potato_early,potato_early,0.9995896220207214
+data/multicrop-v1/splits/validation/potato_early/9bef32f0-dc02-4223-a378-6a41c6bfc7a9___RS_Early.B 8444.JPG,potato_early,potato_early,0.9668092131614685
+data/multicrop-v1/splits/validation/potato_early/9ca7d203-7b7c-4f5c-911f-fc225f3c5b77___RS_Early.B 7557.JPG,potato_early,potato_early,0.7558841705322266
+data/multicrop-v1/splits/validation/potato_early/9d2f37ae-aa02-4b04-b0cb-9fe125cfdbe2___RS_Early.B 7691.JPG,potato_early,potato_early,0.9978561997413635
+data/multicrop-v1/splits/validation/potato_early/9db872fc-f367-4dfa-b1f7-23490bb4552b___RS_Early.B 8842.JPG,potato_early,potato_early,0.998327910900116
+data/multicrop-v1/splits/validation/potato_early/a29ed5b2-153c-4f0e-a633-f698c9ff51d2___RS_Early.B 8840.JPG,potato_early,potato_early,0.9985443353652954
+data/multicrop-v1/splits/validation/potato_early/a3fe02f0-6d49-4e9a-ba9a-ac26e8b65ca9___RS_Early.B 7560.JPG,potato_early,potato_early,0.5179709792137146
+data/multicrop-v1/splits/validation/potato_early/a4168403-2458-4f28-84f7-949050905878___RS_Early.B 8450.JPG,potato_early,potato_early,0.9299080967903137
+data/multicrop-v1/splits/validation/potato_early/a50c5f93-a5db-4eaf-9d82-2e420d2351e7___RS_Early.B 7060.JPG,potato_early,potato_early,0.9987855553627014
+data/multicrop-v1/splits/validation/potato_early/a89d6e67-d60e-49b5-8b87-e137b6a5181c___RS_Early.B 7472.JPG,potato_early,potato_early,0.9957104921340942
+data/multicrop-v1/splits/validation/potato_early/a938ba0c-780a-41e0-b26c-3c6b87047ac6___RS_Early.B 6878.JPG,potato_early,potato_early,0.9720028042793274
+data/multicrop-v1/splits/validation/potato_early/ab0878eb-0310-4788-b2d7-14102cdd241e___RS_Early.B 7026.JPG,potato_early,potato_early,0.9953650236129761
+data/multicrop-v1/splits/validation/potato_early/ac6c3aea-ad58-4b46-b0d2-195dba86e0f6___RS_Early.B 7926.JPG,potato_early,potato_early,0.9980822801589966
+data/multicrop-v1/splits/validation/potato_early/af3bb3a3-e022-45f3-b209-6b3b53f13a47___RS_Early.B 7333.JPG,potato_early,potato_early,0.998577356338501
+data/multicrop-v1/splits/validation/potato_early/b05850b8-bfb9-487d-b0ba-8f406eba933e___RS_Early.B 6936.JPG,potato_early,potato_early,0.6616586446762085
+data/multicrop-v1/splits/validation/potato_early/b1b3c9c7-a4b9-4048-be45-fa9c5e507c66___RS_Early.B 7466.JPG,potato_early,potato_early,0.9941890239715576
+data/multicrop-v1/splits/validation/potato_early/b21bc878-7b63-481e-a6d1-7e972627210e___RS_Early.B 7656.JPG,potato_early,potato_early,0.9967483282089233
+data/multicrop-v1/splits/validation/potato_early/b2b7758e-f201-4d9c-bc27-d53bb09b2dac___RS_Early.B 7025.JPG,potato_early,potato_early,0.9963564872741699
+data/multicrop-v1/splits/validation/potato_early/b4021eae-d195-400a-b7b7-9888367f5f2f___RS_Early.B 7881.JPG,potato_early,potato_early,0.9987492561340332
+data/multicrop-v1/splits/validation/potato_early/b6220993-c51f-48fa-bee9-fb5cb89cc0c4___RS_Early.B 7467.JPG,potato_early,potato_early,0.9825794696807861
+data/multicrop-v1/splits/validation/potato_early/b6b036b0-6869-48b8-b861-a6a85d1b2b97___RS_Early.B 6850.JPG,potato_early,potato_early,0.5659059882164001
+data/multicrop-v1/splits/validation/potato_early/b6b4aa28-edc4-4e9f-bc0d-bd4b0ec085a2___RS_Early.B 7559.JPG,potato_early,potato_early,0.6184001564979553
+data/multicrop-v1/splits/validation/potato_early/be5f03e6-810f-4f22-9e5a-37a66826f7e5___RS_Early.B 6807.JPG,potato_early,potato_early,0.9992913007736206
+data/multicrop-v1/splits/validation/potato_early/c09e4b05-b196-4955-abd4-6aed44c40132___RS_Early.B 6823.JPG,potato_early,potato_early,0.9845792055130005
+data/multicrop-v1/splits/validation/potato_early/c28107c6-ea57-4044-bb6e-508d6d360cd7___RS_Early.B 7057.JPG,potato_early,potato_early,0.9975032210350037
+data/multicrop-v1/splits/validation/potato_early/c5dc57d8-9a0d-4046-9eb4-b9db2f720a47___RS_Early.B 7047.JPG,potato_early,potato_early,0.9991756081581116
+data/multicrop-v1/splits/validation/potato_early/c82e587c-a0f2-451e-9057-e3719a3d9562___RS_Early.B 6824.JPG,potato_early,potato_early,0.9882323145866394
+data/multicrop-v1/splits/validation/potato_early/c9d5a9b6-4e5c-42df-8f9b-5f57e13000df___RS_Early.B 6933.JPG,potato_early,potato_early,0.723174512386322
+data/multicrop-v1/splits/validation/potato_early/cac99520-3403-4602-961d-3a668bb980fb___RS_Early.B 7388.JPG,potato_early,potato_early,0.9967700242996216
+data/multicrop-v1/splits/validation/potato_early/cf3169aa-b842-46ed-bb1a-3e02b6858c86___RS_Early.B 7566.JPG,potato_early,potato_early,0.9865258932113647
+data/multicrop-v1/splits/validation/potato_early/cf38c261-5bae-4b5d-92b4-16c634557d2a___RS_Early.B 7169.JPG,potato_early,potato_early,0.9997193217277527
+data/multicrop-v1/splits/validation/potato_early/d4cd2357-1142-4f0c-8c44-201241a27573___RS_Early.B 9146.JPG,potato_early,potato_early,0.9213913083076477
+data/multicrop-v1/splits/validation/potato_early/d87f93fa-f6f8-49f1-b9e1-8f196f377df8___RS_Early.B 7244.JPG,potato_early,potato_early,0.9994377493858337
+data/multicrop-v1/splits/validation/potato_early/d8a55ed1-7b3a-4b25-84b2-6046c0d9e3ab___RS_Early.B 7443.JPG,potato_early,potato_early,0.9998257756233215
+data/multicrop-v1/splits/validation/potato_early/d9303294-b0d9-4066-85d1-4ef58977b78e___RS_Early.B 7337.JPG,potato_early,potato_early,0.9994778037071228
+data/multicrop-v1/splits/validation/potato_early/da412bf6-6bee-4dfb-8bc7-b6e9f80971ff___RS_Early.B 6808.JPG,potato_early,potato_early,0.9941343665122986
+data/multicrop-v1/splits/validation/potato_early/dbe05365-9166-45f7-94cf-cefca787215a___RS_Early.B 9144.JPG,potato_early,potato_early,0.8253903985023499
+data/multicrop-v1/splits/validation/potato_early/dc6516c4-a74c-465f-85a1-55608ee518da___RS_Early.B 8843.JPG,potato_early,potato_early,0.9967407584190369
+data/multicrop-v1/splits/validation/potato_early/ddc6aed7-43bd-49bc-88d0-6f942acb362a___RS_Early.B 7328.JPG,potato_early,potato_early,0.995298445224762
+data/multicrop-v1/splits/validation/potato_early/de44f09b-b207-4805-8970-2999f9c2dc7c___RS_Early.B 7917.JPG,potato_early,potato_early,0.9973589777946472
+data/multicrop-v1/splits/validation/potato_early/dea6a6e4-cfb0-4c00-a0f7-bdd1e52f82e0___RS_Early.B 7246.JPG,potato_early,potato_early,0.9997022747993469
+data/multicrop-v1/splits/validation/potato_early/df67aec2-c706-4a6f-8a4a-e11d7eb41eb8___RS_Early.B 7287.JPG,potato_early,potato_early,0.9828988313674927
+data/multicrop-v1/splits/validation/potato_early/e09c5edb-1e38-44bb-bb55-260fa32d6a58___RS_Early.B 7340.JPG,potato_early,potato_early,0.994126558303833
+data/multicrop-v1/splits/validation/potato_early/e11d63b8-93fa-41ba-b826-99811ee4c232___RS_Early.B 7387.JPG,potato_early,potato_early,0.9887896776199341
+data/multicrop-v1/splits/validation/potato_early/e50bd734-03b9-479b-9ca0-48ef217a2c59___RS_Early.B 7976.JPG,potato_early,potato_early,0.9990172386169434
+data/multicrop-v1/splits/validation/potato_early/e50e7166-a67d-4207-a49c-0240b0218d48___RS_Early.B 8907.JPG,potato_early,potato_early,0.9998934268951416
+data/multicrop-v1/splits/validation/potato_early/e786a4fe-5aa1-4da2-a16f-4ee82c56e317___RS_Early.B 7245.JPG,potato_early,potato_early,0.9995002746582031
+data/multicrop-v1/splits/validation/potato_early/ed64bc0c-d2e5-44fd-a21a-f4d6b4f2f219___RS_Early.B 7366.JPG,potato_early,potato_early,0.9995452761650085
+data/multicrop-v1/splits/validation/potato_early/ef825fcb-d776-4dfd-a6ed-3bd49912806e___RS_Early.B 7985.JPG,potato_early,potato_early,0.9989909529685974
+data/multicrop-v1/splits/validation/potato_early/efb6e5e5-d83c-4634-a9f6-3f2332713497___RS_Early.B 6788.JPG,potato_early,potato_early,0.9882487058639526
+data/multicrop-v1/splits/validation/potato_early/f0cdbf74-8401-48d1-b1cc-94862e1a4452___RS_Early.B 7447.JPG,potato_early,potato_early,0.9998657703399658
+data/multicrop-v1/splits/validation/potato_early/f2540cea-220b-4ba2-bf16-7c1c7f32c38c___RS_Early.B 7997.JPG,potato_early,potato_early,0.987720787525177
+data/multicrop-v1/splits/validation/potato_early/f2a56e13-438e-4bef-a3ea-beb9f347d481___RS_Early.B 6691.JPG,potato_early,potato_early,0.9863609075546265
+data/multicrop-v1/splits/validation/potato_early/f3ad73cc-2e88-4157-97ea-d57d87c5760c___RS_Early.B 6687.JPG,potato_early,potato_early,0.9930447936058044
+data/multicrop-v1/splits/validation/potato_early/f6d8c094-970c-41c5-9f5d-3ded7c8f7b15___RS_Early.B 6846.JPG,potato_early,potato_early,0.9307123422622681
+data/multicrop-v1/splits/validation/potato_early/fbc1b154-7b53-4ac5-ad3a-5e9e5078a289___RS_Early.B 7551.JPG,potato_early,potato_early,0.9632497429847717
+data/multicrop-v1/splits/validation/potato_early/fe2a7818-f2ec-4255-93f0-586c88a41624___RS_Early.B 7043.JPG,potato_early,potato_early,0.9987279772758484
+data/multicrop-v1/splits/validation/potato_healthy/14484ea5-9c34-427c-abe4-2743265aced0___RS_HL 4204.JPG,potato_healthy,potato_healthy,0.9182906746864319
+data/multicrop-v1/splits/validation/potato_healthy/1a1184f8-c414-4ead-a4c4-41ae78e29a82___RS_HL 1971.JPG,potato_healthy,potato_healthy,0.9952200055122375
+data/multicrop-v1/splits/validation/potato_healthy/30126310-39de-4c02-b10a-23409417a4f6___RS_HL 1826.JPG,potato_healthy,potato_healthy,0.9966105818748474
+data/multicrop-v1/splits/validation/potato_healthy/31a09d39-6791-4ecb-8f44-af2ed85dbd33___RS_HL 1970.JPG,potato_healthy,potato_healthy,0.9942939877510071
+data/multicrop-v1/splits/validation/potato_healthy/36bdc44c-96a4-40bb-86f7-63a91d706e96___RS_HL 4203.JPG,potato_healthy,potato_healthy,0.9301152229309082
+data/multicrop-v1/splits/validation/potato_healthy/413bc2e9-eb2a-48fd-ba65-48b5121fd85c___RS_HL 4200.JPG,potato_healthy,potato_late,0.4070805013179779
+data/multicrop-v1/splits/validation/potato_healthy/43fd6ace-3712-494a-9aba-de5482d22561___RS_HL 1968.JPG,potato_healthy,potato_healthy,0.9965498447418213
+data/multicrop-v1/splits/validation/potato_healthy/4a08efaa-28cc-4356-8769-4002f4b299ef___RS_HL 1850.JPG,potato_healthy,potato_healthy,0.9987068176269531
+data/multicrop-v1/splits/validation/potato_healthy/5e19b1f4-fd65-4c4d-bcd2-18c8c519eddb___RS_HL 1965.JPG,potato_healthy,potato_healthy,0.9973053932189941
+data/multicrop-v1/splits/validation/potato_healthy/60e9a878-13e0-4345-964c-fd807cd20bbb___RS_HL 1876.JPG,potato_healthy,potato_healthy,0.9994097948074341
+data/multicrop-v1/splits/validation/potato_healthy/61b8a692-91d8-40f5-a4a4-4d910875a638___RS_HL 1966.JPG,potato_healthy,potato_healthy,0.9957243204116821
+data/multicrop-v1/splits/validation/potato_healthy/849aa978-c7b9-4344-9ca8-129219a65f8e___RS_HL 1874.JPG,potato_healthy,potato_healthy,0.9984922409057617
+data/multicrop-v1/splits/validation/potato_healthy/8583c4ff-2d8b-4b6f-89a8-fcc98917ce9b___RS_HL 1961.JPG,potato_healthy,potato_healthy,0.9985962510108948
+data/multicrop-v1/splits/validation/potato_healthy/875d6ded-5f01-495c-a945-ad2e17f87f91___RS_HL 1848.JPG,potato_healthy,potato_healthy,0.9966151118278503
+data/multicrop-v1/splits/validation/potato_healthy/9a6eb7c4-6b43-477a-89e0-69f62ef67991___RS_HL 1846.JPG,potato_healthy,potato_healthy,0.9924854636192322
+data/multicrop-v1/splits/validation/potato_healthy/a4d1d8cb-26a2-413f-a229-021e2eea87ac___RS_HL 1819.JPG,potato_healthy,potato_healthy,0.9861002564430237
+data/multicrop-v1/splits/validation/potato_healthy/aa04db6d-645f-4e8a-88dc-c9f9396f0800___RS_HL 1975.JPG,potato_healthy,potato_healthy,0.9779075980186462
+data/multicrop-v1/splits/validation/potato_healthy/b536ea91-c5f8-413b-87f3-a22ac3d959d1___RS_HL 1825.JPG,potato_healthy,potato_healthy,0.992617666721344
+data/multicrop-v1/splits/validation/potato_healthy/d287be3d-cac6-4485-8c31-674fb8b459be___RS_HL 1973.JPG,potato_healthy,potato_healthy,0.9977759718894958
+data/multicrop-v1/splits/validation/potato_healthy/d325e580-5faa-4aea-927d-2700f52cc343___RS_HL 1872.JPG,potato_healthy,potato_healthy,0.9975813627243042
+data/multicrop-v1/splits/validation/potato_healthy/e51367c1-d582-45e3-acf6-b0e652b43d3a___RS_HL 1873.JPG,potato_healthy,potato_healthy,0.9989343285560608
+data/multicrop-v1/splits/validation/potato_healthy/ec6e43d3-512d-4908-99f2-c9e2a0be54be___RS_HL 4202.JPG,potato_healthy,potato_healthy,0.6311954855918884
+data/multicrop-v1/splits/validation/potato_healthy/f0036dfd-9f46-4f2f-9001-5973495f2171___RS_HL 1849.JPG,potato_healthy,potato_healthy,0.9938979744911194
+data/multicrop-v1/splits/validation/potato_healthy/f4b5ec24-d318-4309-8294-9126450d5d7f___RS_HL 1824.JPG,potato_healthy,potato_healthy,0.9905195236206055
+data/multicrop-v1/splits/validation/potato_late/01270f5c-a44b-4da7-9398-289088c197ab___RS_LB 2517.JPG,potato_late,potato_late,0.9833891987800598
+data/multicrop-v1/splits/validation/potato_late/01ad74ce-eb28-42c7-9204-778d17cfd45c___RS_LB 2669.JPG,potato_late,potato_late,0.9774863719940186
+data/multicrop-v1/splits/validation/potato_late/02c8ff21-4e0a-4326-ba8f-089e5cb45b74___RS_LB 4089.JPG,potato_late,potato_late,0.856631338596344
+data/multicrop-v1/splits/validation/potato_late/034a54f1-e3e9-4524-a318-9d253d9f1394___RS_LB 2893.JPG,potato_late,potato_late,0.9766213297843933
+data/multicrop-v1/splits/validation/potato_late/04bbcc55-93d3-4a19-9137-8de036a8a4db___RS_LB 2647.JPG,potato_late,potato_late,0.9797976613044739
+data/multicrop-v1/splits/validation/potato_late/059c9129-51b7-4d6b-9b57-f22e87568a0a___RS_LB 5118.JPG,potato_late,potato_late,0.8120469450950623
+data/multicrop-v1/splits/validation/potato_late/0651be8e-a2d1-4b8a-97b8-1dc89d79fd26___RS_LB 3261.JPG,potato_late,potato_late,0.9957999587059021
+data/multicrop-v1/splits/validation/potato_late/073a7489-b8dd-4efc-8393-7f024fe8542a___RS_LB 2617.JPG,potato_late,potato_late,0.9933071732521057
+data/multicrop-v1/splits/validation/potato_late/08ddae0c-5328-4183-b16e-c980f197e471___RS_LB 2845.JPG,potato_late,potato_late,0.9932504892349243
+data/multicrop-v1/splits/validation/potato_late/0acdc2b2-0dde-4073-8542-6fca275ab974___RS_LB 4857.JPG,potato_late,potato_late,0.9070155620574951
+data/multicrop-v1/splits/validation/potato_late/127521ec-3cc5-4f98-ac73-ad561ec29e73___RS_LB 3219.JPG,potato_late,potato_late,0.9844319224357605
+data/multicrop-v1/splits/validation/potato_late/145216a1-aab7-4f40-851d-a56c436ad0e3___RS_LB 2715.JPG,potato_late,potato_late,0.9791899919509888
+data/multicrop-v1/splits/validation/potato_late/14691d2b-446b-4f0e-921b-60d3b76cbf03___RS_LB 2518.JPG,potato_late,potato_late,0.9761536717414856
+data/multicrop-v1/splits/validation/potato_late/1736a728-bae9-4133-bfca-60a7c3b6382c___RS_LB 4855.JPG,potato_late,potato_healthy,0.5335877537727356
+data/multicrop-v1/splits/validation/potato_late/17a07992-ebb9-4368-8cb7-4af40d8ded08___RS_LB 3064.JPG,potato_late,potato_late,0.9933522939682007
+data/multicrop-v1/splits/validation/potato_late/1a6fc494-81dd-4649-ad8d-a5a6e58a2aa7___RS_LB 2618.JPG,potato_late,potato_late,0.9964780211448669
+data/multicrop-v1/splits/validation/potato_late/1b8ae46e-1202-4715-8ad1-fd18046c42d3___RS_LB 3880.JPG,potato_late,potato_late,0.9433727264404297
+data/multicrop-v1/splits/validation/potato_late/1c6412c9-45ce-4814-af8d-274f4e3c9c4e___RS_LB 2746.JPG,potato_late,potato_late,0.9944504499435425
+data/multicrop-v1/splits/validation/potato_late/2122118e-02ee-452b-864c-adf36ed5ce9c___RS_LB 2890.JPG,potato_late,potato_late,0.9672653675079346
+data/multicrop-v1/splits/validation/potato_late/2482a11a-46b1-4e06-9b5c-4af0089b3259___RS_LB 4087.JPG,potato_late,potato_late,0.7737522125244141
+data/multicrop-v1/splits/validation/potato_late/289cbc85-4659-4db9-95b3-06b14fa36216___RS_LB 3857.JPG,potato_late,potato_healthy,0.7196197509765625
+data/multicrop-v1/splits/validation/potato_late/2a52ba17-febc-49b9-b5ab-52a500d387de___RS_LB 2621.JPG,potato_late,potato_late,0.9729180335998535
+data/multicrop-v1/splits/validation/potato_late/2af683b8-ad55-450d-9047-630b85a2d128___RS_LB 4614.JPG,potato_late,potato_late,0.9221649169921875
+data/multicrop-v1/splits/validation/potato_late/2b7f92a9-9bd8-4461-9588-ab98abf54be0___RS_LB 2575.JPG,potato_late,potato_late,0.9941346049308777
+data/multicrop-v1/splits/validation/potato_late/2e18248f-e251-44c0-b9a5-a198455f43ee___RS_LB 4858.JPG,potato_late,potato_healthy,0.5044209957122803
+data/multicrop-v1/splits/validation/potato_late/2f8e6ae7-f6ac-4bab-992b-82e3c51cf476___RS_LB 2743.JPG,potato_late,potato_late,0.9927117824554443
+data/multicrop-v1/splits/validation/potato_late/350662fe-0ebf-4e6b-9ff9-6ceaf9d22067___RS_LB 3877.JPG,potato_late,potato_late,0.9198420643806458
+data/multicrop-v1/splits/validation/potato_late/37c47f95-2216-4f78-87a1-504b198a4f4c___RS_LB 4327.JPG,potato_late,potato_late,0.9917379021644592
+data/multicrop-v1/splits/validation/potato_late/38e8e3d1-7c0e-4d66-a926-79538ceadf07___RS_LB 4130.JPG,potato_late,potato_late,0.9512502551078796
+data/multicrop-v1/splits/validation/potato_late/38f1a80d-6961-4763-ada2-7504f388cf2d___RS_LB 3217.JPG,potato_late,potato_late,0.9944813251495361
+data/multicrop-v1/splits/validation/potato_late/3a0033d6-2efc-4926-a9eb-3969d815d630___RS_LB 5144.JPG,potato_late,potato_late,0.9849758744239807
+data/multicrop-v1/splits/validation/potato_late/3b241fa8-12f2-4c80-afe2-0a4cdc8f34a1___RS_LB 5138.JPG,potato_late,potato_late,0.9918678402900696
+data/multicrop-v1/splits/validation/potato_late/3c20c90a-788c-4d06-acdb-107f695d901b___RS_LB 4856.JPG,potato_late,potato_late,0.8146870732307434
+data/multicrop-v1/splits/validation/potato_late/4043044d-1e8d-4861-9152-99660fdffa9e___RS_LB 4438.JPG,potato_late,potato_late,0.7937753200531006
+data/multicrop-v1/splits/validation/potato_late/42cd0719-199a-40a8-aaa0-228bb80e1832___RS_LB 4440.JPG,potato_late,potato_late,0.7650206685066223
+data/multicrop-v1/splits/validation/potato_late/43dde1e0-8c73-45af-8fbf-d500e450a154___RS_LB 3270.JPG,potato_late,potato_late,0.9965747594833374
+data/multicrop-v1/splits/validation/potato_late/465165a0-33c0-4593-8324-03513e71079d___RS_LB 4445.JPG,potato_late,potato_late,0.9995914101600647
+data/multicrop-v1/splits/validation/potato_late/468629f7-6ca2-4823-9a39-d42b4d92c4bb___RS_LB 5312.JPG,potato_late,potato_late,0.9681336283683777
+data/multicrop-v1/splits/validation/potato_late/489107b2-13f2-401b-b931-39ca7fd4be2b___RS_LB 2665.JPG,potato_late,potato_late,0.9804264307022095
+data/multicrop-v1/splits/validation/potato_late/4c846678-1c22-4734-b2bf-fb774bf3bb13___RS_LB 4090.JPG,potato_late,potato_late,0.8341382145881653
+data/multicrop-v1/splits/validation/potato_late/4d085c80-4d57-4377-8fb3-eab3a25e5f5c___RS_LB 3060.JPG,potato_late,potato_late,0.995372474193573
+data/multicrop-v1/splits/validation/potato_late/52c6891d-e627-4ebf-a080-3e8051531f5a___RS_LB 4092.JPG,potato_late,potato_late,0.8527937531471252
+data/multicrop-v1/splits/validation/potato_late/5318452f-222d-4abc-b39c-55fa6c26a82a___RS_LB 3063.JPG,potato_late,potato_late,0.9962148070335388
+data/multicrop-v1/splits/validation/potato_late/53b09253-988e-4a22-966c-b5a03ed6bc44___RS_LB 2924.JPG,potato_late,potato_late,0.9889529943466187
+data/multicrop-v1/splits/validation/potato_late/5576794b-902c-4df2-ae8d-da30faa37d5d___RS_LB 4443.JPG,potato_late,potato_late,0.9101002812385559
+data/multicrop-v1/splits/validation/potato_late/5759c134-1965-4dd2-b71a-4eef4048f962___RS_LB 3975.JPG,potato_late,potato_healthy,0.8580275177955627
+data/multicrop-v1/splits/validation/potato_late/57980690-2488-4715-ae89-84e84d17ee10___RS_LB 3978.JPG,potato_late,potato_healthy,0.705985426902771
+data/multicrop-v1/splits/validation/potato_late/580e8c49-3b1c-46d2-b3f4-68f0b3de0d77___RS_LB 4063.JPG,potato_late,potato_late,0.8503960967063904
+data/multicrop-v1/splits/validation/potato_late/58adb74c-a1b3-4b9d-95b7-f0721c499388___RS_LB 4326.JPG,potato_late,potato_late,0.9956340193748474
+data/multicrop-v1/splits/validation/potato_late/5ad9dba9-ed81-437e-8d5d-1d6660514462___RS_LB 4439.JPG,potato_late,potato_late,0.954933226108551
+data/multicrop-v1/splits/validation/potato_late/5b3de8b6-0690-4a35-ab9d-ef6617c548ff___RS_LB 2925.JPG,potato_late,potato_late,0.9874235987663269
+data/multicrop-v1/splits/validation/potato_late/5bbebfcc-4e51-47ba-948c-46be12f1c170___RS_LB 2716.JPG,potato_late,potato_late,0.9867584109306335
+data/multicrop-v1/splits/validation/potato_late/5ec337d4-aff8-4174-bae6-72c246db3ce0___RS_LB 3175.JPG,potato_late,potato_late,0.919938862323761
+data/multicrop-v1/splits/validation/potato_late/5f0801e0-b127-4596-9f82-eb36f8ee5c85___RS_LB 3852.JPG,potato_late,potato_late,0.5855924487113953
+data/multicrop-v1/splits/validation/potato_late/5fe37f29-fe15-42ac-93b5-90aa5337bd55___RS_LB 2514.JPG,potato_late,potato_late,0.9325903058052063
+data/multicrop-v1/splits/validation/potato_late/60463ced-752c-4af3-9082-1de380c572e4___RS_LB 2580.JPG,potato_late,potato_late,0.9833059906959534
+data/multicrop-v1/splits/validation/potato_late/668455c6-f7cf-4dc3-a4a8-858e7d4b55c9___RS_LB 3878.JPG,potato_late,potato_late,0.9481101036071777
+data/multicrop-v1/splits/validation/potato_late/6a687e1b-15c3-4752-b428-e14cbe85feab___RS_LB 2803.JPG,potato_late,potato_late,0.9648175239562988
+data/multicrop-v1/splits/validation/potato_late/6be49d30-1b69-435a-a533-21b2b1a7fd41___RS_LB 3309.JPG,potato_late,potato_healthy,0.5419492721557617
+data/multicrop-v1/splits/validation/potato_late/6c5ac624-844c-4d01-b030-38e1130e890a___RS_LB 3973.JPG,potato_late,potato_late,0.9186236262321472
+data/multicrop-v1/splits/validation/potato_late/7050bb1d-af0d-47c4-8f35-23b9561b8024___RS_LB 3313.JPG,potato_late,potato_late,0.7165621519088745
+data/multicrop-v1/splits/validation/potato_late/70b8c0ad-be72-4f3f-84ba-7439f83b089b___RS_LB 4446.JPG,potato_late,potato_late,0.9998435974121094
+data/multicrop-v1/splits/validation/potato_late/71f6c664-3b77-45ef-a1de-e00685c78add___RS_LB 4441.JPG,potato_late,potato_late,0.9517235159873962
+data/multicrop-v1/splits/validation/potato_late/727dd407-7a8b-4edb-9697-726ae947bd63___RS_LB 2646.JPG,potato_late,potato_late,0.9012124538421631
+data/multicrop-v1/splits/validation/potato_late/734b84f8-3bcb-4abd-bf22-0896a16e8df7___RS_LB 2929.JPG,potato_late,potato_late,0.9980606436729431
+data/multicrop-v1/splits/validation/potato_late/749a1b32-7152-4dce-87b4-92af094f6b9b___RS_LB 3310.JPG,potato_late,potato_late,0.893016517162323
+data/multicrop-v1/splits/validation/potato_late/74d51dd6-7990-4d3a-95c6-5d67fac5cdad___RS_LB 2578.JPG,potato_late,potato_late,0.9970807433128357
+data/multicrop-v1/splits/validation/potato_late/755c96cf-1bfa-4d35-9ad2-c04dba9f64c8___RS_LB 3262.JPG,potato_late,potato_late,0.9865555763244629
+data/multicrop-v1/splits/validation/potato_late/77c271bd-0798-4336-8bea-f2a80e8e8906___RS_LB 3290.JPG,potato_late,potato_late,0.9732365608215332
+data/multicrop-v1/splits/validation/potato_late/78f43f26-36e5-43c2-9b87-a08d8a0b8a11___RS_LB 2843.JPG,potato_late,potato_late,0.9956438541412354
+data/multicrop-v1/splits/validation/potato_late/794fae1d-55b2-4275-8fce-174728963813___RS_LB 2841.JPG,potato_late,potato_late,0.9767365455627441
+data/multicrop-v1/splits/validation/potato_late/7a4371b2-72c6-414e-b73e-6e4b4adab72f___RS_LB 3289.JPG,potato_late,potato_late,0.9976451992988586
+data/multicrop-v1/splits/validation/potato_late/7b5a2c96-f276-477a-8e7e-3325b02719a7___RS_LB 4613.JPG,potato_late,potato_late,0.9301185607910156
+data/multicrop-v1/splits/validation/potato_late/7ce28b45-467c-4962-a030-f621b4bc76a8___RS_LB 2644.JPG,potato_late,potato_late,0.9289738535881042
+data/multicrop-v1/splits/validation/potato_late/7ec28081-7b26-4519-a406-48ff4edb69ea___RS_LB 2622.JPG,potato_late,potato_late,0.9961826205253601
+data/multicrop-v1/splits/validation/potato_late/8137ed93-0e40-4bcd-9da7-f69ad5a08cd5___RS_LB 3059.JPG,potato_late,potato_late,0.996163010597229
+data/multicrop-v1/splits/validation/potato_late/841a4e5a-7aa6-4b32-a2b2-436874a48fdb___RS_LB 4469.JPG,potato_late,potato_late,0.9872259497642517
+data/multicrop-v1/splits/validation/potato_late/84559c6d-0589-4d8d-8fc3-a818b067f85c___RS_LB 4608.JPG,potato_late,potato_late,0.9520105719566345
+data/multicrop-v1/splits/validation/potato_late/85bbcdd2-a9fe-46d1-8e0e-f4e2c5e885fe___RS_LB 3218.JPG,potato_late,potato_late,0.9903359413146973
+data/multicrop-v1/splits/validation/potato_late/85d29f87-cb27-4ffa-9ad8-9c47f9a53b33___RS_LB 4437.JPG,potato_late,potato_late,0.9906438589096069
+data/multicrop-v1/splits/validation/potato_late/8829e413-5a7a-4680-b873-e71dfa9dbfe4___RS_LB 3974.JPG,potato_late,potato_healthy,0.9733231663703918
+data/multicrop-v1/splits/validation/potato_late/8f8e338a-b6ac-4ca7-b3f3-596dc15eb140___RS_LB 3970.JPG,potato_late,potato_late,0.9653977155685425
+data/multicrop-v1/splits/validation/potato_late/919150bd-372b-44e0-a70e-a13e60dccbce___RS_LB 3263.JPG,potato_late,potato_late,0.9910352826118469
+data/multicrop-v1/splits/validation/potato_late/9a7d732b-12e2-400f-9206-068df63de1ba___RS_LB 2926.JPG,potato_late,potato_late,0.9888123273849487
+data/multicrop-v1/splits/validation/potato_late/9c0e8576-642f-47a6-a053-c52e9025b7f6___RS_LB 4134.JPG,potato_late,maize_northern_blight,0.5798320770263672
+data/multicrop-v1/splits/validation/potato_late/9c6155e6-eb4b-4ef9-bcd5-812803cb16d9___RS_LB 3268.JPG,potato_late,potato_late,0.9878943562507629
+data/multicrop-v1/splits/validation/potato_late/a0c129b8-4fb3-406d-b2f6-1309fec50c70___RS_LB 5139.JPG,potato_late,potato_late,0.9804767370223999
+data/multicrop-v1/splits/validation/potato_late/a34d3777-22c7-4723-8b85-f766e042c121___RS_LB 4375.JPG,potato_late,potato_late,0.9450292587280273
+data/multicrop-v1/splits/validation/potato_late/a3bf27ee-b4ec-4f72-a25b-9d47b4cd100d___RS_LB 2889.JPG,potato_late,potato_late,0.9702333211898804
+data/multicrop-v1/splits/validation/potato_late/a6623827-bcdc-40ed-81e6-5cde1a1da997___RS_LB 3179.JPG,potato_late,potato_late,0.9643879532814026
+data/multicrop-v1/splits/validation/potato_late/a69b634c-1bb1-4098-9da0-8393f9b8d6e1___RS_LB 5120.JPG,potato_late,potato_late,0.7438797354698181
+data/multicrop-v1/splits/validation/potato_late/a6b27bfe-0e60-4984-98ca-af4b2316dfff___RS_LB 3881.JPG,potato_late,potato_late,0.9083540439605713
+data/multicrop-v1/splits/validation/potato_late/a6f75dd1-c290-4116-be6a-e3c94e40aa2a___RS_LB 3265.JPG,potato_late,potato_late,0.9386089444160461
+data/multicrop-v1/splits/validation/potato_late/a8db407c-12cb-460c-991a-8f60d20c06bc___RS_LB 5117.JPG,potato_late,potato_late,0.7727824449539185
+data/multicrop-v1/splits/validation/potato_late/a904edc1-4c4d-4171-a46e-ae914010884b___RS_LB 4373.JPG,potato_late,potato_late,0.988247811794281
+data/multicrop-v1/splits/validation/potato_late/acf05b32-0d7e-423c-96b2-f78b6fdf975d___RS_LB 5309.JPG,potato_late,potato_late,0.9872466325759888
+data/multicrop-v1/splits/validation/potato_late/af17b876-b0e7-43ce-95e8-8591066dfdc9___RS_LB 3976.JPG,potato_late,potato_late,0.5340524315834045
+data/multicrop-v1/splits/validation/potato_late/afcad9ca-9bd2-4c7b-b034-2b3d0360ac30___RS_LB 2741.JPG,potato_late,potato_late,0.9948881268501282
+data/multicrop-v1/splits/validation/potato_late/b0137e92-ce1b-4523-95f0-7a827c206ee0___RS_LB 2913.JPG,potato_late,potato_late,0.994857907295227
+data/multicrop-v1/splits/validation/potato_late/b22a71a5-31a9-40c5-a3df-313e52748a61___RS_LB 4610.JPG,potato_late,potato_late,0.9709588885307312
+data/multicrop-v1/splits/validation/potato_late/b4adb8c4-2cea-4027-b0fd-528406b14c86___RS_LB 4066.JPG,potato_late,potato_late,0.8075112700462341
+data/multicrop-v1/splits/validation/potato_late/b4e52186-de58-4c06-bbd2-2fb3dbeda13e___RS_LB 2655.JPG,potato_late,potato_late,0.9851986765861511
+data/multicrop-v1/splits/validation/potato_late/b598f9a7-b582-4fef-9c3d-cc985f2f9c03___RS_LB 3294.JPG,potato_late,potato_late,0.9960522055625916
+data/multicrop-v1/splits/validation/potato_late/b6ad95ed-8f05-42a1-ac35-581696454497___RS_LB 3855.JPG,potato_late,potato_late,0.5073911547660828
+data/multicrop-v1/splits/validation/potato_late/b86274d3-554a-495d-8304-76484e3c4d15___RS_LB 4442.JPG,potato_late,potato_late,0.9426753520965576
+data/multicrop-v1/splits/validation/potato_late/bc5b403e-ecc2-4fde-bafa-9b8698e4545c___RS_LB 4448.JPG,potato_late,potato_late,0.9989449381828308
+data/multicrop-v1/splits/validation/potato_late/bd586e94-fa36-4aed-be05-7a0028d40118___RS_LB 2650.JPG,potato_late,potato_late,0.9819951057434082
+data/multicrop-v1/splits/validation/potato_late/be013aee-1311-4679-ae86-1c6fba5f55e5___RS_LB 2799.JPG,potato_late,potato_late,0.9876837134361267
+data/multicrop-v1/splits/validation/potato_late/bf07f2b7-6ab3-4192-a418-ecabc32a11fe___RS_LB 2576.JPG,potato_late,potato_late,0.9839702248573303
+data/multicrop-v1/splits/validation/potato_late/c073bdde-9753-4035-8758-31fdc7cae993___RS_LB 2916.JPG,potato_late,potato_late,0.978185772895813
+data/multicrop-v1/splits/validation/potato_late/c206ebe3-c06e-4eb9-a537-a719cfa1e3c0___RS_LB 5140.JPG,potato_late,potato_late,0.9730309844017029
+data/multicrop-v1/splits/validation/potato_late/c4c1c25f-0594-4c81-a1e0-a609ee1f0808___RS_LB 2653.JPG,potato_late,potato_late,0.9963781237602234
+data/multicrop-v1/splits/validation/potato_late/c63d5cca-9639-4d42-88c4-13572afa1dda___RS_LB 2747.JPG,potato_late,potato_late,0.9566652178764343
+data/multicrop-v1/splits/validation/potato_late/c6d79fa2-e6fc-4c95-a805-c7ff53075b15___RS_LB 4328.JPG,potato_late,potato_late,0.9979475140571594
+data/multicrop-v1/splits/validation/potato_late/c8bfd67e-892e-4502-982a-adba5505be5d___RS_LB 4444.JPG,potato_late,potato_late,0.8846948742866516
+data/multicrop-v1/splits/validation/potato_late/ced49a2c-c7b3-4c10-9475-2b004afebff1___RS_LB 4436.JPG,potato_late,potato_late,0.9874983429908752
+data/multicrop-v1/splits/validation/potato_late/d3811753-f672-405c-afa3-8fbaa2715bf4___RS_LB 2720.JPG,potato_late,potato_late,0.994872510433197
+data/multicrop-v1/splits/validation/potato_late/d438f9b3-2952-425e-8c5f-a92a21b35f5f___RS_LB 4470.JPG,potato_late,potato_late,0.9963127970695496
+data/multicrop-v1/splits/validation/potato_late/d43fa915-e947-4316-b0f5-0f925c5d9625___RS_LB 3969.JPG,potato_late,potato_late,0.976769208908081
+data/multicrop-v1/splits/validation/potato_late/d78c58b2-c9d1-43f2-8b18-4455855c0f1f___RS_LB 3288.JPG,potato_late,potato_late,0.9924336671829224
+data/multicrop-v1/splits/validation/potato_late/d7e7afff-cb91-4209-bf42-ce579f273cce___RS_LB 4468.JPG,potato_late,potato_late,0.9333198666572571
+data/multicrop-v1/splits/validation/potato_late/d80e59e3-a88d-4c32-8dd1-a23a6fed45ae___RS_LB 2846.JPG,potato_late,potato_late,0.9973850846290588
+data/multicrop-v1/splits/validation/potato_late/d99f0d05-6ee3-440c-9dc6-48f7ba2bfc24___RS_LB 2654.JPG,potato_late,potato_late,0.9961084723472595
+data/multicrop-v1/splits/validation/potato_late/da16cb94-4f1d-4390-b446-19eac2110115___RS_LB 2912.JPG,potato_late,potato_late,0.9903777837753296
+data/multicrop-v1/splits/validation/potato_late/dae7db93-d197-4616-a16b-5dcc59058bc2___RS_LB 3178.JPG,potato_late,potato_late,0.9304201006889343
+data/multicrop-v1/splits/validation/potato_late/dcf61d08-eda8-41c1-9293-43895d68b426___RS_LB 4372.JPG,potato_late,potato_late,0.9769307374954224
+data/multicrop-v1/splits/validation/potato_late/de282779-9d54-4b8f-8292-e06c3e020e16___RS_LB 3971.JPG,potato_late,potato_late,0.9555153846740723
+data/multicrop-v1/splits/validation/potato_late/de63bbba-d8d0-4e74-95d7-6d5adfcd0955___RS_LB 3222.JPG,potato_late,potato_late,0.9906499981880188
+data/multicrop-v1/splits/validation/potato_late/df60df5b-a619-4b38-926d-6372c0f6329a___RS_LB 5308.JPG,potato_late,potato_late,0.9634732604026794
+data/multicrop-v1/splits/validation/potato_late/dfa65276-0450-4a57-ba94-25384d378f22___RS_LB 4065.JPG,potato_late,potato_late,0.8748498558998108
+data/multicrop-v1/splits/validation/potato_late/e0460bd7-100c-411f-ae0b-f69bfe360313___RS_LB 5310.JPG,potato_late,potato_late,0.9950279593467712
+data/multicrop-v1/splits/validation/potato_late/e0a085c0-20e4-4e36-87db-49f0b58fa349___RS_LB 4324.JPG,potato_late,potato_late,0.9944438338279724
+data/multicrop-v1/splits/validation/potato_late/e0e15d89-8c3b-43f5-8617-136b720e39cd___RS_LB 2668.JPG,potato_late,potato_late,0.9854454398155212
+data/multicrop-v1/splits/validation/potato_late/e231f522-dd72-4fbd-94b4-5b4d7b935269___RS_LB 4131.JPG,potato_late,potato_late,0.9173664450645447
+data/multicrop-v1/splits/validation/potato_late/e47b3a9a-24ea-460a-8a8f-4fc9814a072e___RS_LB 3314.JPG,potato_late,potato_late,0.8971903920173645
+data/multicrop-v1/splits/validation/potato_late/e48ffe4c-d920-4559-83ab-62d9d881d787___RS_LB 4129.JPG,potato_late,potato_late,0.844531238079071
+data/multicrop-v1/splits/validation/potato_late/e575421c-a9d4-4c0e-8027-b12fca1e3ac9___RS_LB 2806.JPG,potato_late,potato_late,0.8050822615623474
+data/multicrop-v1/splits/validation/potato_late/e766a563-c87a-4d14-ae00-898ce62e15d4___RS_LB 5123.JPG,potato_late,potato_late,0.7338879704475403
+data/multicrop-v1/splits/validation/potato_late/ea356b9c-9090-4f0d-9083-d1f63c77372d___RS_LB 2800.JPG,potato_late,potato_late,0.9988654851913452
+data/multicrop-v1/splits/validation/potato_late/ea5fc080-37a7-4954-ba8c-a5d67b6a0962___RS_LB 2888.JPG,potato_late,potato_late,0.8625497817993164
+data/multicrop-v1/splits/validation/potato_late/ea620852-7590-4d82-8349-1470cb1fe3a8___RS_LB 2719.JPG,potato_late,potato_late,0.9686888456344604
+data/multicrop-v1/splits/validation/potato_late/eb2bd15b-a92b-4302-98a1-bbc13a0f95bb___RS_LB 2671.JPG,potato_late,potato_late,0.9855239987373352
+data/multicrop-v1/splits/validation/potato_late/ee09546f-d7cd-4af9-9445-41745638c9c3___RS_LB 4471.JPG,potato_late,potato_late,0.941524863243103
+data/multicrop-v1/splits/validation/potato_late/f528e881-b237-4797-ab54-0152eb901f53___RS_LB 3854.JPG,potato_late,potato_late,0.5543779730796814
+data/multicrop-v1/splits/validation/potato_late/f5f41985-23db-4902-96a1-db4d7f95a26a___RS_LB 3177.JPG,potato_late,potato_late,0.9718719720840454
+data/multicrop-v1/splits/validation/potato_late/fabf3179-8fba-4551-93fe-28e7f6c0efc3___RS_LB 3269.JPG,potato_late,potato_late,0.9986209869384766
+data/multicrop-v1/splits/validation/potato_late/fb13e4c8-17e4-48a9-899b-dfc7f302196c___RS_LB 4374.JPG,potato_late,potato_late,0.9830065369606018
+data/multicrop-v1/splits/validation/potato_late/fb61ea12-3f1a-4ea3-911b-d830eeb74717___RS_LB 2914.JPG,potato_late,potato_late,0.9962963461875916
+data/multicrop-v1/splits/validation/potato_late/fc9b06c8-7c63-445d-9858-a5a0c7be719b___RS_LB 3273.JPG,potato_late,potato_late,0.7603386044502258
+data/multicrop-v1/splits/validation/potato_late/fd81a3e2-1d3e-4e52-a010-ad1b36a5220d___RS_LB 4067.JPG,potato_late,potato_late,0.9335212707519531
+data/multicrop-v1/splits/validation/potato_late/fdf53f6c-db92-48b9-9e06-0358e4114be6___RS_LB 2656.JPG,potato_late,potato_late,0.9880239367485046
+data/multicrop-v1/splits/validation/potato_late/fe72d959-6788-4b19-9285-e0b2919dc718___RS_LB 2516.JPG,potato_late,potato_late,0.5816182494163513
+data/multicrop-v1/splits/validation/tomato_early/01861c93-ea8b-4820-aaa8-cc6003b3e75b___RS_Erly.B 7855.JPG,tomato_early,tomato_early,0.8583381175994873
+data/multicrop-v1/splits/validation/tomato_early/04ddbde3-d33c-42bf-b849-dad24d64fd6f___RS_Erly.B 7664.JPG,tomato_early,tomato_early,0.9886022210121155
+data/multicrop-v1/splits/validation/tomato_early/055ae8d8-09e1-4b27-b385-9ff8a3e0eaae___RS_Erly.B 8247.JPG,tomato_early,tomato_early,0.7379521131515503
+data/multicrop-v1/splits/validation/tomato_early/0bd357fe-1e54-4c65-979c-e894e0b8a3aa___RS_Erly.B 8328.JPG,tomato_early,tomato_early,0.9874653220176697
+data/multicrop-v1/splits/validation/tomato_early/0c865fa4-b0bf-4e69-b39a-d97b068cef84___RS_Erly.B 7477.JPG,tomato_early,tomato_early,0.9976905584335327
+data/multicrop-v1/splits/validation/tomato_early/0db67be3-f733-4d15-b7d9-5d075b2cafc7___RS_Erly.B 6401.JPG,tomato_early,tomato_early,0.9995206594467163
+data/multicrop-v1/splits/validation/tomato_early/0e2abcfb-e62b-4c61-a24a-0800cad904a8___RS_Erly.B 7382.JPG,tomato_early,tomato_early,0.9094643592834473
+data/multicrop-v1/splits/validation/tomato_early/0f065614-a53a-4c83-9d29-5d3e4ab5b41d___RS_Erly.B 7676.JPG,tomato_early,tomato_early,0.8103175163269043
+data/multicrop-v1/splits/validation/tomato_early/0fbc786c-62a7-44f3-8db8-2649809bf1aa___RS_Erly.B 9514.JPG,tomato_early,tomato_early,0.696989119052887
+data/multicrop-v1/splits/validation/tomato_early/10a46a0b-debe-49f9-8562-c7c81855160e___RS_Erly.B 6339.JPG,tomato_early,tomato_early,0.9987248778343201
+data/multicrop-v1/splits/validation/tomato_early/113562f3-fe24-4b28-9ec8-7ca432bded47___RS_Erly.B 9402.JPG,tomato_early,tomato_early,0.9946402907371521
+data/multicrop-v1/splits/validation/tomato_early/121b3f84-70ed-4d1c-882c-d3204e2af046___RS_Erly.B 8421.JPG,tomato_early,tomato_early,0.9759261012077332
+data/multicrop-v1/splits/validation/tomato_early/15fb19ad-8a5a-4e1b-8ed2-c8d48b006b1d___RS_Erly.B 7674.JPG,tomato_early,tomato_early,0.9333058595657349
+data/multicrop-v1/splits/validation/tomato_early/16c7ab4c-6940-41e9-854f-d1a9a99325ce___RS_Erly.B 8216.JPG,tomato_early,tomato_early,0.9994889497756958
+data/multicrop-v1/splits/validation/tomato_early/1c29bc72-967e-46df-844b-467c95b298a3___RS_Erly.B 9549.JPG,tomato_early,tomato_early,0.9793912172317505
+data/multicrop-v1/splits/validation/tomato_early/1d1d79c6-824d-4c48-bd59-c83a5cf29229___RS_Erly.B 9547.JPG,tomato_early,tomato_early,0.8704818487167358
+data/multicrop-v1/splits/validation/tomato_early/1de17623-e625-4a3a-91e8-64973e6d09fd___RS_Erly.B 9577.JPG,tomato_early,tomato_early,0.9598011374473572
+data/multicrop-v1/splits/validation/tomato_early/1f4c6478-a39b-4974-aeef-3fcfa5ea69a6___RS_Erly.B 7385.JPG,tomato_early,tomato_early,0.9843413233757019
+data/multicrop-v1/splits/validation/tomato_early/21d6c7aa-20d7-4434-9248-e21d073e165a___RS_Erly.B 7495.JPG,tomato_early,tomato_early,0.9631779789924622
+data/multicrop-v1/splits/validation/tomato_early/248f220e-56ac-43f1-8f17-641ed4637138___RS_Erly.B 7802.JPG,tomato_early,tomato_early,0.8957741856575012
+data/multicrop-v1/splits/validation/tomato_early/2832ca53-be67-44c0-ac55-eb815bd85fd3___RS_Erly.B 8242.JPG,tomato_early,tomato_early,0.9986867308616638
+data/multicrop-v1/splits/validation/tomato_early/2840c2f1-b901-41c2-8d0c-7827bc7f8ab3___RS_Erly.B 9574.JPG,tomato_early,tomato_early,0.8945451378822327
+data/multicrop-v1/splits/validation/tomato_early/289ba10b-f518-445a-8c54-cc981e2ffe34___RS_Erly.B 7399.JPG,tomato_early,tomato_early,0.9941284656524658
+data/multicrop-v1/splits/validation/tomato_early/28d9f1bd-ee80-46e1-b89c-5a855f0c8400___RS_Erly.B 7818.JPG,tomato_early,tomato_early,0.9136609435081482
+data/multicrop-v1/splits/validation/tomato_early/29345423-647e-4e1b-81f4-16d8cfc0e137___RS_Erly.B 7422.JPG,tomato_early,potato_late,0.5114195346832275
+data/multicrop-v1/splits/validation/tomato_early/29f6e3c2-0bf9-42fe-9a39-aef42acd5191___RS_Erly.B 9480.JPG,tomato_early,tomato_early,0.9411454200744629
+data/multicrop-v1/splits/validation/tomato_early/2a64ed5f-6be9-463b-894f-e2953da0a974___RS_Erly.B 7520.JPG,tomato_early,tomato_early,0.9994004964828491
+data/multicrop-v1/splits/validation/tomato_early/2c9fda20-f414-4aaa-8798-faf6bc38f014___RS_Erly.B 6491.JPG,tomato_early,tomato_early,0.9965588450431824
+data/multicrop-v1/splits/validation/tomato_early/3069555f-45e9-4208-bc5e-015ce47e34e2___RS_Erly.B 7663.JPG,tomato_early,tomato_early,0.9984691739082336
+data/multicrop-v1/splits/validation/tomato_early/33cd99f1-1f8a-497b-b4fc-60ff78af4b8a___RS_Erly.B 8378.JPG,tomato_early,tomato_early,0.9628526568412781
+data/multicrop-v1/splits/validation/tomato_early/3726eff6-547d-411e-bc00-f8b533d067e3___RS_Erly.B 6494.JPG,tomato_early,tomato_early,0.9994816184043884
+data/multicrop-v1/splits/validation/tomato_early/398d72f7-db26-4138-9364-eb506f9495f4___RS_Erly.B 9450.JPG,tomato_early,tomato_early,0.9161698818206787
+data/multicrop-v1/splits/validation/tomato_early/3c09557f-b69a-423e-a84f-8fd9ee6467d2___RS_Erly.B 9490.JPG,tomato_early,tomato_early,0.9983944296836853
+data/multicrop-v1/splits/validation/tomato_early/3fa32b26-e7bb-493e-b7c2-c40e3f3df380___RS_Erly.B 9546.JPG,tomato_early,tomato_early,0.7814256548881531
+data/multicrop-v1/splits/validation/tomato_early/40b67c0a-5dd8-435c-80ed-764593d2147a___RS_Erly.B 7577.JPG,tomato_early,tomato_early,0.9955658316612244
+data/multicrop-v1/splits/validation/tomato_early/468dba17-366a-422f-b3b6-061261942b0d___RS_Erly.B 7853.JPG,tomato_early,tomato_early,0.8505224585533142
+data/multicrop-v1/splits/validation/tomato_early/48749ece-911d-440f-873d-475e58132969___RS_Erly.B 7479.JPG,tomato_early,tomato_early,0.9804453253746033
+data/multicrop-v1/splits/validation/tomato_early/496e8f67-eec4-47be-9c37-b7e8fd4cf230___RS_Erly.B 7743.JPG,tomato_early,tomato_early,0.968244731426239
+data/multicrop-v1/splits/validation/tomato_early/498e5205-4421-4ec6-80b5-e4f79156b1c5___RS_Erly.B 7362.JPG,tomato_early,tomato_early,0.8799480199813843
+data/multicrop-v1/splits/validation/tomato_early/4d007f46-814a-4cec-93d4-0be4b32a9ed6___RS_Erly.B 6495.JPG,tomato_early,tomato_early,0.999211311340332
+data/multicrop-v1/splits/validation/tomato_early/4eccde8f-4b47-4e5e-b0aa-9eaa67b20126___RS_Erly.B 8417.JPG,tomato_early,tomato_early,0.9156167507171631
+data/multicrop-v1/splits/validation/tomato_early/4f6876e9-7226-49d5-aef8-cec3d8e6fbc9___RS_Erly.B 9452.JPG,tomato_early,tomato_early,0.6738239526748657
+data/multicrop-v1/splits/validation/tomato_early/50cd977c-9fa8-4ff2-9a82-9d848f0a8972___RS_Erly.B 7683.JPG,tomato_early,tomato_early,0.9882856607437134
+data/multicrop-v1/splits/validation/tomato_early/51f589f7-d843-4d5d-8c5a-385951f58865___RS_Erly.B 9424.JPG,tomato_early,tomato_early,0.9662725329399109
+data/multicrop-v1/splits/validation/tomato_early/5390d8c0-5781-47cf-8d0a-482e000a01f3___RS_Erly.B 7400.JPG,tomato_early,tomato_early,0.9394227266311646
+data/multicrop-v1/splits/validation/tomato_early/54b09b2b-afe1-42ab-b889-7190495f1e16___RS_Erly.B 7684.JPG,tomato_early,tomato_early,0.9514508247375488
+data/multicrop-v1/splits/validation/tomato_early/54d55df4-c760-4191-b998-d1e1493a35f5___RS_Erly.B 7524.JPG,tomato_early,tomato_early,0.9975638389587402
+data/multicrop-v1/splits/validation/tomato_early/553d53a5-19f3-433e-9805-d3bf5a3804b1___RS_Erly.B 7580.JPG,tomato_early,tomato_early,0.9999371767044067
+data/multicrop-v1/splits/validation/tomato_early/573fc55b-8a73-48ba-b916-5d7f397977e4___RS_Erly.B 8384.JPG,tomato_early,tomato_early,0.5343208312988281
+data/multicrop-v1/splits/validation/tomato_early/57ff9c36-2345-4401-986e-d9c06a784c15___RS_Erly.B 9515.JPG,tomato_early,tomato_early,0.9785924553871155
+data/multicrop-v1/splits/validation/tomato_early/59dbd132-6e6c-4127-a218-b7602cbee670___RS_Erly.B 9449.JPG,tomato_early,potato_late,0.7393912076950073
+data/multicrop-v1/splits/validation/tomato_early/5a05e4e9-74d1-40a8-aca2-dc3500ef5fbc___RS_Erly.B 9489.JPG,tomato_early,tomato_early,0.9062514901161194
+data/multicrop-v1/splits/validation/tomato_early/5ba2c9ec-1d6f-4870-933d-6c9d05833d47___RS_Erly.B 6337.JPG,tomato_early,tomato_early,0.9978481531143188
+data/multicrop-v1/splits/validation/tomato_early/5bcb328c-9fa4-4abf-a3b6-8a015ada7d94___RS_Erly.B 7476.JPG,tomato_early,tomato_early,0.994418740272522
+data/multicrop-v1/splits/validation/tomato_early/5fc7639c-d04d-40bc-bbd3-68bf11183ed9___RS_Erly.B 7745.JPG,tomato_early,tomato_early,0.9095481634140015
+data/multicrop-v1/splits/validation/tomato_early/60b089ee-97ea-4df8-bb95-cd8c2094b24e___RS_Erly.B 9426.JPG,tomato_early,tomato_early,0.990678071975708
+data/multicrop-v1/splits/validation/tomato_early/6376d980-2b10-4990-a58d-ca0e7dfc6af3___RS_Erly.B 8215.JPG,tomato_early,tomato_early,0.9963410496711731
+data/multicrop-v1/splits/validation/tomato_early/64e682a8-ff23-4b50-a656-72b090f5b43a___RS_Erly.B 9478.JPG,tomato_early,tomato_early,0.9995526671409607
+data/multicrop-v1/splits/validation/tomato_early/66c98dd1-2790-4977-91ee-1b10ca8c687b___RS_Erly.B 8418.JPG,tomato_early,tomato_early,0.9743301868438721
+data/multicrop-v1/splits/validation/tomato_early/680b86dc-14e0-4668-95c8-776193015146___RS_Erly.B 7854.JPG,tomato_early,tomato_early,0.8066328167915344
+data/multicrop-v1/splits/validation/tomato_early/68f9f67d-e84a-4551-871c-7b56aab9defc___RS_Erly.B 7693.JPG,tomato_early,tomato_early,0.852511465549469
+data/multicrop-v1/splits/validation/tomato_early/6c124f22-619b-44fc-a3d1-231286d4bfda___RS_Erly.B 6403.JPG,tomato_early,tomato_early,0.999579131603241
+data/multicrop-v1/splits/validation/tomato_early/72c6a88e-87d8-45cb-8001-3dd67f90d46c___RS_Erly.B 8245.JPG,tomato_early,tomato_early,0.9994219541549683
+data/multicrop-v1/splits/validation/tomato_early/73bbd57a-8733-4b2a-a38d-f304ea890c62___RS_Erly.B 9548.JPG,tomato_early,tomato_early,0.9583321213722229
+data/multicrop-v1/splits/validation/tomato_early/74354e66-6888-4fac-8984-b8f887df2d86___RS_Erly.B 7578.JPG,tomato_early,tomato_early,0.999943733215332
+data/multicrop-v1/splits/validation/tomato_early/7621d943-ed1a-4ffb-8fa4-8c12d50424de___RS_Erly.B 8322.JPG,tomato_early,tomato_early,0.9990430474281311
+data/multicrop-v1/splits/validation/tomato_early/77bd1b85-eaed-41f8-97b0-d6e91b6f953d___RS_Erly.B 8212.JPG,tomato_early,tomato_early,0.5962486863136292
+data/multicrop-v1/splits/validation/tomato_early/79b737a7-eca5-4eb9-b30e-dd3e85640e55___RS_Erly.B 9492.JPG,tomato_early,tomato_early,0.9824730157852173
+data/multicrop-v1/splits/validation/tomato_early/7a255c73-1a41-47f8-8705-dee13a9a5827___RS_Erly.B 9399.JPG,tomato_early,tomato_early,0.9274683594703674
+data/multicrop-v1/splits/validation/tomato_early/7b085d56-6867-4946-8208-5823afeba034___RS_Erly.B 7384.JPG,tomato_early,tomato_early,0.9865601062774658
+data/multicrop-v1/splits/validation/tomato_early/7b32caa4-0d67-4b84-a1bf-cf9dffd7ffe5___RS_Erly.B 6405.JPG,tomato_early,tomato_early,0.9997723698616028
+data/multicrop-v1/splits/validation/tomato_early/7bab9b53-f608-4f3f-8325-d730d846b3d9___RS_Erly.B 7695.JPG,tomato_early,tomato_early,0.9258275032043457
+data/multicrop-v1/splits/validation/tomato_early/7bd63940-1890-4263-8c8c-e0c743bb51ce___RS_Erly.B 9487.JPG,tomato_early,tomato_early,0.5357844829559326
+data/multicrop-v1/splits/validation/tomato_early/7de91b8f-80f1-41bc-af89-2cf58a89276b___RS_Erly.B 7805.JPG,tomato_early,tomato_early,0.9066927433013916
+data/multicrop-v1/splits/validation/tomato_early/801083ae-26f9-4a9a-9e9a-f73fb18b67e5___RS_Erly.B 7363.JPG,tomato_early,tomato_early,0.6968750357627869
+data/multicrop-v1/splits/validation/tomato_early/80c3b18f-a436-47f7-9153-2a24197f6b69___RS_Erly.B 9593.JPG,tomato_early,potato_late,0.6133049130439758
+data/multicrop-v1/splits/validation/tomato_early/8597694d-3162-40ab-9f5b-e8c7cf03e045___RS_Erly.B 9485.JPG,tomato_early,potato_late,0.42075198888778687
+data/multicrop-v1/splits/validation/tomato_early/859a134c-51f7-4294-bd1a-78140d775bca___RS_Erly.B 8327.JPG,tomato_early,tomato_early,0.9964777827262878
+data/multicrop-v1/splits/validation/tomato_early/862c7fa2-1ab0-4bce-9f9b-76cbb4a096e1___RS_Erly.B 7521.JPG,tomato_early,tomato_early,0.9887059926986694
+data/multicrop-v1/splits/validation/tomato_early/8714986a-ae97-489a-8259-67411bfa2379___RS_Erly.B 9400.JPG,tomato_early,tomato_early,0.7379205822944641
+data/multicrop-v1/splits/validation/tomato_early/8734e1ef-fb0c-4cdd-aa97-b5a4ea8d6cf5___RS_Erly.B 7804.JPG,tomato_early,tomato_early,0.9176013469696045
+data/multicrop-v1/splits/validation/tomato_early/8f92a1b1-c99e-48b4-8cd2-d0bd09bc6a6b___RS_Erly.B 9479.JPG,tomato_early,tomato_early,0.9576069116592407
+data/multicrop-v1/splits/validation/tomato_early/8f9b3d86-42dd-4932-b638-8376529afcaa___RS_Erly.B 9575.JPG,tomato_early,tomato_early,0.8681524991989136
+data/multicrop-v1/splits/validation/tomato_early/906f1ca6-2923-40c2-a924-5486fc3d7ba0___RS_Erly.B 9444.JPG,tomato_early,tomato_early,0.9784061908721924
+data/multicrop-v1/splits/validation/tomato_early/90915bb5-9440-43dd-85c1-5d30865054d5___RS_Erly.B 7493.JPG,tomato_early,tomato_early,0.9947202205657959
+data/multicrop-v1/splits/validation/tomato_early/9302786b-4392-4e54-a7a1-c6c39043caaf___RS_Erly.B 8329.JPG,tomato_early,tomato_early,0.9959051609039307
+data/multicrop-v1/splits/validation/tomato_early/9498ce3a-8dc1-43ec-aeec-a05825cf9af2___RS_Erly.B 7820.JPG,tomato_early,tomato_early,0.7929931282997131
+data/multicrop-v1/splits/validation/tomato_early/95f5cf16-3e2d-4b96-9f3d-732cf1c60d6e___RS_Erly.B 7564.JPG,tomato_early,tomato_early,0.9898223876953125
+data/multicrop-v1/splits/validation/tomato_early/96441f54-ccd3-4f34-b405-e395e5070d2c___RS_Erly.B 8336.JPG,tomato_early,tomato_early,0.9335372447967529
+data/multicrop-v1/splits/validation/tomato_early/983a04ad-2cc6-4d78-9365-a67012b4ffdc___RS_Erly.B 7661.JPG,tomato_early,tomato_early,0.9962695837020874
+data/multicrop-v1/splits/validation/tomato_early/99ea67c9-4c24-40b3-8a62-88233a53dc4a___RS_Erly.B 7522.JPG,tomato_early,tomato_early,0.9802323579788208
+data/multicrop-v1/splits/validation/tomato_early/9b0106a7-eb90-4bb2-beec-6c9eb2d90d4b___RS_Erly.B 7424.JPG,tomato_early,tomato_early,0.5690162181854248
+data/multicrop-v1/splits/validation/tomato_early/9ba87e80-e0d5-4b50-8f7e-a0957c370320___RS_Erly.B 8324.JPG,tomato_early,tomato_early,0.9993870258331299
+data/multicrop-v1/splits/validation/tomato_early/9e8f1cbd-f128-47f3-b90d-9c8dc1efcb78___RS_Erly.B 7425.JPG,tomato_early,potato_late,0.5251314043998718
+data/multicrop-v1/splits/validation/tomato_early/9eec6625-b337-403b-b93c-e809f4e0b8c4___RS_Erly.B 7681.JPG,tomato_early,tomato_early,0.6623194813728333
+data/multicrop-v1/splits/validation/tomato_early/a007bf16-ab14-4d3c-99b1-0710882cbb17___RS_Erly.B 9388.JPG,tomato_early,tomato_early,0.9319716691970825
+data/multicrop-v1/splits/validation/tomato_early/a138ec63-9d5e-4c6d-97d6-da0159c93c0a___RS_Erly.B 7744.JPG,tomato_early,tomato_early,0.9456155896186829
+data/multicrop-v1/splits/validation/tomato_early/a2b13360-65ce-4302-8bec-50bdc1b9789d___RS_Erly.B 9446.JPG,tomato_early,tomato_early,0.9926887154579163
+data/multicrop-v1/splits/validation/tomato_early/a6abb0cb-af59-4136-a928-f08d5313ae36___RS_Erly.B 7561.JPG,tomato_early,tomato_early,0.9857754707336426
+data/multicrop-v1/splits/validation/tomato_early/a7aac68f-92a8-42dd-ad5b-662c172fa594___RS_Erly.B 7579.JPG,tomato_early,tomato_early,0.999671220779419
+data/multicrop-v1/splits/validation/tomato_early/a86f36c6-2089-4367-ba3e-5b7c8b3c0084___RS_Erly.B 7492.JPG,tomato_early,tomato_early,0.946897029876709
+data/multicrop-v1/splits/validation/tomato_early/a8e1a7a4-d45d-4072-9c25-6f7685f8f08b___RS_Erly.B 9387.JPG,tomato_early,tomato_early,0.999538779258728
+data/multicrop-v1/splits/validation/tomato_early/ad898210-9539-4fe4-abf0-a568b57ff205___RS_Erly.B 6336.JPG,tomato_early,tomato_early,0.9938097596168518
+data/multicrop-v1/splits/validation/tomato_early/aea263ac-87a1-42b7-a3ca-15d69e55204e___RS_Erly.B 9486.JPG,tomato_early,tomato_early,0.8677694797515869
+data/multicrop-v1/splits/validation/tomato_early/aea7d3be-648a-4e1b-932a-b0058b085a7a___RS_Erly.B 9517.JPG,tomato_early,tomato_early,0.9637129902839661
+data/multicrop-v1/splits/validation/tomato_early/b037f266-a24e-4f2c-9115-cf2eadd17293___RS_Erly.B 8214.JPG,tomato_early,tomato_early,0.9973068237304688
+data/multicrop-v1/splits/validation/tomato_early/b0bc0b85-fce9-43cc-87d1-481d4a107b5c___RS_Erly.B 9451.JPG,tomato_early,tomato_early,0.943260908126831
+data/multicrop-v1/splits/validation/tomato_early/b24f8f98-4bfe-4605-85f5-738fc09e58fe___RS_Erly.B 6406.JPG,tomato_early,tomato_early,0.9993628859519958
+data/multicrop-v1/splits/validation/tomato_early/b3129245-a3b0-4451-a213-b15fe08734b7___RS_Erly.B 9423.JPG,tomato_early,tomato_early,0.7972493767738342
+data/multicrop-v1/splits/validation/tomato_early/b45de15f-76b6-46bf-9990-e819dbef21d1___RS_Erly.B 9491.JPG,tomato_early,tomato_early,0.777275562286377
+data/multicrop-v1/splits/validation/tomato_early/b6bdfe3b-7cb9-48e1-86b2-4ccaf3770af1___RS_Erly.B 9477.JPG,tomato_early,tomato_early,0.8908601999282837
+data/multicrop-v1/splits/validation/tomato_early/b857a91a-c6e2-4d47-a025-5a5c3254e0a2___RS_Erly.B 7662.JPG,tomato_early,tomato_early,0.9940850734710693
+data/multicrop-v1/splits/validation/tomato_early/b868515e-a566-4b0b-9633-30203270943f___RS_Erly.B 9401.JPG,tomato_early,tomato_early,0.9842968583106995
+data/multicrop-v1/splits/validation/tomato_early/baea464c-e54b-4e22-8bbc-8047d19ed0cf___RS_Erly.B 8323.JPG,tomato_early,tomato_early,0.9982477426528931
+data/multicrop-v1/splits/validation/tomato_early/bdf7f885-1619-4b3f-bba8-e97896af0de5___RS_Erly.B 7819.JPG,tomato_early,tomato_early,0.7129992246627808
+data/multicrop-v1/splits/validation/tomato_early/be03b7aa-4c59-4ea9-b3cc-33a93a34b402___RS_Erly.B 7742.JPG,tomato_early,tomato_early,0.9128137826919556
+data/multicrop-v1/splits/validation/tomato_early/bfbf7eb4-8a12-4595-96f7-dcec497d3917___RS_Erly.B 7682.JPG,tomato_early,tomato_early,0.9886969327926636
+data/multicrop-v1/splits/validation/tomato_early/c2a64948-bda7-4a89-aec6-be714ba7cf99___RS_Erly.B 8330.JPG,tomato_early,tomato_early,0.9861568212509155
+data/multicrop-v1/splits/validation/tomato_early/c43cc003-56f4-4d9d-b224-6948f499cf95___RS_Erly.B 7675.JPG,tomato_early,tomato_early,0.953717052936554
+data/multicrop-v1/splits/validation/tomato_early/c5b268b2-80e3-45b2-8ba8-2412df3d6444___RS_Erly.B 7364.JPG,tomato_early,tomato_early,0.6530329585075378
+data/multicrop-v1/splits/validation/tomato_early/c6e96373-484c-45da-b043-0a294a59ad2c___RS_Erly.B 7401.JPG,tomato_early,tomato_early,0.7924677729606628
+data/multicrop-v1/splits/validation/tomato_early/c8412a1c-4e61-4a35-9538-c3d3a7c46cbe___RS_Erly.B 7383.JPG,tomato_early,tomato_early,0.9262219667434692
+data/multicrop-v1/splits/validation/tomato_early/ca7d6cd9-e24e-43af-82c2-742a922ce421___RS_Erly.B 9488.JPG,tomato_early,tomato_early,0.3841790556907654
+data/multicrop-v1/splits/validation/tomato_early/cd2d8a7b-2389-4a2c-8647-b986092fa506___RS_Erly.B 8377.JPG,tomato_early,tomato_early,0.8104907274246216
+data/multicrop-v1/splits/validation/tomato_early/cef9fa90-aca2-4354-b79e-2486409ac685___RS_Erly.B 7563.JPG,tomato_early,tomato_early,0.9995467066764832
+data/multicrop-v1/splits/validation/tomato_early/cf7acf3d-e079-4587-b3e8-bafe507c40d5___RS_Erly.B 8246.JPG,tomato_early,tomato_early,0.9544387459754944
+data/multicrop-v1/splits/validation/tomato_early/d1668361-aac6-41e3-b729-c5e5092326c1___RS_Erly.B 7562.JPG,tomato_early,tomato_early,0.99598228931427
+data/multicrop-v1/splits/validation/tomato_early/d3fd3d9c-60ba-432c-a4a7-049f014ecace___RS_Erly.B 7696.JPG,tomato_early,tomato_early,0.9459378719329834
+data/multicrop-v1/splits/validation/tomato_early/d418610e-e676-4722-b84a-6de973499fa9___RS_Erly.B 9425.JPG,tomato_early,tomato_early,0.9701959490776062
+data/multicrop-v1/splits/validation/tomato_early/d44e75f7-59ac-4296-ac62-893125ddf04e___RS_Erly.B 7856.JPG,tomato_early,tomato_early,0.939834475517273
+data/multicrop-v1/splits/validation/tomato_early/d4f5f0b5-3706-437f-826c-6328d479cba6___RS_Erly.B 9516.JPG,tomato_early,tomato_early,0.9982290863990784
+data/multicrop-v1/splits/validation/tomato_early/d529889a-662a-4321-9bd8-888244d50af8___RS_Erly.B 8381.JPG,tomato_early,tomato_early,0.8470650315284729
+data/multicrop-v1/splits/validation/tomato_early/d934ba74-0149-457f-b5e7-c11d595f285e___RS_Erly.B 7365.JPG,tomato_early,tomato_early,0.9337356090545654
+data/multicrop-v1/splits/validation/tomato_early/de96e7a2-6de3-4699-9680-9eb4d4e215c8___RS_Erly.B 9445.JPG,tomato_early,tomato_early,0.9989486336708069
+data/multicrop-v1/splits/validation/tomato_early/e084577f-bb13-4baf-8384-2b37eb430236___RS_Erly.B 7673.JPG,tomato_early,tomato_early,0.985969066619873
+data/multicrop-v1/splits/validation/tomato_early/e20f17f5-507c-45a8-8f6e-fcd76b29e564___RS_Erly.B 7694.JPG,tomato_early,tomato_early,0.9953278303146362
+data/multicrop-v1/splits/validation/tomato_early/e31c2f10-8b8d-4aec-9bc7-764d2995ebec___RS_Erly.B 7398.JPG,tomato_early,tomato_early,0.9724503755569458
+data/multicrop-v1/splits/validation/tomato_early/e3aef05b-9ed6-421c-a44d-82a996b3e3bb___RS_Erly.B 7803.JPG,tomato_early,tomato_early,0.9350851774215698
+data/multicrop-v1/splits/validation/tomato_early/e3e8305e-a7f1-4ac2-9ed0-7a09660b2fa3___RS_Erly.B 9447.JPG,tomato_early,tomato_early,0.9851257801055908
+data/multicrop-v1/splits/validation/tomato_early/e87f8d6a-9728-4d12-b6b3-e07c77db939b___RS_Erly.B 9576.JPG,tomato_early,tomato_early,0.8359401226043701
+data/multicrop-v1/splits/validation/tomato_early/eb84cf99-aee8-4acc-8d3d-c5a24c672eb4___RS_Erly.B 7423.JPG,tomato_early,tomato_early,0.7319668531417847
+data/multicrop-v1/splits/validation/tomato_early/ec5d1d0a-2909-4c2d-81d5-4bbed298167b___RS_Erly.B 6340.JPG,tomato_early,tomato_early,0.9909301400184631
+data/multicrop-v1/splits/validation/tomato_early/ee69b7e2-34d6-455f-97f6-6f5c06216131___RS_Erly.B 7478.JPG,tomato_early,tomato_early,0.9993135929107666
+data/multicrop-v1/splits/validation/tomato_early/ee7a6de8-1aca-4a55-8c12-69be6277c1c1___RS_Erly.B 9591.JPG,tomato_early,tomato_early,0.6722444295883179
+data/multicrop-v1/splits/validation/tomato_early/efd88799-7fbc-4638-b66b-4e49c7bf7b9f___RS_Erly.B 9390.JPG,tomato_early,tomato_early,0.8911271691322327
+data/multicrop-v1/splits/validation/tomato_early/f432e10d-7fd7-4517-b635-cc7677f53d8e___RS_Erly.B 9590.JPG,tomato_early,potato_late,0.8160879611968994
+data/multicrop-v1/splits/validation/tomato_early/f63f3650-9f84-45f9-898b-a6adef0294a3___RS_Erly.B 8419.JPG,tomato_early,tomato_early,0.9990676045417786
+data/multicrop-v1/splits/validation/tomato_early/f899b748-cd86-460f-a202-a6946e04946e___RS_Erly.B 7494.JPG,tomato_early,tomato_early,0.9933552742004395
+data/multicrop-v1/splits/validation/tomato_early/fb2aaea3-f1cd-49c3-aa02-b640c62e59f5___RS_Erly.B 9389.JPG,tomato_early,tomato_early,0.9962078332901001
+data/multicrop-v1/splits/validation/tomato_early/fbb02290-8863-482f-b898-0ea83a2b2fee___RS_Erly.B 9592.JPG,tomato_early,tomato_early,0.718387246131897
+data/multicrop-v1/splits/validation/tomato_early/ff422d28-d002-4382-80bf-30f78f66c677___RS_Erly.B 6492.JPG,tomato_early,tomato_early,0.9998971223831177
+data/multicrop-v1/splits/validation/tomato_healthy/01f98912-9627-4ce0-8f0f-e451b7acbb6c___RS_HL 0509.JPG,tomato_healthy,tomato_healthy,0.9999951124191284
+data/multicrop-v1/splits/validation/tomato_healthy/04c78dad-c1eb-4a1b-bfeb-da4c7cc528e1___RS_HL 9688.JPG,tomato_healthy,tomato_healthy,0.9999980926513672
+data/multicrop-v1/splits/validation/tomato_healthy/050e7bff-2f2d-4c92-9422-05ce93f1d5a9___RS_HL 0097.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/06040967-7b02-43b5-a3fc-4490a9a7ded6___RS_HL 0508.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/07b44f68-fa0b-44b5-91cc-c6a7144fcc93___RS_HL 0357.JPG,tomato_healthy,tomato_healthy,0.9949023723602295
+data/multicrop-v1/splits/validation/tomato_healthy/0a205a11-1e64-49f7-93c2-ad59312b4f83___RS_HL 0334.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/0d91db63-181b-4c3a-939b-181cc812e466___RS_HL 0308.JPG,tomato_healthy,tomato_healthy,0.9998747110366821
+data/multicrop-v1/splits/validation/tomato_healthy/109f3e0e-e7f4-41b9-b450-f68750e144ae___RS_HL 0014.JPG,tomato_healthy,tomato_healthy,0.9999953508377075
+data/multicrop-v1/splits/validation/tomato_healthy/12c28bfa-a576-4787-8d4e-a500ac446766___RS_HL 0526.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/162db449-3361-40fa-a9bf-42bb63d43781___RS_HL 9647.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/188107b9-d61f-4084-94da-4d5f8d9eedc1___RS_HL 0553.JPG,tomato_healthy,tomato_healthy,0.9999600648880005
+data/multicrop-v1/splits/validation/tomato_healthy/1a0c4408-634e-4bd5-948d-e73ca5572976___RS_HL 0146.JPG,tomato_healthy,tomato_healthy,0.9999865293502808
+data/multicrop-v1/splits/validation/tomato_healthy/1a308834-fdd7-4121-ae03-5736d8d52e26___RS_HL 9689.JPG,tomato_healthy,tomato_healthy,0.9999982118606567
+data/multicrop-v1/splits/validation/tomato_healthy/1a393116-cbd1-4e3f-acfc-563e96ae1e80___RS_HL 0268.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/1ad550a2-113e-440c-919d-85dff2f4de38___RS_HL 0331.JPG,tomato_healthy,tomato_healthy,0.9999891519546509
+data/multicrop-v1/splits/validation/tomato_healthy/1c092a12-ed60-42c8-86b4-0427db78a5d3___RS_HL 0076.JPG,tomato_healthy,tomato_healthy,0.9999991655349731
+data/multicrop-v1/splits/validation/tomato_healthy/1cb9d4d1-280b-479c-95a9-01f71acf70bc___RS_HL 0641.JPG,tomato_healthy,tomato_healthy,0.9844076633453369
+data/multicrop-v1/splits/validation/tomato_healthy/1d1017be-8cd6-4967-894b-1b9fb89d7d6e___RS_HL 0270.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/1d46ec32-bf0a-4d44-a149-c6fc12920d57___RS_HL 0060.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/1e1aa3d8-d12f-47e1-b316-b8656ab3f2b6___RS_HL 0075.JPG,tomato_healthy,tomato_healthy,0.999976396560669
+data/multicrop-v1/splits/validation/tomato_healthy/225003c5-d8a1-48ce-b315-42df4b99c51a___RS_HL 0464.JPG,tomato_healthy,tomato_healthy,0.9994718432426453
+data/multicrop-v1/splits/validation/tomato_healthy/22c48f3b-b49d-48b1-977e-e81d47c0f951___RS_HL 0369.JPG,tomato_healthy,tomato_healthy,0.9999678134918213
+data/multicrop-v1/splits/validation/tomato_healthy/236971d6-725b-4685-9336-550dd522d62a___RS_HL 0640.JPG,tomato_healthy,tomato_healthy,0.9999972581863403
+data/multicrop-v1/splits/validation/tomato_healthy/24069ab0-7106-40d0-bdca-e462a49d34dd___RS_HL 0267.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/24b7c39d-53c6-4a71-8dc0-83dff1a877d0___RS_HL 0465.JPG,tomato_healthy,tomato_healthy,0.9999927282333374
+data/multicrop-v1/splits/validation/tomato_healthy/2996b910-fc94-43ef-99b3-efc0ae494872___RS_HL 0410.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/2b4ab56e-4afa-4b0f-910a-3270e90c707c___RS_HL 0035.JPG,tomato_healthy,tomato_healthy,0.9998840093612671
+data/multicrop-v1/splits/validation/tomato_healthy/2b50c7a7-e22e-4103-9e23-909377ab00e3___RS_HL 0193.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/2b815107-e4d1-4f97-b8eb-72a06b2198f3___RS_HL 0399.JPG,tomato_healthy,tomato_healthy,0.9998950958251953
+data/multicrop-v1/splits/validation/tomato_healthy/2e0a7517-332f-4799-a083-5d393172909a___RS_HL 0612.JPG,tomato_healthy,tomato_healthy,0.9999982118606567
+data/multicrop-v1/splits/validation/tomato_healthy/31e077d4-97f5-4e4c-8b76-e2ccbf52ed2d___RS_HL 0460.JPG,tomato_healthy,tomato_healthy,0.9999938011169434
+data/multicrop-v1/splits/validation/tomato_healthy/338994aa-89ca-4fa5-80ea-9efc94093280___RS_HL 0194.JPG,tomato_healthy,tomato_healthy,0.9999946355819702
+data/multicrop-v1/splits/validation/tomato_healthy/362f6311-e53a-4c35-80b4-8f865b662bd0___RS_HL 9649.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/377ffc94-d068-4ba0-80cc-dea49edf094d___RS_HL 0367.JPG,tomato_healthy,tomato_healthy,0.9999843835830688
+data/multicrop-v1/splits/validation/tomato_healthy/3c435a41-903c-4517-b79e-c01724be03a1___RS_HL 0422.JPG,tomato_healthy,tomato_healthy,0.9999974966049194
+data/multicrop-v1/splits/validation/tomato_healthy/3c8fb1de-5acf-4194-8a8c-5349067cbaf8___RS_HL 0351.JPG,tomato_healthy,tomato_healthy,0.9999939203262329
+data/multicrop-v1/splits/validation/tomato_healthy/3e6c73ad-cfcb-4614-b927-150c2c642c9e___RS_HL 0074.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/3ee909e6-4de7-4120-bb0e-bd71627f8bf1___RS_HL 9782.JPG,tomato_healthy,tomato_healthy,0.9999959468841553
+data/multicrop-v1/splits/validation/tomato_healthy/40b7eb94-3f47-47b2-9734-2a95f6acd44e___RS_HL 0408.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/40dfa3e5-617d-46bb-9eab-eb2b114e5367___RS_HL 0079.JPG,tomato_healthy,tomato_healthy,0.9994854927062988
+data/multicrop-v1/splits/validation/tomato_healthy/414359b9-153b-4985-bfe0-eaf22f7ff6ab___RS_HL 0062.JPG,tomato_healthy,tomato_healthy,0.9998867511749268
+data/multicrop-v1/splits/validation/tomato_healthy/42ae0091-fbfd-43e6-8a48-805051f770a0___RS_HL 0463.JPG,tomato_healthy,tomato_healthy,0.9999988079071045
+data/multicrop-v1/splits/validation/tomato_healthy/4565ba85-5676-49cf-beac-79832cd30067___RS_HL 0639.JPG,tomato_healthy,tomato_healthy,0.9997770190238953
+data/multicrop-v1/splits/validation/tomato_healthy/45aa56d9-24bf-40e4-93ca-a34ce0fb905d___RS_HL 0144.JPG,tomato_healthy,tomato_healthy,0.9994421601295471
+data/multicrop-v1/splits/validation/tomato_healthy/45b3e6ad-f79c-4132-9bb5-9e9d26cbdfce___RS_HL 9908.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/466832f0-bff9-4766-a597-dc89880a7b4a___RS_HL 0111.JPG,tomato_healthy,tomato_healthy,0.9999809265136719
+data/multicrop-v1/splits/validation/tomato_healthy/47d38fb3-c397-433f-a478-482a660b70f3___RS_HL 0113.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/483659eb-d6da-4eb6-9106-cfe4240becbe___RS_HL 9895.JPG,tomato_healthy,tomato_healthy,0.9990848302841187
+data/multicrop-v1/splits/validation/tomato_healthy/48cbd826-6822-4bd9-8bb4-6595db85a3f2___RS_HL 9783.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/4946ed4e-9003-485c-830f-1ef42bf78185___RS_HL 0191.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/4f09b157-f5d2-4f99-ac0a-1be52cc7a27d___RS_HL 0402.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/4f5dde42-a6ac-4886-8b9e-a944568ace95___RS_HL 0080.JPG,tomato_healthy,tomato_healthy,0.999976396560669
+data/multicrop-v1/splits/validation/tomato_healthy/541d6033-1cc7-4c86-a37b-423bc08d25a7___RS_HL 9973.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/54a6ab64-9e7f-4126-8497-857c7c339a80___RS_HL 0461.JPG,tomato_healthy,tomato_healthy,0.9994637370109558
+data/multicrop-v1/splits/validation/tomato_healthy/5575d52c-a773-41fa-a7bc-a09c1ad912f2___RS_HL 0353.JPG,tomato_healthy,tomato_healthy,0.9999992847442627
+data/multicrop-v1/splits/validation/tomato_healthy/55d65bad-6553-42a7-916d-6276b3da83b2___RS_HL 0459.JPG,tomato_healthy,tomato_healthy,0.9999945163726807
+data/multicrop-v1/splits/validation/tomato_healthy/5c057128-2d09-4757-8e44-520fb30f2b60___RS_HL 0525.JPG,tomato_healthy,tomato_healthy,0.9958910942077637
+data/multicrop-v1/splits/validation/tomato_healthy/5dd2a498-7eff-4da7-9c0f-8c394103e52c___RS_HL 0611.JPG,tomato_healthy,tomato_healthy,0.9999825954437256
+data/multicrop-v1/splits/validation/tomato_healthy/5f8189f2-51cf-49b4-8a34-4955f26cf222___RS_HL 0352.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/6120d8df-66a3-45c1-ae2f-bb8065928df4___RS_HL 0420.JPG,tomato_healthy,tomato_healthy,0.9998712539672852
+data/multicrop-v1/splits/validation/tomato_healthy/6193b998-c9ab-46fc-9ca9-249efceb9220___RS_HL 0642.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/6550c4ca-9494-4de5-8909-d0cdab8f0892___RS_HL 0401.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/65d89a16-45b5-4ce7-9dad-f702c4b14e95___RS_HL 9896.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/666b3b4d-5510-4413-88cd-838fffe72003___RS_HL 0098.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/674f82cb-c61c-4944-b8d6-1afb6212f96f___RS_HL 9646.JPG,tomato_healthy,tomato_healthy,0.9999855756759644
+data/multicrop-v1/splits/validation/tomato_healthy/6883c31a-78b4-406a-9605-b6b31e0932cc___RS_HL 0037.JPG,tomato_healthy,tomato_healthy,0.9999980926513672
+data/multicrop-v1/splits/validation/tomato_healthy/6e1abdb8-4020-48c9-9488-2d320e8d5a4d___RS_HL 0168.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/74463e4f-524e-4dad-a936-b167d6846bcf___RS_HL 9971.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/7521718e-614b-4de0-ba94-f587b0113a69___RS_HL 0145.JPG,tomato_healthy,tomato_healthy,0.9998076558113098
+data/multicrop-v1/splits/validation/tomato_healthy/753c3f29-c572-4765-8711-b5ac2cd0aaba___RS_HL 0310.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/76284899-9c5e-44bf-a160-02649418ec49___RS_HL 0077.JPG,tomato_healthy,tomato_healthy,0.9999985694885254
+data/multicrop-v1/splits/validation/tomato_healthy/784b04db-e95c-4afb-b451-1b6837d0d90e___RS_HL 0059.JPG,tomato_healthy,tomato_healthy,0.9999978542327881
+data/multicrop-v1/splits/validation/tomato_healthy/7af927ee-8940-49bf-bcb3-78ec3fcc40f3___RS_HL 9626.JPG,tomato_healthy,tomato_healthy,0.9999674558639526
+data/multicrop-v1/splits/validation/tomato_healthy/7b93db88-7c70-444a-9096-1812426217f7___RS_HL 0167.JPG,tomato_healthy,tomato_healthy,0.9999970197677612
+data/multicrop-v1/splits/validation/tomato_healthy/7bb3bc73-873b-454c-82cf-a12cb0eb37fc___RS_HL 0206.JPG,tomato_healthy,tomato_healthy,0.9989818930625916
+data/multicrop-v1/splits/validation/tomato_healthy/7d3cd4c9-2c10-422d-a5f2-474c5569649d___RS_HL 9686.JPG,tomato_healthy,tomato_healthy,0.9999929666519165
+data/multicrop-v1/splits/validation/tomato_healthy/80e6c399-040d-426f-94d9-8fb720b3836d___RS_HL 0333.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/824d057f-080b-4b9e-ae96-e91d5bdf3b98___RS_HL 0380.JPG,tomato_healthy,tomato_healthy,0.9999912977218628
+data/multicrop-v1/splits/validation/tomato_healthy/8298308b-4f4e-472b-9ee5-bd5887299f59___RS_HL 0269.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/8328f7fb-5929-4920-921a-ae9a24db66c2___RS_HL 0597.JPG,tomato_healthy,tomato_healthy,0.9999384880065918
+data/multicrop-v1/splits/validation/tomato_healthy/8379a9cc-775f-4e91-b880-09d9afb361ac___RS_HL 0596.JPG,tomato_healthy,tomato_healthy,0.9999923706054688
+data/multicrop-v1/splits/validation/tomato_healthy/83917dc9-aad9-4362-840e-24daab278519___RS_HL 0354.JPG,tomato_healthy,tomato_healthy,0.9999996423721313
+data/multicrop-v1/splits/validation/tomato_healthy/83d9992c-b4ee-41f5-b3eb-792afd464f4e___RS_HL 9629.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/83eb200d-ef9d-4b98-b4c1-58b7f0b169e4___RS_HL 0421.JPG,tomato_healthy,tomato_healthy,0.9994282126426697
+data/multicrop-v1/splits/validation/tomato_healthy/846276ae-4ccd-45ba-9a46-f913d04a9456___RS_HL 0012.JPG,tomato_healthy,tomato_healthy,0.999957799911499
+data/multicrop-v1/splits/validation/tomato_healthy/8a5ed87d-5122-4aaf-8e39-9a3433c5f76c___RS_HL 0524.JPG,tomato_healthy,tomato_healthy,0.9999982118606567
+data/multicrop-v1/splits/validation/tomato_healthy/8ab801ee-afee-4025-b5e8-5927465bd455___RS_HL 0212.JPG,tomato_healthy,tomato_healthy,0.9999843835830688
+data/multicrop-v1/splits/validation/tomato_healthy/8ac1645d-48d9-4f3e-842b-0187daeeb57c___RS_HL 0523.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/96a7aed7-5548-4977-92a9-10cc2282e84a___RS_HL 0204.JPG,tomato_healthy,tomato_healthy,0.9996505975723267
+data/multicrop-v1/splits/validation/tomato_healthy/97f4f8ad-c220-43f4-b25e-a6ae315057f0___RS_HL 0078.JPG,tomato_healthy,tomato_healthy,0.999998927116394
+data/multicrop-v1/splits/validation/tomato_healthy/9b668abb-fc96-412e-948f-442af45ec580___RS_HL 9972.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/9d06e189-6e39-4fb9-853b-e2ce180469a5___RS_HL 0407.JPG,tomato_healthy,tomato_healthy,0.9999493360519409
+data/multicrop-v1/splits/validation/tomato_healthy/9e0cd9db-f893-4426-b195-5643b55e0a8d___RS_HL 0379.JPG,tomato_healthy,tomato_healthy,0.999984860420227
+data/multicrop-v1/splits/validation/tomato_healthy/9e43d49b-abbe-4b9b-8566-42586a58a705___RS_HL 0462.JPG,tomato_healthy,tomato_healthy,0.9999986886978149
+data/multicrop-v1/splits/validation/tomato_healthy/9f959699-166c-4ac9-ba4a-a9e7d0c9e03b___RS_HL 0143.JPG,tomato_healthy,tomato_healthy,0.9889312982559204
+data/multicrop-v1/splits/validation/tomato_healthy/a01d8297-f16b-41ab-b7b9-6343d5b7d8a6___RS_HL 0419.JPG,tomato_healthy,tomato_healthy,0.9997957348823547
+data/multicrop-v1/splits/validation/tomato_healthy/a05f8f2d-6ac6-45d8-b7ad-394bbda892fc___RS_HL 0613.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/a06cd500-b782-4be6-8f7a-377c9ed5ceab___RS_HL 9648.JPG,tomato_healthy,tomato_healthy,0.9999502897262573
+data/multicrop-v1/splits/validation/tomato_healthy/a2118ec3-8434-4e93-8a4a-aa93262dfa76___RS_HL 0551.JPG,tomato_healthy,tomato_healthy,0.9999977350234985
+data/multicrop-v1/splits/validation/tomato_healthy/a2615e6f-cf8b-4937-b50d-5f3d5226eca5___RS_HL 0096.JPG,tomato_healthy,tomato_healthy,0.9999988079071045
+data/multicrop-v1/splits/validation/tomato_healthy/a5a6aa27-9a67-486e-853d-50ccdd1d8c21___RS_HL 0170.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/a882bb71-3c0f-4778-94db-9a228cfe619a___RS_HL 0095.JPG,tomato_healthy,tomato_healthy,0.9999983310699463
+data/multicrop-v1/splits/validation/tomato_healthy/ab8170dd-6785-4298-a0a3-d2d40e9e6558___RS_HL 0192.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/acdbf632-8d26-472d-874f-6d7df5cd0432___RS_HL 9897.JPG,tomato_healthy,tomato_healthy,0.9998433589935303
+data/multicrop-v1/splits/validation/tomato_healthy/acf28842-7821-4f31-ab73-2787e332e852___RS_HL 0011.JPG,tomato_healthy,tomato_healthy,0.9979669451713562
+data/multicrop-v1/splits/validation/tomato_healthy/b114c6fb-8ce0-4342-8e31-00ad83c1e1a5___RS_HL 0358.JPG,tomato_healthy,tomato_healthy,0.9999973773956299
+data/multicrop-v1/splits/validation/tomato_healthy/b2497a4d-6951-46d3-810b-7072e908eea9___RS_HL 9907.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/b2639bc5-e165-4cdd-8557-fa73c6d4137f___RS_HL 0072.JPG,tomato_healthy,tomato_healthy,0.9999995231628418
+data/multicrop-v1/splits/validation/tomato_healthy/b286becf-e2d6-4269-aaf4-e2df25c80cba___RS_HL 0355.JPG,tomato_healthy,tomato_healthy,0.9994657635688782
+data/multicrop-v1/splits/validation/tomato_healthy/b2e63ab4-09d6-4b43-8767-6ce042e080b5___RS_HL 0309.JPG,tomato_healthy,tomato_healthy,0.9999979734420776
+data/multicrop-v1/splits/validation/tomato_healthy/b4a854a1-cd40-4bac-b377-97fc49b8314c___RS_HL 9628.JPG,tomato_healthy,tomato_healthy,0.9999988079071045
+data/multicrop-v1/splits/validation/tomato_healthy/b5142952-d782-4b4a-bf1b-db96da849191___RS_HL 0081.JPG,tomato_healthy,tomato_healthy,0.9999992847442627
+data/multicrop-v1/splits/validation/tomato_healthy/b842ca3c-1910-4ff3-8691-c7759830651a___RS_HL 9784.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/bad3b814-de59-4c37-8f47-00ed153f7e4f___RS_HL 0214.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/badfd45d-417f-4735-8abc-fd20a5393778___RS_HL 0205.JPG,tomato_healthy,tomato_healthy,0.9984599351882935
+data/multicrop-v1/splits/validation/tomato_healthy/bc825946-3ee5-4269-8ba4-202afc766654___RS_HL 0368.JPG,tomato_healthy,tomato_healthy,0.9999908208847046
+data/multicrop-v1/splits/validation/tomato_healthy/beda9c8f-88eb-43c7-9670-60bd8fd5c43e___RS_HL 0038.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_healthy/c0b3ea2d-4889-4693-8590-cef2d32b81e3___RS_HL 0370.JPG,tomato_healthy,tomato_healthy,0.999998927116394
+data/multicrop-v1/splits/validation/tomato_healthy/c8ecc9a2-c12b-4350-8b3f-451c85d8e08b___RS_HL 0400.JPG,tomato_healthy,tomato_healthy,0.9999984502792358
+data/multicrop-v1/splits/validation/tomato_healthy/c90b9b00-dbfe-4481-b643-861fcd59c536___RS_HL 0598.JPG,tomato_healthy,tomato_healthy,0.9999996423721313
+data/multicrop-v1/splits/validation/tomato_healthy/cb1900be-7286-4ff9-89d2-c27641e91d2d___RS_HL 0071.JPG,tomato_healthy,tomato_healthy,0.999544084072113
+data/multicrop-v1/splits/validation/tomato_healthy/cb4a744a-1f1d-4cb1-b2a4-f1e1a12426ca___RS_HL 9970.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/cdf10741-0ed4-4a27-a2e9-8970e4426730___RS_HL 0356.JPG,tomato_healthy,tomato_healthy,0.9999992847442627
+data/multicrop-v1/splits/validation/tomato_healthy/ce9cef60-51af-4e89-bbe7-bf463d767e99___RS_HL 0614.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/cea3c7e9-94d8-4f97-bd50-e19a428c5162___RS_HL 0013.JPG,tomato_healthy,tomato_healthy,0.9999841451644897
+data/multicrop-v1/splits/validation/tomato_healthy/cf4431f9-8b69-46dd-80fb-732f1a652027___RS_HL 0510.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/d03457b5-ff94-4042-a225-15714454ab4e___RS_HL 0466.JPG,tomato_healthy,tomato_healthy,0.9998096823692322
+data/multicrop-v1/splits/validation/tomato_healthy/d3862da2-c8a4-4a40-98db-7148e5e7d2c9___RS_HL 9906.JPG,tomato_healthy,tomato_healthy,0.9996860027313232
+data/multicrop-v1/splits/validation/tomato_healthy/d4c014c8-81db-47ce-8a1a-277ef1159a3d___RS_HL 0211.JPG,tomato_healthy,tomato_healthy,0.9999744892120361
+data/multicrop-v1/splits/validation/tomato_healthy/d4fc1abf-fd0d-4625-9882-36acd3755ede___RS_HL 0307.JPG,tomato_healthy,tomato_healthy,0.9999878406524658
+data/multicrop-v1/splits/validation/tomato_healthy/d6587652-47aa-4518-9534-468194f22953___RS_HL 0595.JPG,tomato_healthy,tomato_healthy,0.9999911785125732
+data/multicrop-v1/splits/validation/tomato_healthy/d764f501-de57-47f4-a648-c5ece8ec59b2___RS_HL 0409.JPG,tomato_healthy,tomato_healthy,0.9999964237213135
+data/multicrop-v1/splits/validation/tomato_healthy/d7aed304-347b-4c78-ac63-b29db901e1d4___RS_HL 0061.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/d8ce2a81-c366-4a88-bde3-ee9a98e1e30c___RS_HL 0036.JPG,tomato_healthy,tomato_healthy,0.9999964237213135
+data/multicrop-v1/splits/validation/tomato_healthy/da1015eb-5c8e-436d-b367-d1f98a034e44___RS_HL 0382.JPG,tomato_healthy,tomato_healthy,0.9999992847442627
+data/multicrop-v1/splits/validation/tomato_healthy/e0b87789-7d59-4bd1-bc78-ec3a942021f4___RS_HL 9894.JPG,tomato_healthy,tomato_healthy,0.9999963045120239
+data/multicrop-v1/splits/validation/tomato_healthy/e1517f9b-6bab-415b-b8f5-1f52dd544b2d___RS_HL 0203.JPG,tomato_healthy,tomato_healthy,0.996324360370636
+data/multicrop-v1/splits/validation/tomato_healthy/e2f520b1-ac21-445b-9a3f-cb6e506e3044___RS_HL 0381.JPG,tomato_healthy,tomato_healthy,0.9999996423721313
+data/multicrop-v1/splits/validation/tomato_healthy/e53267d6-9a69-4e42-9ddc-8481a337b3e0___RS_HL 0073.JPG,tomato_healthy,tomato_healthy,0.999963641166687
+data/multicrop-v1/splits/validation/tomato_healthy/e623a5a9-edc8-4c81-ada4-68b3ebadfc7e___RS_HL 0082.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/e62a7ec8-3e5e-4a47-be14-a57db0322bb6___RS_HL 9627.JPG,tomato_healthy,tomato_healthy,0.9999836683273315
+data/multicrop-v1/splits/validation/tomato_healthy/e7a9a772-95f5-4bd4-ad34-831c3c47c024___RS_HL 9909.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/ea815fb4-7c6f-4088-94d0-59609294c65e___RS_HL 9785.JPG,tomato_healthy,tomato_healthy,0.9999868869781494
+data/multicrop-v1/splits/validation/tomato_healthy/eb31ccad-06e1-43ab-90f9-e86f4cba2fed___RS_HL 0552.JPG,tomato_healthy,tomato_healthy,0.9999854564666748
+data/multicrop-v1/splits/validation/tomato_healthy/ec768816-02c1-4726-9374-b6d0ccec49d2___RS_HL 0114.JPG,tomato_healthy,tomato_healthy,0.9999964237213135
+data/multicrop-v1/splits/validation/tomato_healthy/f4d64977-50b0-4967-87cf-95f282f287d4___RS_HL 0554.JPG,tomato_healthy,tomato_healthy,0.9999998807907104
+data/multicrop-v1/splits/validation/tomato_healthy/f4eb7211-c823-4d1c-bb69-a74a123a2d05___RS_HL 0112.JPG,tomato_healthy,tomato_healthy,0.9999994039535522
+data/multicrop-v1/splits/validation/tomato_healthy/f6a5a9a3-f9a6-4fad-83c3-2ce3e8618b52___RS_HL 0169.JPG,tomato_healthy,tomato_healthy,1.0
+data/multicrop-v1/splits/validation/tomato_healthy/fd09836b-96be-498a-a720-e17a54522de7___RS_HL 9687.JPG,tomato_healthy,tomato_healthy,0.9999582767486572
+data/multicrop-v1/splits/validation/tomato_healthy/fd31ab37-d2af-40c8-9292-e143807ec0f2___RS_HL 0507.JPG,tomato_healthy,tomato_healthy,0.9999030828475952
+data/multicrop-v1/splits/validation/tomato_healthy/fdbbea63-18e0-401f-8269-64ba005ab53f___RS_HL 0213.JPG,tomato_healthy,tomato_healthy,0.9999992847442627
+data/multicrop-v1/splits/validation/tomato_healthy/feda8fd2-1d18-443e-a7d9-15bd6bf8ce66___RS_HL 0332.JPG,tomato_healthy,tomato_healthy,0.9999997615814209
+data/multicrop-v1/splits/validation/tomato_septoria/0025c401-7785-49c5-8bef-780a8a0d3652___Matt.S_CG 2694.JPG,tomato_septoria,tomato_septoria,0.9912410378456116
+data/multicrop-v1/splits/validation/tomato_septoria/02ab6821-757a-401b-ac04-919fdceee1f0___Matt.S_CG 1653.JPG,tomato_septoria,tomato_septoria,0.8707056641578674
+data/multicrop-v1/splits/validation/tomato_septoria/062f056c-5c23-4712-bbe2-f53bae4d7ad5___Matt.S_CG 7534.JPG,tomato_septoria,tomato_septoria,0.7619109153747559
+data/multicrop-v1/splits/validation/tomato_septoria/074642ac-c747-436b-bfd8-63969f221783___Matt.S_CG 1003.JPG,tomato_septoria,tomato_septoria,0.990145206451416
+data/multicrop-v1/splits/validation/tomato_septoria/0751ddb1-c3ee-46ee-bee1-46c24c567dc2___Matt.S_CG 6116.JPG,tomato_septoria,tomato_septoria,0.8200526237487793
+data/multicrop-v1/splits/validation/tomato_septoria/0b6a9374-858d-49ce-8a94-ab57c957718c___Matt.S_CG 2488.JPG,tomato_septoria,tomato_septoria,0.9863523244857788
+data/multicrop-v1/splits/validation/tomato_septoria/0c48052c-232b-4ea7-b77d-322f5f642612___Matt.S_CG 7724.JPG,tomato_septoria,potato_early,0.9599965214729309
+data/multicrop-v1/splits/validation/tomato_septoria/0c4935b6-8f13-4148-b5e6-19404d49fc78___Matt.S_CG 2733.JPG,tomato_septoria,tomato_septoria,0.9947332143783569
+data/multicrop-v1/splits/validation/tomato_septoria/113d9910-040e-4ae9-9c7d-6eba1d1e86e1___Matt.S_CG 7710.JPG,tomato_septoria,tomato_septoria,0.9717875123023987
+data/multicrop-v1/splits/validation/tomato_septoria/11971add-1e25-4f5c-8a7e-2fa5ae46cfc6___Matt.S_CG 0740.JPG,tomato_septoria,tomato_septoria,0.5770530700683594
+data/multicrop-v1/splits/validation/tomato_septoria/11a34cf0-d80f-420e-8234-5d0e7295ca5d___Matt.S_CG 2691.JPG,tomato_septoria,tomato_septoria,0.9962506890296936
+data/multicrop-v1/splits/validation/tomato_septoria/13ae950c-d128-4ee8-9309-c9eaf611f469___Matt.S_CG 1277.JPG,tomato_septoria,tomato_septoria,0.71323162317276
+data/multicrop-v1/splits/validation/tomato_septoria/1512a5b8-2c65-4abb-8003-ee207d10ac5a___Matt.S_CG 2803.JPG,tomato_septoria,tomato_septoria,0.9923285841941833
+data/multicrop-v1/splits/validation/tomato_septoria/173f882f-3ba1-49d2-ab0d-ca8232baf2a5___Matt.S_CG 6133.JPG,tomato_septoria,tomato_septoria,0.9577677845954895
+data/multicrop-v1/splits/validation/tomato_septoria/18e46966-a79e-4f9d-a91c-b65f3f8488d2___Matt.S_CG 0872.JPG,tomato_septoria,tomato_septoria,0.9398863911628723
+data/multicrop-v1/splits/validation/tomato_septoria/18f0fcbe-a99c-4d0d-a7e7-0f3d8f9666c2___Matt.S_CG 2643.JPG,tomato_septoria,tomato_septoria,0.9765481352806091
+data/multicrop-v1/splits/validation/tomato_septoria/1bd1e4bf-3f5e-4954-a265-edb058f2db96___Matt.S_CG 1215.JPG,tomato_septoria,tomato_septoria,0.8259716033935547
+data/multicrop-v1/splits/validation/tomato_septoria/2be16c12-1422-4ef0-a070-474085e4cef8___Matt.S_CG 6622.JPG,tomato_septoria,tomato_septoria,0.9658409953117371
+data/multicrop-v1/splits/validation/tomato_septoria/2c6373dc-0616-4792-9765-7f3962406a12___Matt.S_CG 6754.JPG,tomato_septoria,tomato_septoria,0.9815492033958435
+data/multicrop-v1/splits/validation/tomato_septoria/305388b4-9b47-499c-bbd5-4bf9db035da9___Matt.S_CG 2569.JPG,tomato_septoria,tomato_septoria,0.8580211997032166
+data/multicrop-v1/splits/validation/tomato_septoria/357efcd2-3749-4a29-9822-9edaec270674___Matt.S_CG 0927.JPG,tomato_septoria,potato_late,0.6714136004447937
+data/multicrop-v1/splits/validation/tomato_septoria/388bbf02-8689-4a87-8fac-ec29b6e9268e___Matt.S_CG 6504.JPG,tomato_septoria,tomato_septoria,0.9536381959915161
+data/multicrop-v1/splits/validation/tomato_septoria/39bc5eeb-9d3c-4b0b-8602-3e6c01ae9bd4___Matt.S_CG 0741.JPG,tomato_septoria,tomato_septoria,0.8730919361114502
+data/multicrop-v1/splits/validation/tomato_septoria/3a89c017-4b4b-4f64-a018-05c98a2fa611___Matt.S_CG 1219.JPG,tomato_septoria,tomato_septoria,0.7935347557067871
+data/multicrop-v1/splits/validation/tomato_septoria/3b8e8f98-bbc7-446d-82a9-5130e10f1b4a___Matt.S_CG 6618.JPG,tomato_septoria,tomato_septoria,0.9401301145553589
+data/multicrop-v1/splits/validation/tomato_septoria/3ed40b55-9410-41c7-91cd-1e2f771d5888___Matt.S_CG 7723.JPG,tomato_septoria,tomato_septoria,0.5427413582801819
+data/multicrop-v1/splits/validation/tomato_septoria/405d4893-b38d-49d3-b0a2-a163b6af562a___Matt.S_CG 6346.JPG,tomato_septoria,tomato_septoria,0.9927963614463806
+data/multicrop-v1/splits/validation/tomato_septoria/422a0165-cc1b-4fb5-ab34-d0fe610fb0df___Matt.S_CG 0672.JPG,tomato_septoria,tomato_septoria,0.7902761101722717
+data/multicrop-v1/splits/validation/tomato_septoria/4685caac-cd9f-45ff-b1c6-58bdc706d0c7___Matt.S_CG 6762.JPG,tomato_septoria,tomato_septoria,0.9923622608184814
+data/multicrop-v1/splits/validation/tomato_septoria/47a6059f-5127-4e38-88c9-47c6c9ce35f1___Matt.S_CG 7707.JPG,tomato_septoria,tomato_septoria,0.9608858227729797
+data/multicrop-v1/splits/validation/tomato_septoria/4c245d49-912e-4521-a1ee-53df9f9a6959___Matt.S_CG 6295.JPG,tomato_septoria,tomato_septoria,0.9899055361747742
+data/multicrop-v1/splits/validation/tomato_septoria/4c764c63-9353-46cc-9afb-08de31110043___Matt.S_CG 7535.JPG,tomato_septoria,tomato_healthy,0.48756009340286255
+data/multicrop-v1/splits/validation/tomato_septoria/4dc663c9-994d-4204-ae40-30d5eab53bc9___Matt.S_CG 0678.JPG,tomato_septoria,tomato_septoria,0.7637537717819214
+data/multicrop-v1/splits/validation/tomato_septoria/503090fa-3111-4746-ad81-caa2433aaabf___Matt.S_CG 6350.JPG,tomato_septoria,tomato_septoria,0.9957655668258667
+data/multicrop-v1/splits/validation/tomato_septoria/50e33883-ec87-44a7-9c92-7a1c14e10465___Matt.S_CG 1440.JPG,tomato_septoria,potato_healthy,0.6327647566795349
+data/multicrop-v1/splits/validation/tomato_septoria/52db895b-cdf5-4f06-8da7-d24c5701be62___Matt.S_CG 2687.JPG,tomato_septoria,tomato_septoria,0.9289687275886536
+data/multicrop-v1/splits/validation/tomato_septoria/546a14dd-fe94-4651-82bb-012f6fbf53a7___Matt.S_CG 6675.JPG,tomato_septoria,tomato_septoria,0.7606801390647888
+data/multicrop-v1/splits/validation/tomato_septoria/54aacda6-8c9c-4112-891e-cc1612a7238d___Matt.S_CG 6290.JPG,tomato_septoria,tomato_septoria,0.9761379957199097
+data/multicrop-v1/splits/validation/tomato_septoria/552f6853-9c7f-49f5-9f65-6cc13d301222___Matt.S_CG 6615.JPG,tomato_septoria,tomato_septoria,0.8682631254196167
+data/multicrop-v1/splits/validation/tomato_septoria/566c23de-5035-482c-830e-50fd4acbc5cb___Matt.S_CG 0837.JPG,tomato_septoria,tomato_septoria,0.5783580541610718
+data/multicrop-v1/splits/validation/tomato_septoria/5767a675-198a-4f08-8354-91e3d6d2acef___Matt.S_CG 7819.JPG,tomato_septoria,tomato_septoria,0.9547653794288635
+data/multicrop-v1/splits/validation/tomato_septoria/5d323cba-03e6-402c-b2fd-19d00f751c31___Matt.S_CG 6742.JPG,tomato_septoria,tomato_septoria,0.9772648811340332
+data/multicrop-v1/splits/validation/tomato_septoria/62983399-98ab-4972-905b-85582d226b03___Matt.S_CG 7823.JPG,tomato_septoria,tomato_septoria,0.600309431552887
+data/multicrop-v1/splits/validation/tomato_septoria/6364e000-312d-4b62-8d7c-d5e0d33e37e3___Matt.S_CG 7382.JPG,tomato_septoria,tomato_septoria,0.9084184765815735
+data/multicrop-v1/splits/validation/tomato_septoria/63ee749d-3285-4bcd-9adc-4771fda912b0___Matt.S_CG 6751.JPG,tomato_septoria,tomato_septoria,0.9857607483863831
+data/multicrop-v1/splits/validation/tomato_septoria/63f2b877-9787-4da3-af27-350609736524___Matt.S_CG 2863.JPG,tomato_septoria,tomato_septoria,0.9373629093170166
+data/multicrop-v1/splits/validation/tomato_septoria/68cf01d5-6039-4114-a073-07437f37cbe3___Matt.S_CG 1283.JPG,tomato_septoria,tomato_septoria,0.5340710282325745
+data/multicrop-v1/splits/validation/tomato_septoria/6cd819ce-a0e5-46b4-b0ed-1991580f0fd4___Matt.S_CG 2493.JPG,tomato_septoria,tomato_septoria,0.9976714253425598
+data/multicrop-v1/splits/validation/tomato_septoria/6dd10d1f-99af-4292-be90-aa038682da34___Matt.S_CG 1006.JPG,tomato_septoria,tomato_septoria,0.9813446998596191
+data/multicrop-v1/splits/validation/tomato_septoria/6f9a003a-b2c7-4f96-9845-fc1ecacaeaa2___Matt.S_CG 0844.JPG,tomato_septoria,tomato_septoria,0.9495164752006531
+data/multicrop-v1/splits/validation/tomato_septoria/6fe85fcb-85fd-46cb-b3f3-6039dc935e79___Matt.S_CG 7532.JPG,tomato_septoria,tomato_septoria,0.7218756675720215
+data/multicrop-v1/splits/validation/tomato_septoria/708cabe9-6a4e-4151-a32e-57a4bd910fa2___Matt.S_CG 2562.JPG,tomato_septoria,tomato_septoria,0.967609703540802
+data/multicrop-v1/splits/validation/tomato_septoria/70ee4f41-ddc6-4626-9a67-44c3a072e509___Matt.S_CG 6680.JPG,tomato_septoria,tomato_septoria,0.9246033430099487
+data/multicrop-v1/splits/validation/tomato_septoria/71392ad4-37de-4edf-8ac9-a4e01f1a6eaa___Matt.S_CG 6812.JPG,tomato_septoria,tomato_septoria,0.6036830544471741
+data/multicrop-v1/splits/validation/tomato_septoria/73fea91d-3582-461b-8aec-236c78f6b1cd___Matt.S_CG 0799.JPG,tomato_septoria,tomato_septoria,0.9881261587142944
+data/multicrop-v1/splits/validation/tomato_septoria/75ad2d9f-d6d5-403d-80f4-4e276093e184___Matt.S_CG 5989.JPG,tomato_septoria,potato_late,0.7884030938148499
+data/multicrop-v1/splits/validation/tomato_septoria/76209651-9e68-4431-8ec8-b7483d548089___Matt.S_CG 6761.JPG,tomato_septoria,tomato_septoria,0.9721245765686035
+data/multicrop-v1/splits/validation/tomato_septoria/76a2eb08-494a-4132-a348-28a799ad01d1___Matt.S_CG 7533.JPG,tomato_septoria,tomato_septoria,0.47743508219718933
+data/multicrop-v1/splits/validation/tomato_septoria/7a469155-1492-4f16-b352-d4e99b3e94a2___Matt.S_CG 0838.JPG,tomato_septoria,tomato_septoria,0.8053777813911438
+data/multicrop-v1/splits/validation/tomato_septoria/7acf3e7e-f428-43c4-8b79-f8689838aebc___Matt.S_CG 2491.JPG,tomato_septoria,tomato_septoria,0.9961223006248474
+data/multicrop-v1/splits/validation/tomato_septoria/7b36c70b-3b45-4a18-b0fb-6f5da50d04f3___Matt.S_CG 1408.JPG,tomato_septoria,tomato_septoria,0.9448919296264648
+data/multicrop-v1/splits/validation/tomato_septoria/7c00659c-19a4-404b-a244-b4798daa6c76___Matt.S_CG 0795.JPG,tomato_septoria,tomato_septoria,0.9843778014183044
+data/multicrop-v1/splits/validation/tomato_septoria/7d3e0bf0-b53a-46ec-b7e8-7429215079fb___Matt.S_CG 2685.JPG,tomato_septoria,tomato_septoria,0.9796399474143982
+data/multicrop-v1/splits/validation/tomato_septoria/7e80e827-c4ad-422d-8387-5679797db4ab___Matt.S_CG 1213.JPG,tomato_septoria,tomato_septoria,0.9640330672264099
+data/multicrop-v1/splits/validation/tomato_septoria/7f9588b9-0bdc-4c29-9d84-bddf86c9c453___Matt.S_CG 7383.JPG,tomato_septoria,tomato_septoria,0.9040615558624268
+data/multicrop-v1/splits/validation/tomato_septoria/82d5214a-d849-426c-b718-f3d9ab2f777d___Matt.S_CG 6287.JPG,tomato_septoria,tomato_septoria,0.9780779480934143
+data/multicrop-v1/splits/validation/tomato_septoria/833718f3-b599-4fc3-b7da-fb60c9a0d190___Matt.S_CG 0934.JPG,tomato_septoria,tomato_septoria,0.8957626819610596
+data/multicrop-v1/splits/validation/tomato_septoria/83e998a6-37f5-47f1-9da5-165c3a4c19fd___Matt.S_CG 6137.JPG,tomato_septoria,tomato_septoria,0.9235926866531372
+data/multicrop-v1/splits/validation/tomato_septoria/85078c60-8c80-4e59-844c-351693a46cbe___Matt.S_CG 2736.JPG,tomato_septoria,tomato_septoria,0.9960957169532776
+data/multicrop-v1/splits/validation/tomato_septoria/85bec8de-5658-4162-8755-6ff26766a07d___Matt.S_CG 2724.JPG,tomato_septoria,tomato_septoria,0.9961274266242981
+data/multicrop-v1/splits/validation/tomato_septoria/8a7b0bc4-2641-4674-9ce7-6b69ab55f388___Matt.S_CG 6816.JPG,tomato_septoria,tomato_early,0.42783430218696594
+data/multicrop-v1/splits/validation/tomato_septoria/8aa69183-3423-4d4e-88a2-640508f2ed4b___Matt.S_CG 6613.JPG,tomato_septoria,tomato_septoria,0.9759531021118164
+data/multicrop-v1/splits/validation/tomato_septoria/8b94c375-1eaf-4e17-b7ae-7718ab4c0b29___Matt.S_CG 5984.JPG,tomato_septoria,tomato_septoria,0.9940475225448608
+data/multicrop-v1/splits/validation/tomato_septoria/8c4da308-2be0-4f8b-8899-dac9eb728ad5___Matt.S_CG 1438.JPG,tomato_septoria,tomato_septoria,0.7138530015945435
+data/multicrop-v1/splits/validation/tomato_septoria/8d8730db-4a12-4324-8218-47a86ea6b44e___Matt.S_CG 7708.JPG,tomato_septoria,tomato_septoria,0.9834737181663513
+data/multicrop-v1/splits/validation/tomato_septoria/8e20ced5-3f32-475d-abd9-6db81cab76c1___Matt.S_CG 6743.JPG,tomato_septoria,tomato_septoria,0.9876176714897156
+data/multicrop-v1/splits/validation/tomato_septoria/8eeef084-da1d-4b7d-af5e-ded3d7061b1d___Matt.S_CG 0797.JPG,tomato_septoria,tomato_septoria,0.9788185358047485
+data/multicrop-v1/splits/validation/tomato_septoria/90121b1e-8f2e-400b-85c0-940ca59ad873___Matt.S_CG 0673.JPG,tomato_septoria,tomato_septoria,0.8458998799324036
+data/multicrop-v1/splits/validation/tomato_septoria/9143d8ef-3d8a-48e8-9345-a5eb988091ef___Matt.S_CG 6821.JPG,tomato_septoria,tomato_septoria,0.8205928206443787
+data/multicrop-v1/splits/validation/tomato_septoria/939b8ab2-3d4d-4ee3-8677-18e29f2f8bc3___Matt.S_CG 1651.JPG,tomato_septoria,tomato_septoria,0.8932717442512512
+data/multicrop-v1/splits/validation/tomato_septoria/980d0ee6-693a-44ae-b38d-eef2cc4aa9da___Matt.S_CG 7385.JPG,tomato_septoria,tomato_septoria,0.5714303255081177
+data/multicrop-v1/splits/validation/tomato_septoria/9e2cb710-5520-47b7-a32f-e50d566c8637___Matt.S_CG 2860.JPG,tomato_septoria,tomato_septoria,0.996235191822052
+data/multicrop-v1/splits/validation/tomato_septoria/9fdb4f0f-cb19-4d44-869f-ba67dc1f3c2d___Matt.S_CG 1372.JPG,tomato_septoria,potato_healthy,0.346873939037323
+data/multicrop-v1/splits/validation/tomato_septoria/a06020fc-7c74-4cc8-bd8f-9a18d7731857___Matt.S_CG 6750.JPG,tomato_septoria,tomato_septoria,0.9710482358932495
+data/multicrop-v1/splits/validation/tomato_septoria/a11dad0c-2ed0-4d57-bd0b-0b19a0d7f17c___Matt.S_CG 2622.JPG,tomato_septoria,tomato_septoria,0.9951393604278564
+data/multicrop-v1/splits/validation/tomato_septoria/a1b6deb1-e0f7-4eb4-a2ca-77d1f1e45aaa___Matt.S_CG 7818.JPG,tomato_septoria,tomato_septoria,0.9692639112472534
+data/multicrop-v1/splits/validation/tomato_septoria/a255b44d-6028-4b03-9cf3-5b3ae4fe9c5e___Matt.S_CG 0736.JPG,tomato_septoria,tomato_septoria,0.5851673483848572
+data/multicrop-v1/splits/validation/tomato_septoria/a5e35b30-5401-4df1-a489-5d8a530cd37d___Matt.S_CG 0860.JPG,tomato_septoria,tomato_septoria,0.6846613883972168
+data/multicrop-v1/splits/validation/tomato_septoria/a654c03b-c0d9-4605-9e21-a91a19ce0466___Matt.S_CG 6135.JPG,tomato_septoria,tomato_septoria,0.949383556842804
+data/multicrop-v1/splits/validation/tomato_septoria/a74f9277-a6c1-49da-81a6-bfd49db22df2___Matt.S_CG 6494.JPG,tomato_septoria,tomato_septoria,0.9383187294006348
+data/multicrop-v1/splits/validation/tomato_septoria/a8757243-07bd-490a-b1fc-f6a766e88edd___Matt.S_CG 6766.JPG,tomato_septoria,tomato_septoria,0.9828594326972961
+data/multicrop-v1/splits/validation/tomato_septoria/a885be53-67e7-4897-b0ee-179971cd7976___Matt.S_CG 1642.JPG,tomato_septoria,tomato_early,0.45249590277671814
+data/multicrop-v1/splits/validation/tomato_septoria/a90aa234-3af2-4fe7-b8eb-415427e16700___Matt.S_CG 2484.JPG,tomato_septoria,tomato_septoria,0.9830260872840881
+data/multicrop-v1/splits/validation/tomato_septoria/abdebe47-6f94-4284-a9c9-4bbf78eeb7c7___Matt.S_CG 1274.JPG,tomato_septoria,tomato_septoria,0.536284327507019
+data/multicrop-v1/splits/validation/tomato_septoria/af0f0510-1054-413d-b539-11e1bcf48339___Matt.S_CG 1437.JPG,tomato_septoria,tomato_septoria,0.5119649767875671
+data/multicrop-v1/splits/validation/tomato_septoria/af153da7-b5bb-48a2-a606-2788b2fca28a___Matt.S_CG 2558.JPG,tomato_septoria,tomato_septoria,0.9744430780410767
+data/multicrop-v1/splits/validation/tomato_septoria/af99c5cd-5368-4d0e-9a34-daa6ec616d80___Matt.S_CG 6120.JPG,tomato_septoria,tomato_septoria,0.6678975224494934
+data/multicrop-v1/splits/validation/tomato_septoria/b0322c6b-7ce4-4ec5-b10c-d92bc4f8133e___Matt.S_CG 0868.JPG,tomato_septoria,tomato_septoria,0.9735514521598816
+data/multicrop-v1/splits/validation/tomato_septoria/b2a295e0-c517-4602-a97f-1251f008495f___Matt.S_CG 6352.JPG,tomato_septoria,tomato_septoria,0.9954040050506592
+data/multicrop-v1/splits/validation/tomato_septoria/b36baca9-7ebc-4abc-b0fd-a05871925c6e___Matt.S_CG 7725.JPG,tomato_septoria,potato_early,0.8781337738037109
+data/multicrop-v1/splits/validation/tomato_septoria/b37047b7-2e50-4b67-8a37-bf9aa243b53e___Matt.S_CG 2632.JPG,tomato_septoria,tomato_septoria,0.9932425618171692
+data/multicrop-v1/splits/validation/tomato_septoria/b796dc4b-a648-4acf-8965-ad3018fd47b0___Matt.S_CG 1432.JPG,tomato_septoria,tomato_septoria,0.850358784198761
+data/multicrop-v1/splits/validation/tomato_septoria/badbd0d4-8e02-49bf-a042-87ae373ca66f___Matt.S_CG 6741.JPG,tomato_septoria,tomato_septoria,0.9410144090652466
+data/multicrop-v1/splits/validation/tomato_septoria/bae6002f-a8f1-4229-aaf3-024feb50c7d8___Matt.S_CG 6674.JPG,tomato_septoria,tomato_septoria,0.47575643658638
+data/multicrop-v1/splits/validation/tomato_septoria/bcfc0867-45d3-44f9-9026-e3e8eec25807___Matt.S_CG 2635.JPG,tomato_septoria,tomato_septoria,0.9791784286499023
+data/multicrop-v1/splits/validation/tomato_septoria/bd0d0b69-ef6e-43d9-b65c-b01e3b1f8e39___Matt.S_CG 1012.JPG,tomato_septoria,tomato_septoria,0.9917826652526855
+data/multicrop-v1/splits/validation/tomato_septoria/beb68b2e-8410-4421-ac36-2ee33bf6e69a___Matt.S_CG 0871.JPG,tomato_septoria,tomato_septoria,0.9537106156349182
+data/multicrop-v1/splits/validation/tomato_septoria/bf4d8522-a43c-40ee-afd2-d5fb78ac3630___Matt.S_CG 6354.JPG,tomato_septoria,tomato_septoria,0.9939931035041809
+data/multicrop-v1/splits/validation/tomato_septoria/c0d0864c-19ee-41ca-87a4-3b0d68bff440___Matt.S_CG 2808.JPG,tomato_septoria,tomato_septoria,0.9831399321556091
+data/multicrop-v1/splits/validation/tomato_septoria/c35001a9-bfcc-4233-95e5-b83d086e0435___Matt.S_CG 6740.JPG,tomato_septoria,tomato_septoria,0.9880760908126831
+data/multicrop-v1/splits/validation/tomato_septoria/c60ad129-c83a-4466-94c1-240b78bd5d12___Matt.S_CG 6500.JPG,tomato_septoria,tomato_septoria,0.9743573665618896
+data/multicrop-v1/splits/validation/tomato_septoria/c66d82d9-a895-42ae-a7fb-a93917e3f10d___Matt.S_CG 6813.JPG,tomato_septoria,tomato_early,0.37429121136665344
+data/multicrop-v1/splits/validation/tomato_septoria/c9ae9fb3-4504-4a1c-8abd-e4e3ca22f707___Matt.S_CG 2720.JPG,tomato_septoria,tomato_septoria,0.9932337403297424
+data/multicrop-v1/splits/validation/tomato_septoria/ca93b31d-6ade-47db-a05a-312fc23b5e5e___Matt.S_CG 5988.JPG,tomato_septoria,tomato_septoria,0.9955256581306458
+data/multicrop-v1/splits/validation/tomato_septoria/cc2c7bfd-1c41-470d-91e6-e899126483e7___Matt.S_CG 7387.JPG,tomato_septoria,tomato_septoria,0.7597638964653015
+data/multicrop-v1/splits/validation/tomato_septoria/ccfd6b0f-5f54-45ea-8567-cf0cc63403bf___Matt.S_CG 2568.JPG,tomato_septoria,tomato_septoria,0.9664539694786072
+data/multicrop-v1/splits/validation/tomato_septoria/cd83759b-c7da-4406-8794-9b311ab05871___Matt.S_CG 6684.JPG,tomato_septoria,tomato_septoria,0.6520224809646606
+data/multicrop-v1/splits/validation/tomato_septoria/cfc1a407-d586-4756-8c06-a03e354f99c4___Matt.S_CG 0804.JPG,tomato_septoria,tomato_septoria,0.9921252131462097
+data/multicrop-v1/splits/validation/tomato_septoria/d47bf62b-98b7-434a-881f-0ad1db20315c___Matt.S_CG 6753.JPG,tomato_septoria,tomato_septoria,0.9934547543525696
+data/multicrop-v1/splits/validation/tomato_septoria/d645a5d8-a404-4825-8be7-a15725ee26d8___Matt.S_CG 2629.JPG,tomato_septoria,tomato_septoria,0.9856820702552795
+data/multicrop-v1/splits/validation/tomato_septoria/d7d247bb-ea19-452f-952a-5919d167e33c___Matt.S_CG 0932.JPG,tomato_septoria,potato_late,0.5074294209480286
+data/multicrop-v1/splits/validation/tomato_septoria/da4d940c-2a77-481b-8693-167632534fc8___Matt.S_CG 0858.JPG,tomato_septoria,tomato_septoria,0.7126128673553467
+data/multicrop-v1/splits/validation/tomato_septoria/dbc37452-1ff6-4ea9-a6ff-3c2d1f621bde___Matt.S_CG 7822.JPG,tomato_septoria,tomato_septoria,0.9407727122306824
+data/multicrop-v1/splits/validation/tomato_septoria/dc09c4e1-8b58-40e4-a2f2-61b3f19eff94___Matt.S_CG 1010.JPG,tomato_septoria,tomato_septoria,0.9874633550643921
+data/multicrop-v1/splits/validation/tomato_septoria/e0bd1520-369e-4884-85a5-46dac6268e7a___Matt.S_CG 7709.JPG,tomato_septoria,tomato_septoria,0.9790403842926025
+data/multicrop-v1/splits/validation/tomato_septoria/e301a5e1-ab4c-4a82-b79f-074a8147827f___Matt.S_CG 0839.JPG,tomato_septoria,tomato_septoria,0.9196130037307739
+data/multicrop-v1/splits/validation/tomato_septoria/e32420bf-2fb6-43ae-8b09-eb7aa6862a23___Matt.S_CG 6139.JPG,tomato_septoria,tomato_septoria,0.9371883273124695
+data/multicrop-v1/splits/validation/tomato_septoria/e38e01c9-c22c-41d9-9391-7f0227cfc666___Matt.S_CG 1373.JPG,tomato_septoria,tomato_early,0.43126732110977173
+data/multicrop-v1/splits/validation/tomato_septoria/e3c99f3d-4947-41c6-99b1-137fb60195d2___Matt.S_CG 1374.JPG,tomato_septoria,tomato_septoria,0.646691083908081
+data/multicrop-v1/splits/validation/tomato_septoria/e4ceb8ee-4b09-4013-b423-84e27744b7a0___Matt.S_CG 0863.JPG,tomato_septoria,tomato_septoria,0.7105574011802673
+data/multicrop-v1/splits/validation/tomato_septoria/e6503dc4-5ab3-427b-9bd7-08c67776352a___Matt.S_CG 6113.JPG,tomato_septoria,tomato_septoria,0.9132924675941467
+data/multicrop-v1/splits/validation/tomato_septoria/e72c5427-8973-4ba3-9654-ac7197296aa4___Matt.S_CG 0854.JPG,tomato_septoria,tomato_septoria,0.8196902275085449
+data/multicrop-v1/splits/validation/tomato_septoria/e7b22345-5249-429d-af6a-459d4c9a91b1___Matt.S_CG 1655.JPG,tomato_septoria,tomato_septoria,0.8267037868499756
+data/multicrop-v1/splits/validation/tomato_septoria/e8aed11f-46ec-4c63-954d-c1320d99040d___Matt.S_CG 6760.JPG,tomato_septoria,tomato_septoria,0.9855285286903381
+data/multicrop-v1/splits/validation/tomato_septoria/eb198452-aee4-4d4f-a460-2a41a914ba1d___Matt.S_CG 0929.JPG,tomato_septoria,potato_late,0.7295451164245605
+data/multicrop-v1/splits/validation/tomato_septoria/ee30b8ea-8962-4f95-9ad6-9f0c11d31fd3___Matt.S_CG 2620.JPG,tomato_septoria,tomato_septoria,0.9891616106033325
+data/multicrop-v1/splits/validation/tomato_septoria/ee439a9d-fcc3-4ad0-bc49-760206344b19___Matt.S_CG 1415.JPG,tomato_septoria,tomato_septoria,0.8067094683647156
+data/multicrop-v1/splits/validation/tomato_septoria/ef2589f7-5993-4457-a981-9bd6fc0d8499___Matt.S_CG 2638.JPG,tomato_septoria,tomato_septoria,0.982995331287384
+data/multicrop-v1/splits/validation/tomato_septoria/f097ffb6-610d-4801-a303-5d60ff24fafa___Matt.S_CG 6294.JPG,tomato_septoria,tomato_septoria,0.9806129336357117
+data/multicrop-v1/splits/validation/tomato_septoria/f13ab290-0715-4c2c-bd6a-f72a044e2096___Matt.S_CG 0676.JPG,tomato_septoria,tomato_septoria,0.6346185803413391
+data/multicrop-v1/splits/validation/tomato_septoria/f15d2ee7-3710-4f31-bdc7-3215a27a7ae9___Matt.S_CG 1282.JPG,tomato_septoria,tomato_septoria,0.8602772355079651
+data/multicrop-v1/splits/validation/tomato_septoria/f1fa6e84-2002-4bfa-bd4b-fae24c0bd492___Matt.S_CG 1370.JPG,tomato_septoria,tomato_septoria,0.4853716194629669
+data/multicrop-v1/splits/validation/tomato_septoria/f2da8749-74f6-4b2f-9363-7ccf73e0fa1f___Matt.S_CG 5991.JPG,tomato_septoria,potato_late,0.5868483781814575
+data/multicrop-v1/splits/validation/tomato_septoria/f435fe48-700f-4595-940c-827f9fff5e92___Matt.S_CG 1409.JPG,tomato_septoria,tomato_septoria,0.8989062905311584
+data/multicrop-v1/splits/validation/tomato_septoria/f4640d91-2fa7-4eb1-9d0c-45b8bc42eda2___Matt.S_CG 6117.JPG,tomato_septoria,tomato_septoria,0.47343823313713074
+data/multicrop-v1/splits/validation/tomato_septoria/f5914b3e-63c9-45bb-8c7c-e9919ee09018___Matt.S_CG 0738.JPG,tomato_septoria,tomato_septoria,0.8838353157043457
+data/multicrop-v1/splits/validation/tomato_septoria/f67c02ff-c04b-4991-9fdb-b508629f0fea___Matt.S_CG 0862.JPG,tomato_septoria,potato_late,0.477308452129364
+data/multicrop-v1/splits/validation/tomato_septoria/f89c35d4-54aa-465a-8bf5-136d83978120___Matt.S_CG 2644.JPG,tomato_septoria,tomato_septoria,0.9242154359817505
+data/multicrop-v1/splits/validation/tomato_septoria/fbae6253-c516-4e47-bb84-9ab675ed5d0e___Matt.S_CG 1419.JPG,tomato_septoria,tomato_septoria,0.3505972921848297
+data/multicrop-v1/splits/validation/tomato_septoria/fbbb8eca-408d-476e-b9a0-b0162f66506c___Matt.S_CG 7728.JPG,tomato_septoria,potato_early,0.5128948092460632
+data/multicrop-v1/splits/validation/tomato_septoria/fe9173ee-42d5-4192-a664-d0532f0bdbf5___Matt.S_CG 1217.JPG,tomato_septoria,tomato_septoria,0.8901295065879822
+data/multicrop-v1/splits/validation/tomato_septoria/ffd3c6f3-17d3-45f1-a599-2623e111ec71___Matt.S_CG 6493.JPG,tomato_septoria,tomato_septoria,0.9541062712669373

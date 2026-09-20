@@ -1,0 +1,11 @@
+[
+  "tomato_healthy",
+  "tomato_early",
+  "tomato_septoria",
+  "potato_healthy",
+  "potato_early",
+  "potato_late",
+  "maize_healthy",
+  "maize_rust",
+  "maize_northern_blight"
+]

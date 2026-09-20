@@ -1,0 +1,6 @@
+{
+  "package": "onnxruntime-web",
+  "version": "1.23.2",
+  "source": "https://registry.npmjs.org/onnxruntime-web/-/onnxruntime-web-1.23.2.tgz",
+  "integrity": "sha512-T09JUtMn+CZLk3mFwqiH0lgQf+4S7+oYHHtk6uhaYAAJI95bTcKi5bOOZYwORXfS/RLZCjDDEXGWIuOCAFlEjg=="
+}

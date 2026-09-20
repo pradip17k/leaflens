@@ -1,0 +1,59 @@
+{
+  "model": "LeafCNN",
+  "initialized": "random; no pretrained weights",
+  "image_size": 128,
+  "resize": "RGB, EXIF transpose, bilinear square resize",
+  "normalization": "pixel / 127.5 - 1",
+  "class_names": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight"
+  ],
+  "manifest_sha256": "6cbbede119dfd2a232d4a2fb9de8f32c3e61f7e7edb367d6b04c762d3e623523",
+  "seed": 26131,
+  "epochs_max": 20,
+  "patience": 5,
+  "batch_size": 64,
+  "threads": 4,
+  "device": "cpu",
+  "torch_version": "2.14.0+cpu",
+  "numpy_version": "2.3.5",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0001,
+  "selection": "validation macro-F1",
+  "training_augmentation": "90-degree rotations, horizontal/vertical flips, brightness 0.85-1.15",
+  "test_evaluated": false,
+  "limitations": [
+    "Maize split is image-level; unrecorded same-leaf leakage remains possible.",
+    "Backgrounds differ across maize classes; field generalization is untested.",
+    "Only 104 healthy potato training images; class-weighted training is used."
+  ],
+  "training_counts": [
+    695,
+    696,
+    696,
+    104,
+    696,
+    696,
+    813,
+    834,
+    689
+  ],
+  "class_weights": [
+    0.9462829828262329,
+    0.9449233412742615,
+    0.9449233412742615,
+    6.323718070983887,
+    0.9449233412742615,
+    0.9449233412742615,
+    0.8089380860328674,
+    0.7885691523551941,
+    0.9545234441757202
+  ]
+}

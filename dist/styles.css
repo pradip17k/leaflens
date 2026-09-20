@@ -16,3 +16,10 @@
 #result{scroll-margin-top:135px}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 @media(max-width:820px){nav{scrollbar-width:none}nav::-webkit-scrollbar{display:none}}
+/* Crop choice and dataset scope */
+#crop-select{display:block;max-width:100%;padding:8px 12px;margin:5px 0;border:1px solid #cad7ce;border-radius:8px;background:white;color:#173d2c;font:inherit}
+.crop-scope{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px;margin:0 0 24px}
+.crop-scope small{overflow-wrap:anywhere;color:#59695f}
+@media(max-width:800px){.crop-scope{grid-template-columns:1fr}}
+.matrix-wrap{overflow-x:auto}
+.matrix{min-width:860px}
