@@ -1,0 +1,541 @@
+[
+  {
+    "path": "data/plantdoc-external/8fb58ecbbd5a6ea3fc2a1ef5580b95a46b65fc73.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "potato_late",
+    "confidence": 0.4135498106479645,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/c2f8226d59d42f4cfa9e550d4b3338121a52c1b6.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "potato_late",
+    "confidence": 0.7765967845916748,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/543deb73b05c0df7e03ea1777cf507a02cd21701.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "potato_early",
+    "confidence": 0.718686580657959,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/fb4b3f6fd1c3a5fe159897590f9021b679378992.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.4150499999523163,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/3c4132ba5757e1b7bb04be090217c79ba9d9d2cc.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "potato_late",
+    "confidence": 0.48543503880500793,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f6b938831e52e6f7f0ad838db8b097f4bee2b644.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "unsupported",
+    "confidence": 0.9229039549827576,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/736094e82dd0c756662f90dc7b30d56c3fc3fbd1.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "potato_early",
+    "confidence": 0.5523483753204346,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/227c4fc50fdcb087bbac1c444041922d6c1ae050.jpg",
+    "true_label": "potato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.46324703097343445,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/b4b700e15327c1669a7c8f99cce90b0c92db2752.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "potato_early",
+    "confidence": 0.7933932542800903,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/013436d15577d072ca9c943b03e56b9344fc5f52.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "potato_late",
+    "confidence": 0.41379281878471375,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/8389c30f3b297f5a6b9fa6799f0cecda004e44a5.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "potato_late",
+    "confidence": 0.6652669906616211,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/b8bac1fffec44342e936c2255370e959f0ace5d9.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "potato_late",
+    "confidence": 0.4492092430591583,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/7c487ba54988921b6996268845969b508546d793.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "unsupported",
+    "confidence": 0.5476199388504028,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/0b04b15c388f52a1d7bcb6e70ea9359b72d56bf6.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "potato_late",
+    "confidence": 0.41133201122283936,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/4a784daa443150b7ec34ca6ea2d22ed1e82279a7.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "unsupported",
+    "confidence": 0.4902254343032837,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/e8674b0ad103f48a956b3076af99a7b21f083d51.jpg",
+    "true_label": "potato_late",
+    "predicted_label": "unsupported",
+    "confidence": 0.3681143820285797,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/36e06bf32954affb3a63b6329b33ea6d9e85467e.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "unsupported",
+    "confidence": 0.9537825584411621,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9fad53252faf5a34a721f95bda9fb55b553d2883.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.6603179574012756,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/bb05e5238a47c9a09ee171fd16ef17b862f079ee.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.2877345681190491,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/a9f42c425793526f690b60cfc0af58c0330090e0.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "unsupported",
+    "confidence": 0.34032586216926575,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/6e40776e2e474e22ef6b86a3c6afee6b5ed38711.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.27469542622566223,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/a1014b817b176fcc7ae90cf5981ca3f65da76659.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.5379882454872131,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/002549d1bcf81f34d9c28617ac4968d7c25d23ad.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.8011389374732971,
+    "accepted": true
+  },
+  {
+    "path": "data/plantdoc-external/67bdf47c405d8f02e47a2de1216b845cee4110d7.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "potato_early",
+    "confidence": 0.2998749315738678,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/cd683f6ade6e2e39562c6e569c3c94dafc7be20e.jpg",
+    "true_label": "tomato_early",
+    "predicted_label": "tomato_early",
+    "confidence": 0.46928292512893677,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/c0162f3af8fe649e03de33aadf5e51ad9cf4c3c0.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "unsupported",
+    "confidence": 0.7654943466186523,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9b2e897c15edd6b46e771cb5ce36f8aa1f275f12.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.3300282657146454,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f895ada2103d7c46d1bd71ebe81c1a7b41759d9f.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.4943784773349762,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/ce31e14fd5d5ec4b15803c5b39789e67d5ca252a.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.7831819653511047,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/e98245bbb0becbb6a0ac34dc58478a1acccf985b.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.6737489700317383,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9d6ed52067cad095092d08d28d380c047583a524.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.5060761570930481,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/5b3246319b4b4728649d2445f202b9da52e3fd41.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "unsupported",
+    "confidence": 0.3741644322872162,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/64f8069093f27b79cdc738a12d5529709b9c9b4a.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "potato_early",
+    "confidence": 0.314101904630661,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/ea977e064ffbe82fa9cfb013d5f78a1ce173bacd.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "unsupported",
+    "confidence": 0.46997302770614624,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/c7a35ed2180c3caa49af1bc00f9a3a773bc82201.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.49750152230262756,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/43c578d73fad73a8e460fc2b856a7e89438e8914.jpg",
+    "true_label": "tomato_septoria",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.39898452162742615,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/bc55e52987a8a3a5f24af02f28329b7cd0f6e903.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.7330715656280518,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f187684fdc475f293792899a4839d9a3aa81d682.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.32248711585998535,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/0983eb9a56ec57960cf8c60d09b579af17cb53e4.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.2977246940135956,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/be31bf3ebc4e4d9228933eec3f3bb0b19d166b73.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.27390071749687195,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/6aabb229b091eef06114f9adb902bcecb7573f78.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.32767343521118164,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9cec18c0d0d0062bf8ad27f73f00b2aac8333d10.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.5359588265419006,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/7cc7290404054b1aa0ac500c3140363e0d5e37d7.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.4412713944911957,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/5c33c893f4900ef20ea0cca97c5355f0eb2c997d.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.39985597133636475,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f118e10d8736c00bc04ac689e41e1b6722ae7af6.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.31443819403648376,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/cddbd47c18af0b4671578f4b4972e3a56c60d717.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.8413457274436951,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f0594915b9a7dbca41c8603a6f41f0ce673a1f8c.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.4581526815891266,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/8096cd5990b9df32c3f067d35e825ed435acd50a.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.7047909498214722,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/bc05bf895bf7b74270004f8e095fdde22b38434c.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.34716448187828064,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/ed49ac6301d69db27f6a7f0e300e54b997071fcd.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.48187005519866943,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/2e3626afbdc9dc6702908a26ed9d9ffa0518e4fb.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.3807376027107239,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/5f6e6cab954b139153489dc7844ce4cd0e717455.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.527070164680481,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f7accdfc7eb594fc9ecee77e4383e1b0a50d90f6.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.38834476470947266,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/7777c066549b895376f45f9ba14e4aa1bf8ba49e.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.3552812933921814,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/d3a60e43f76817969bf51a80723155584a86f98b.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.49636879563331604,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/c4df309d6268cca63761adb68833f2ac7950c3d8.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.667228639125824,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/23dd406b6cbbac84355b50f959bcb33d7005f1f7.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.22708724439144135,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/ad03405815ede37733665edaa60e6c50c3ca2709.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.46877264976501465,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9fe49e71c75c424721e478487758cdc150f2dc4a.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_septoria",
+    "confidence": 0.39084917306900024,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/4372785e0322ceaf26376840e65bdfdd7c26ec95.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.4909648001194,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/e5c347d0a48f74e322fc6962ebc9607a7ee9a63f.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.9075340628623962,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f2cf4c4a3cdab885b207423917cc8c164097015a.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.32873982191085815,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/5d71326dac02834ea139ce17d1762d8f51dce309.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.48919373750686646,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/b9f02b108b566ccde565d7dd484a7113b8fb172c.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.44229599833488464,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/9f62b551d3a5470ea8f6a8a4761d04874ec53651.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_late",
+    "confidence": 0.38899198174476624,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/3af4280ab0bdb57f43b5b2df7d01eb80b77594f8.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.3703068196773529,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/fac10a3510ed013c308b31ce27a388f62a7dce87.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.8451218008995056,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/bcccfa5bab1bd1f526be2b7bb8c201d7ce8ecd7c.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.5107548832893372,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f969eb7a904e7257d78f2b35caf251dae55145cc.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.3775332570075989,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/02a79106182b4763c4250f57cf2fb96e9d396035.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.5586377382278442,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/6366c3065968ad3077f39cac3a3f16a7975ffc22.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.42271479964256287,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/7ee5302c832f2ac1a0559a05d6c883d37e7bdca6.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.3292044699192047,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/8cee45453407abae2ffb2b155bf32224c5d86d63.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "tomato_early",
+    "confidence": 0.5096938014030457,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/91dbe5437e0ce86c7425ab947e3d83fcb8ab26f0.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.949702262878418,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/620259d348fd86b1746c3783088090a87ae99d30.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.6358769536018372,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/de202707723109f997c277ceec243a2eb7f6cf8a.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "unsupported",
+    "confidence": 0.4043406546115875,
+    "accepted": false
+  },
+  {
+    "path": "data/plantdoc-external/f1bf41915559f88cf0ef7d574b540d20a3fa2b2c.jpg",
+    "true_label": "unsupported",
+    "predicted_label": "potato_early",
+    "confidence": 0.3467249870300293,
+    "accepted": false
+  }
+]

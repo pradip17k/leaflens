@@ -1,0 +1,27 @@
+{
+  "policy": {
+    "threshold": 0.8,
+    "min_field_accuracy": 0.5,
+    "min_field_accepted_accuracy": 0.8,
+    "min_field_accepted_count": 20,
+    "max_unsupported_accepted": 6,
+    "min_pv_macro_f1": 0.85
+  },
+  "checks": {
+    "field_accuracy": true,
+    "accepted_accuracy": true,
+    "coverage": true,
+    "unsupported_errors": true,
+    "plantvillage_regression": true
+  },
+  "passes_development_gate": true,
+  "metrics": {
+    "supported_count": 89,
+    "supported_accuracy": 0.6404494382022472,
+    "supported_accepted": 24,
+    "supported_accepted_accuracy": 1.0,
+    "unsupported_count": 324,
+    "unsupported_incorrectly_accepted": 3
+  },
+  "interpretation": "Development criteria only; this does not establish reliable farm performance or independent test accuracy."
+}

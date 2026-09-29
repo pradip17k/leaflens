@@ -1,0 +1,34 @@
+{
+  "classes": [
+    "tomato_healthy",
+    "tomato_early",
+    "tomato_septoria",
+    "potato_healthy",
+    "potato_early",
+    "potato_late",
+    "maize_healthy",
+    "maize_rust",
+    "maize_northern_blight",
+    "tomato_mite_damage",
+    "unsupported"
+  ],
+  "image_size": 224,
+  "seed": 26133,
+  "architecture": "MobileNetV2",
+  "normalization": "ImageNet mean/std; EXIF-correct RGB, Pillow bilinear square resize",
+  "sampling": "Each source/class group contributes equal total loss; supported PlantDoc groups have 2x group weight; unsupported PlantDoc weight is 4x. Loss weights are set before training.",
+  "selection": "0.6 * supported PlantDoc represented-class macro F1 + 0.2 * unsupported PlantDoc top-1 rejection + 0.2 * PlantVillage represented-class macro F1",
+  "epochs_max": 60,
+  "patience": 12,
+  "learning_rate": 0.001,
+  "weight_decay": 0.001,
+  "trainable": "Linear classifier only; pretrained ImageNet features frozen",
+  "field_manifest_sha256": "326632904ea3eb9085014c6733f194a25e52a4aa4fc66b672ba7e2bfee2dba72",
+  "baseline_manifest_sha256": "6cbbede119dfd2a232d4a2fb9de8f32c3e61f7e7edb367d6b04c762d3e623523",
+  "test_evaluated": false,
+  "limitations": [
+    "Development validation reused after V2; no independent generalization claim.",
+    "No validated non-leaf detector; image-level spider-mite/field splits may contain related leaves.",
+    "Public dataset labels are not expert-confirmed for this project."
+  ]
+}

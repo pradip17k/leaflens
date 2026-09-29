@@ -1,7 +1,17 @@
 import {test} from 'node:test';
 import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
 import {interpret,calibratedProbabilities,resizeRGB} from '../dist/inference.mjs';
 import {MODEL_LABELS,parsePredictions,evaluatePredictions} from '../dist/core.mjs';
+
+test('224px rectangular upsampling matches Pillow exactly',()=>{
+  const rgba=new Uint8Array(19*13*4);
+  for(let y=0;y<13;y++)for(let x=0;x<19;x++){
+    for(let c=0;c<3;c++)rgba[(y*19+x)*4+c]=(x*17+y*29+c*51)%256;
+    rgba[(y*19+x)*4+3]=255;
+  }
+  assert.equal(createHash('sha256').update(resizeRGB(rgba,19,13,224)).digest('hex'),'07a8295cfdbb4375550b9f20e64c46c43aecf02b40c7a59ba4301c49fd52ac67');
+});
 
 test('experimental unsupported output is rejected and mite damage respects crop selection',()=>{
   const classes=[...MODEL_LABELS,'tomato_mite_damage','unsupported'];

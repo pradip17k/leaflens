@@ -37,9 +37,9 @@ export function interpret(logits,metadata,crop){
     reason:unsupported?'This image resembles conditions outside this model’s supported classes. No disease result is accepted.':mismatch?'The predicted crop differs from your selection. Confirm the crop and retake the photo.':probabilities[index]<metadata.threshold?'The model is uncertain. Retake the photo or ask an agricultural specialist.':'This is a model prediction, not a confirmed diagnosis.',
     model:metadata.architecture,version:metadata.version,threshold:metadata.threshold};
 }
-async function load(version='v1'){
-  if(!['v1','v2'].includes(version))throw Error('Unknown model version.');
-  const directory=version==='v2'?'model-v2':'model';
+async function load(version='v3'){
+  if(!['v1','v2','v3'].includes(version))throw Error('Unknown model version.');
+  const directory=version==='v1'?'model':`model-${version}`;
   if(!pending.has(version))pending.set(version,(async()=>{
     const ort=await import('./vendor/ort.wasm.min.mjs');
     ort.env.wasm.numThreads=1;
@@ -57,7 +57,7 @@ async function load(version='v1'){
   })().catch(error=>{pending.delete(version);throw error;}));
   return pending.get(version);
 }
-export async function predict(imageURL,crop,version='v1'){
+export async function predict(imageURL,crop,version='v3'){
   const {ort,session,metadata}=await load(version);
   const image=new Image();image.src=imageURL;await image.decode();
   const n=metadata.image_size,canvas=document.createElement('canvas');canvas.width=image.naturalWidth;canvas.height=image.naturalHeight;

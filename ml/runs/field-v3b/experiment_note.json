@@ -1,0 +1,7 @@
+{
+  "parent": "field-v3",
+  "change": "Unsupported PlantDoc group loss weight 1 to 4",
+  "reason": "V3 passed supported accuracy/coverage checks but falsely accepted 18 unsupported examples; release limit is 6.",
+  "reused_features": true,
+  "validation_is_development": true
+}

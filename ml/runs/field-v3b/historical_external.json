@@ -1,0 +1,18 @@
+{
+  "cohort": "Same historical PlantDoc external cohort used for V1; four supported disease classes and five unsupported tomato conditions.",
+  "supported_count": 36,
+  "supported_accuracy": 0.5,
+  "supported_accepted": 1,
+  "supported_accepted_accuracy": 1.0,
+  "unsupported_count": 41,
+  "unsupported_incorrectly_accepted": 0,
+  "threshold": 0.8,
+  "model_sha256": "d5ceb7097c39dfa58fa5031e81b5aef273bd891192c2073b53d63abbfd20043a",
+  "model_frozen_before_check": true,
+  "limitations": [
+    "Previously inspected benchmark, not a new blind or prospective farm trial.",
+    "Small cohort and only four supported disease classes; no healthy, maize or pest coverage.",
+    "Exact overlap was excluded during preparation; near-duplicates and publisher labeling errors remain possible."
+  ],
+  "passes_historical_regression": true
+}

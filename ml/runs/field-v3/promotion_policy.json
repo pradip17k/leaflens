@@ -1,0 +1,8 @@
+{
+  "threshold": 0.8,
+  "min_field_accuracy": 0.5,
+  "min_field_accepted_accuracy": 0.8,
+  "min_field_accepted_count": 20,
+  "max_unsupported_accepted": 6,
+  "min_pv_macro_f1": 0.85
+}
