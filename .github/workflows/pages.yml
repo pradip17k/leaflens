@@ -25,7 +25,7 @@ jobs:
           node --check dist/inference.mjs
           node --check dist/crops.mjs
       - name: Verify metrics and validation
-        run: node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs
+        run: node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs tests/ui.test.mjs procurement-prototype/tests/domain.test.mjs procurement-prototype/tests/storage.test.mjs
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'

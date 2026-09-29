@@ -1,0 +1,7 @@
+{
+  "name": "procureflow-prototype",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local procurement scheduling and queue management prototype",
+  "scripts": {"start": "node server.cjs", "test": "node tests/all.test.mjs"}
+}

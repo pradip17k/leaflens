@@ -1,0 +1,11 @@
+{
+  "name": "leaflens-and-procureflow",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.cjs",
+    "start:procurement": "node procurement-prototype/server.cjs",
+    "test": "node tests/all.test.mjs"
+  },
+  "engines": {"node": ">=18.20"}
+}

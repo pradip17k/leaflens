@@ -1,12 +1,18 @@
 # LeafLens — three-crop research classifier
 
-A static website with real browser-local inference for tomato, potato and maize across nine crop-specific classes. A compact CNN and pretrained MobileNetV2 are compared using the same validation split; the selected model is exported to ONNX.
+A static website with real browser-local inference for tomato, potato and maize. V3 is the default experimental model with ten supported condition classes and an unsupported-condition output. The original nine-class V1 benchmark and V2 experiment remain available for comparison.
 
 See [measured results and architecture](PROJECT_REPORT.md), [presentation outline](PRESENTATION.md), and [dataset verification](ml/multicrop-v1/VERIFICATION.md). Dataset performance is not a claim of general farm-photo accuracy.
 
+## V3 accuracy improvement
+
+V3 uses 224-pixel images and source/class-balanced training. On the same supported PlantDoc development subset, accuracy increased from V2's 38.2% to 64.0%; it accepted 24/89 predictions, all correct in that small development subset, and accepted 3/324 unsupported examples (V2: 6/324). These are reused development results, not independent proof of farm accuracy.
+
+On the frozen historical external check, accuracy was 50% on 36 supported images, but **only 1/36 was accepted**. None of 41 unsupported examples was accepted. Most field-style photographs still require expert review. See [V3 follow-up report](V3_FOLLOWUP.md), [failed initial experiment](V3_EXPERIMENT.md), and [published model card](dist/model-v3/model-card.md).
+
 ## V2 experimental option
 
-The scanner also offers an explicitly experimental model trained with PlantDoc training photographs, tomato spider-mite damage, and an unsupported-condition class. V1 remains the default and its historical test scores remain unchanged. V2 development scores were used for model selection and are **not independent field-test results**. See [V2 experiment](V2_EXPERIMENT.md) for measured comparisons, data scope and limitations.
+The scanner also offers an explicitly experimental model trained with PlantDoc training photographs, tomato spider-mite damage, and an unsupported-condition class. V1 remains available and its historical test scores remain unchanged. V2 development scores were used for model selection and are **not independent field-test results**. See [V2 experiment](V2_EXPERIMENT.md) for measured comparisons, data scope and limitations.
 
 Spider-mite damage classification does not identify insects or cover other pests. Reliable non-leaf rejection and expert-confirmed farm trials remain incomplete. The optional CIFAR object-data download stalled during this experiment and was not included in training.
 
@@ -64,6 +70,14 @@ ml/.venv/Scripts/python.exe ml/predict.py path/to/leaf.jpg --crop tomato
 ```
 
 ## Verification
+
+Run both applications' JavaScript checks, including UI-handler regressions and saved-session protection, without installing dependencies:
+
+```powershell
+npm test
+```
+
+The suite runs in one Node process, avoiding Windows test-worker subprocess restrictions. It does not substitute for browser, mobile-device, or field-photo testing.
 
 ```powershell
 node --test tests/core.test.mjs tests/inference.test.mjs tests/model-assets.test.mjs
