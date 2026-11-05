@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
+    "research:audit": "node research/audit-reliability.mjs",
     "start": "node server.cjs",
     "start:procurement": "node procurement-prototype/server.cjs",
     "test": "node tests/all.test.mjs"

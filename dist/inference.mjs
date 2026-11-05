@@ -1,3 +1,4 @@
+import {probabilities} from './reliability.mjs';
 const pending=new Map();
 // Separable, antialiased bilinear resize using Pillow's 22-bit coefficient rounding.
 // Matching training preprocessing avoids browser-specific canvas downsampling.
@@ -23,9 +24,7 @@ export function resizeRGB(rgba,width,height,size){
   return output;
 }
 export function calibratedProbabilities(logits, temperature=1){
-  if(!Number.isFinite(temperature)||temperature<=0||!logits.length||!Array.from(logits).every(Number.isFinite))throw Error('Invalid model output.');
-  const values=Array.from(logits,x=>x/temperature),top=Math.max(...values),exp=values.map(x=>Math.exp(x-top)),sum=exp.reduce((a,b)=>a+b,0);
-  return exp.map(x=>x/sum);
+  return probabilities(logits,temperature);
 }
 export function interpret(logits,metadata,crop){
   if(logits.length!==metadata.classes.length)throw Error('Model class order does not match its output.');
@@ -35,7 +34,7 @@ export function interpret(logits,metadata,crop){
   return {label,confidence:probabilities[index],probabilities,classes:metadata.classes,
     accepted:!mismatch&&probabilities[index]>=metadata.threshold,
     reason:unsupported?'This image resembles conditions outside this model’s supported classes. No disease result is accepted.':mismatch?'The predicted crop differs from your selection. Confirm the crop and retake the photo.':probabilities[index]<metadata.threshold?'The model is uncertain. Retake the photo or ask an agricultural specialist.':'This is a model prediction, not a confirmed diagnosis.',
-    model:metadata.architecture,version:metadata.version,threshold:metadata.threshold};
+    model:metadata.architecture,version:metadata.version,threshold:metadata.threshold,modelSha256:metadata.sha256};
 }
 async function load(version='v3'){
   if(!['v1','v2','v3'].includes(version))throw Error('Unknown model version.');

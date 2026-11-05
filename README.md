@@ -4,6 +4,14 @@ A static website with real browser-local inference for tomato, potato and maize.
 
 See [measured results and architecture](PROJECT_REPORT.md), [presentation outline](PRESENTATION.md), and [dataset verification](ml/multicrop-v1/VERIFICATION.md). Dataset performance is not a claim of general farm-photo accuracy.
 
+## Risk-aware research upgrade (development branch)
+
+The **Reliability lab** page adds measured probability calibration (ECE, NLL, Brier), deterministic LAC/APS prediction sets, risk–coverage curves and MSP/max-logit/energy unknown-detection comparisons. Reproduce it with `node research/audit-reliability.mjs` or `npm run research:audit`.
+
+Real image reports now explicitly request **recapture** for failed quality checks or **expert verification** for unvalidated predictions. A basic-guidance path exists but remains disabled: existing models have no matching independently evaluated reliability policy. The historical confidence acceptance flag remains a classifier diagnostic, separate from permission to give guidance. No model weights or historical benchmarks have changed.
+
+The audit divides saved V3 validation logits into temperature-fitting, conformal-calibration and audit partitions. **These examples were already used to select V3. Their new partitions are development analysis, not an independent test or a coverage guarantee.** LAC/APS currently run offline in the audit; live images do not yet receive conformal sets. See [research protocol and current status](research/PROTOCOL.md).
+
 ## V3 accuracy improvement
 
 V3 uses 224-pixel images and source/class-balanced training. On the same supported PlantDoc development subset, accuracy increased from V2's 38.2% to 64.0%; it accepted 24/89 predictions, all correct in that small development subset, and accepted 3/324 unsupported examples (V2: 6/324). These are reused development results, not independent proof of farm accuracy.

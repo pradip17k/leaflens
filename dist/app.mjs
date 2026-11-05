@@ -1,3 +1,5 @@
+import {decisionFor,triageText} from './triage.mjs';
+import {reliabilityDashboard} from './research-dashboard.mjs';
 import {MODEL_LABELS as LABELS,CLASS_NAMES,validateImageFile,inspectPixels,qualityChecks,parsePredictions as parseCSV,evaluatePredictions as calculateMetrics} from './core.mjs';
 import {cases,referenceURL,icon} from './data.mjs';
 import {crops} from './crops.mjs';
@@ -12,7 +14,7 @@ const pct=value=>`${(value*100).toFixed(1)}%`;
 const size=value=>value<1024?`${value} B`:`${(value/1024).toFixed(1)} KB`;
 const state={modelVersion:'v3',crop:'tomato',input:null,result:null,busy:false,generation:0,history:[],evaluation:null,filter:'all',query:'',error:''};
 let toastTimer;
-const pageTitles={scanner:'Leaf scanner',library:'Disease library',evaluation:'Model evaluation',history:'Session history',project:'Project guide'};
+const pageTitles={scanner:'Leaf scanner',library:'Disease library',evaluation:'Model evaluation',history:'Session history',project:'Project guide',reliability:'Reliability lab'};
 document.querySelectorAll('[data-icon]').forEach(el=>el.innerHTML=icon(el.dataset.icon));
 
 function heading(eyebrow,title,description,aside=''){
@@ -100,6 +102,7 @@ async function analyze(){
         Object.assign(report,prediction,{kind:'model',disclaimer:'Research prediction from a limited model. V2 and V3 include tomato spider-mite damage appearance, not insect identification. Non-leaf images and unsupported diseases can receive confident but incorrect results. Seek agricultural confirmation before acting.'});
       }
     }
+    if(report.kind!=='sample')report.triage=decisionFor(report,crop,report.checks);
     if(generation!==state.generation)return;
     state.result=report;state.history.unshift(report);if(state.history.length>20)state.history.pop();
     $('#history-count').textContent=state.history.length;
@@ -118,20 +121,22 @@ function renderResult(){
   el.innerHTML=reportMarkup(r)+`<div class="report-actions">${button('Save report','download','secondary','download')}${button('Print','print','quiet','print')}</div>`;
 }
 function reportMarkup(r){
+  const decision=r.triage;
+  const action=decision?`<section class="model-note"><div><strong>${esc(decision.title)}</strong><p>${esc(decision.reason)}</p>${decision.guidance?`<p>${esc(decision.guidance.text)}</p><a href="${esc(decision.guidance.source)}" target="_blank" rel="noopener">Guidance source</a>`:''}</div></section>`:'';
   if(r.kind==='model'){
-    return `<div class="result-title-row">${tag(r.accepted?'MODEL PREDICTION':'UNCERTAIN',r.accepted?'green':'amber')}<span class="micro">${esc(r.crop)}</span></div><h3 class="diagnosis">${r.accepted?CLASS_NAMES[r.label]:'Please retake or confirm.'}</h3><p>${esc(r.reason)}</p><div class="confidence-box"><div><span>Model confidence</span><strong>${(r.confidence*100).toFixed(1)}<small>%</small></strong></div><p>Model score<br>Not diagnostic certainty</p></div><p class="muted">${esc(r.model)} · ${esc(r.version)} · Runs on your device</p><details><summary>All class scores</summary><div class="probabilities">${r.classes.map((key,i)=>`<div class="probability"><div><span>${CLASS_NAMES[key]}</span><b>${(r.probabilities[i]*100).toFixed(1)}%</b></div></div>`).join('')}</div></details><p class="disclaimer">${esc(r.disclaimer)}</p><p>Photograph more leaves and consult an agricultural specialist. A healthy prediction does not rule out other conditions.</p>`;
+    return action+`<div class="result-title-row">${tag(r.accepted?'MODEL PREDICTION':'UNCERTAIN',r.accepted?'green':'amber')}<span class="micro">${esc(r.crop)}</span></div><h3 class="diagnosis">${r.accepted?CLASS_NAMES[r.label]:'Please retake or confirm.'}</h3><p>${esc(r.reason)}</p><div class="confidence-box"><div><span>Model confidence</span><strong>${(r.confidence*100).toFixed(1)}<small>%</small></strong></div><p>Model score<br>Not diagnostic certainty</p></div><p class="muted">${esc(r.model)} · ${esc(r.version)} · Runs on your device</p><details><summary>All class scores</summary><div class="probabilities">${r.classes.map((key,i)=>`<div class="probability"><div><span>${CLASS_NAMES[key]}</span><b>${(r.probabilities[i]*100).toFixed(1)}%</b></div></div>`).join('')}</div></details><p class="disclaimer">${esc(r.disclaimer)}</p><p>Photograph more leaves and consult an agricultural specialist. A healthy prediction does not rule out other conditions.</p>`;
   }
   if(r.kind==='sample'){
     const c=cases[r.key];
     return `<div class="result-title-row">${tag('SIMULATED RESULT','amber')}<span class="micro">TOMATO</span></div><h3 class="diagnosis">${c.name}</h3><p class="result-description">${c.description}</p><div class="confidence-box"><div><span>Example confidence</span><strong>${c.score.toFixed(1)}<small>%</small></strong></div><p>Preset demonstration value<br>Not measured model performance</p></div><div class="probabilities"><h4>Illustrative class distribution</h4>${Object.keys(cases).map((key,i)=>`<div class="probability"><div><span>${cases[key].name}</span><b>${c.probabilities[i].toFixed(1)}%</b></div><div class="bar"><i class="${key===r.key?'winner':''}" style="width:${c.probabilities[i]}%"></i></div></div>`).join('')}</div><div class="result-advice"><h4>${icon('leaf')} Visible reference signs</h4><p>${c.symptoms}</p></div><details class="next-step"><summary>What to do next</summary><p>${c.next}</p><a href="${referenceURL}" target="_blank" rel="noopener">Read the university extension guide ↗</a></details><p class="disclaimer">${icon('info')}${r.disclaimer}</p>`;
   }
   const flags=r.checks.filter(c=>!c.ok).length;
-  return `<div class="result-title-row">${tag('IMAGE QUALITY CHECK',flags?'amber':'green')}<span class="micro">${esc(r.crop)} · LOCAL ANALYSIS</span></div><h3 class="diagnosis">${flags?'A few details to improve.':'Your image is ready.'}</h3><p class="result-description">${flags?`${flags} capture ${flags===1?'suggestion':'suggestions'} to review before model inference.`:'The image passed the prototype’s basic capture checks.'}</p><div class="quality-list">${r.checks.map(c=>`<details class="quality-item"><summary><span class="quality-icon ${c.ok?'pass':'flag'}">${icon(c.ok?'check':'info')}</span><span>${c.label}<small>${c.value}</small></span><span class="quality-state">${c.ok?'Pass':'Review'}</span></summary><p>${c.detail}</p></details>`).join('')}</div><div class="model-note">${icon('info')}<div><strong>Prediction withheld for image quality</strong><p>Retake the photo to improve the flagged capture checks. These heuristics cannot recognize leaves or guarantee a valid input.</p></div></div><p class="disclaimer">Exposure and detail thresholds are unvalidated heuristics. A pass does not guarantee a usable model input.</p>`;
+  return action+`<div class="result-title-row">${tag('IMAGE QUALITY CHECK',flags?'amber':'green')}<span class="micro">${esc(r.crop)} · LOCAL ANALYSIS</span></div><h3 class="diagnosis">${flags?'A few details to improve.':'Your image is ready.'}</h3><p class="result-description">${flags?`${flags} capture ${flags===1?'suggestion':'suggestions'} to review before model inference.`:'The image passed the prototype’s basic capture checks.'}</p><div class="quality-list">${r.checks.map(c=>`<details class="quality-item"><summary><span class="quality-icon ${c.ok?'pass':'flag'}">${icon(c.ok?'check':'info')}</span><span>${c.label}<small>${c.value}</small></span><span class="quality-state">${c.ok?'Pass':'Review'}</span></summary><p>${c.detail}</p></details>`).join('')}</div><div class="model-note">${icon('info')}<div><strong>Prediction withheld for image quality</strong><p>Retake the photo to improve the flagged capture checks. These heuristics cannot recognize leaves or guarantee a valid input.</p></div></div><p class="disclaimer">Exposure and detail thresholds are unvalidated heuristics. A pass does not guarantee a usable model input.</p>`;
 }
 function reportText(r){
-  if(r.kind==='model')return `LEAFLENS RESEARCH PREDICTION\nCrop: ${r.crop}\nInput: ${r.name}\nModel: ${r.model} / ${r.version}\nResult: ${r.accepted?CLASS_NAMES[r.label]:'Uncertain'}\nConfidence: ${(r.confidence*100).toFixed(1)}%\n\n${r.reason}\n${r.disclaimer}\n${new Date(r.createdAt).toISOString()}\n`;
+  if(r.kind==='model')return `LEAFLENS RESEARCH PREDICTION\nCrop: ${r.crop}\nInput: ${r.name}\nModel: ${r.model} / ${r.version}\nResult: ${r.accepted?CLASS_NAMES[r.label]:'Uncertain'}\nConfidence: ${(r.confidence*100).toFixed(1)}%\n${triageText(r.triage)}\n${r.reason}\n${r.disclaimer}\n${new Date(r.createdAt).toISOString()}\n`;
   const intro=`LEAFLENS — OBSERVATION REPORT\n${new Date(r.createdAt).toLocaleString()}\n\nCrop: ${r.crop}\nInput: ${r.name}\nMode: ${r.kind==='sample'?'SIMULATED DEMO':'IMAGE QUALITY ONLY'}\n\n${r.disclaimer}\n\n`;
-  return intro+(r.kind==='sample'?`Example class: ${cases[r.key].name}\nSimulated confidence: ${r.confidence}%\n\nVisible signs: ${cases[r.key].symptoms}\n\nNext step: ${cases[r.key].next}\n\nReference: ${referenceURL}`:r.checks.map(c=>`${c.label}: ${c.ok?'PASS':'REVIEW'} — ${c.value}\n${c.detail}`).join('\n\n'))+'\n\nResearch prototype. No disease inference was performed for this demo or quality-only report.\n';
+  return intro+triageText(r.triage)+(r.kind==='sample'?`Example class: ${cases[r.key].name}\nSimulated confidence: ${r.confidence}%\n\nVisible signs: ${cases[r.key].symptoms}\n\nNext step: ${cases[r.key].next}\n\nReference: ${referenceURL}`:r.checks.map(c=>`${c.label}: ${c.ok?'PASS':'REVIEW'} — ${c.value}\n${c.detail}`).join('\n\n'))+'\n\nResearch prototype. No disease inference was performed for this demo or quality-only report.\n';
 }
 function saveFile(filename,text,type='text/plain'){
   const url=URL.createObjectURL(new Blob([text],{type}));const link=document.createElement('a');link.href=url;link.download=filename;link.click();setTimeout(()=>URL.revokeObjectURL(url),1000);
@@ -206,7 +211,12 @@ document.addEventListener('click',event=>{
   if(target.dataset.report){const report=state.history.find(r=>r.id===target.dataset.report);if(report)printReport(report);}
 });
 $('#dialog').addEventListener('click',event=>{if(event.target===$('#dialog')){const rect=$('#dialog').getBoundingClientRect();if(event.clientX<rect.left||event.clientX>rect.right||event.clientY<rect.top||event.clientY>rect.bottom)$('#dialog').close();}});
-const pages={scanner,library,evaluation,history,project};
+async function reliability(){
+  $('#content').innerHTML=heading('RELIABILITY LAB','Measure when to trust a prediction.','Development analysis of the existing V3 model. No new field-accuracy claim.')+'<p role="status">Loading measured analysis…</p>';
+  try{const response=await fetch('research/reliability-audit.json');if(!response.ok)throw Error('Analysis unavailable.');const report=await response.json();if(currentPage()==='reliability')$('#content').innerHTML=reliabilityDashboard(report);}
+  catch(error){if(currentPage()==='reliability')$('#content').innerHTML='<h1>Reliability lab</h1><p role="alert">Analysis could not load. Run the research audit and reload.</p>';}
+}
+const pages={scanner,library,evaluation,history,project,reliability};
 function currentPage(){return Object.hasOwn(pages,location.hash.slice(1))?location.hash.slice(1):'scanner';}
 function route(){
   if(location.hash==='#content'){document.querySelector('main').focus();return;}
