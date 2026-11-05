@@ -1,3 +1,4 @@
+import './reliability.test.mjs';
 import './core.test.mjs';
 import './inference.test.mjs';
 import './model-assets.test.mjs';
